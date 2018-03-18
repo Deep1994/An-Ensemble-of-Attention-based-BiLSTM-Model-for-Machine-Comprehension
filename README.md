@@ -51,3 +51,5 @@ An implementation for [SemEval 2018 Task 11: Machine Comprehension using Commons
 | Ensemble 3     |    0.7664     |   **0.7479**  |
 | 0.6            |    0.7410     |     0.7308    |
 | Ensemble 4     |  **0.7699**   |   **0.7472**  |
+
+The official leaderboard is here: [https://competitions.codalab.org/competitions/17184#results](https://competitions.codalab.org/competitions/17184#results). We ranked 8th among the 24 submissions to the task.

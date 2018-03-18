@@ -16,8 +16,6 @@ from keras.layers.wrappers import Bidirectional
 from keras.layers import Dense, Merge, Dropout, Flatten
 from keras.layers.recurrent import LSTM
 
-
-
 TRAIN_QA_DIR = "C:/Users/Deep/Desktop/SemEval t11/data/train_qa.txt" 
 TRAIN_INS_DIR = "C:/Users/Deep/Desktop/SemEval t11/data/train_ins.txt"
 DEV_QA_DIR = "C:/Users/Deep/Desktop/SemEval t11/data/dev_qa.txt"

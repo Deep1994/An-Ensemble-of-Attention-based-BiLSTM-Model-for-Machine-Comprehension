@@ -1,0 +1,1411 @@
+heating food on kitchen gas	0	Where were they heating the food?	text	On an electric stove.	On the stove/home	1
+heating food on kitchen gas	1	How many people were making the food?	text	Just one.	About 5.	0
+heating food on kitchen gas	2	Was it leftover from home or takeout?	text	Takeout	From home	1
+heating food on kitchen gas	3	What is dangerous about this?	commonsense	It creates a flame to cook with and if you aren't careful, it could start a fire in your home.	nothing	0
+heating food on kitchen gas	4	Is it hard using a gas stove?	commonsense	Yes it is.	No.	1
+heating food on kitchen gas	5	How did they like the food?	text	hated it	They loved it.	1
+heating food on kitchen gas	6	Why do you need to have a flame to cook?	commonsense	to burn it up	to have the heat	1
+heating food on kitchen gas	7	Were they heating leftovers?	text	Yes they were reheating leftovers.	No,it was fresh.	0
+heating food on kitchen gas	8	Who was cooking in the kitchen?	text	Friend	Mother.	1
+heating food on kitchen gas	9	Who is making the food?	text	The narrator's mother.	My father	0
+heating food on kitchen gas	10	What type of food were they cooking?	text	Leftovers	Frozen dinner	0
+heating food on kitchen gas	11	How did the food taste?	text	Terrible	Delicious.	1
+borrowing a book from the library	0	Have they read anything else by that book's author?	text	no	Yes, the first 4 Game of Throne books	1
+borrowing a book from the library	1	Did they have outstanding fines on their library card?	commonsense	yes, five dollars	no because they didn't pay any money when checking out	1
+borrowing a book from the library	2	Why did they borrow a book?	text	They wanted to try out a new series they'd never read	They wanted to read it before the new season started	1
+borrowing a book from the library	3	What is the genre of the book?	commonsense	Fantasy/Fiction	non-fiction	0
+borrowing a book from the library	4	What happens if they don't return the book in time?	commonsense	nothing	Receive a fine	1
+borrowing a book from the library	5	Did they need anything to borrow the book?	text	A library card	money	0
+borrowing a book from the library	6	When do they need to return the book?	text	In two weeks	2 months	0
+borrowing a book from the library	7	Did they have to pay anything to borrow the book?	text	no, it was free	yes, thirty dollars	0
+borrowing a book from the library	8	When did they go to the library?	text	After finding their library card	Before they had read any books in the series	0
+borrowing a book from the library	9	When must they return the book?	text	In 2 weeks	1 month	0
+changing batteries in an alarm clock	0	Why did they throw away the old batteries?	commonsense	They were no longer useful	The batteries were the wrong size.	0
+changing batteries in an alarm clock	1	what time of day did they change it?	text	Evening	In the morning	0
+changing batteries in an alarm clock	2	Why did they need to reset the clock?	text	It is broken.	The batteries had died and the clock was wrong	1
+changing batteries in an alarm clock	3	What size of batteries were they?	text	AA-sized batteries	C	0
+changing batteries in an alarm clock	4	How did they know it was time to change the batteries?	text	The alarm clocked had stopped.	Clock alarm went off	0
+changing batteries in an alarm clock	5	Why did they need to change the batteries?	text	The clock stopped working indicating that the batteries may have died.	Because it seemed like time to change it	0
+changing batteries in an alarm clock	6	Who helped to change the batteries?	text	No one helped	Called customer service on the phone	0
+changing batteries in an alarm clock	7	What did they do to the clock after they put in the new batteries?	text	Turned the clock off	Close the lid and adjust the time.	1
+changing batteries in an alarm clock	8	For how long did the clock need batteries?	commonsense	Two weeks	less than a day	1
+changing batteries in an alarm clock	9	Who changed the batteries in the clock?	text	The speaker	The person who borrowed the clock from someone else.	0
+changing batteries in an alarm clock	10	How did they dispose of the old batteries?	commonsense	Used them in another device	They threw them away	1
+changing batteries in an alarm clock	11	why did the clock need new batteries?	text	It was a fire alarm.	Because the batteries were dead	1
+changing batteries in an alarm clock	12	Was changing the batteries difficult?	commonsense	No	Yes	0
+going to the sauna	0	How hot was the sauna?	commonsense	Cold	hot enough for a warm steam	1
+going to the sauna	1	When did they enter the sauna?	text	after changing into swimming suit	After showering.	0
+going to the sauna	2	Did they enjoy the sauna?	text	yes, they felt much better afterwards	Not really.	0
+going to the sauna	3	did they have payment up front?	text	no, they paid afterwards	yes, they paid to enter	1
+going to the sauna	4	Who went to the sauna?	text	Her friend.	the author	1
+going to the sauna	5	How hot is it in there?	commonsense	hot enough for a warm steam	really cold	0
+going to the sauna	6	Why did they go to the sauna?	text	To try to relax	To have fun.	0
+going to the sauna	7	Where do you go to check in?	commonsense	At the front desk.	In the sauna.	0
+going to the sauna	8	What did they do before they got in the sauna?	text	changed into a bathing suit	took a bath	0
+visiting a museum	0	How many people were with them?	commonsense	three people	none	1
+visiting a museum	1	All in all, would they go back to the museum ?	text	no, it was terribly boring	yes, because there were more things to see	1
+visiting a museum	2	Did they like the museum?	text	yes, they learned so much	no, it was so boring	0
+visiting a museum	3	Who went to the museum?	text	the entire family	narrator	1
+making breakfast	0	Did they use plates?	text	yes	no	0
+making breakfast	1	Where did they cook?	commonsense	In their kitchen	bathroom	0
+making breakfast	2	Where did the people eat breakfast?	commonsense	kitchen	Restaurant	0
+making breakfast	3	What did they drink with breakfast?	text	orange juice	coffee	1
+planting a tree	0	Will they fertilize the tree?	commonsense	no	yes	1
+planting a tree	1	Why are trees important?	commonsense	create O2	because they are green	0
+planting a tree	2	Was the tree watered after planted?	text	no water	yes	1
+planting a tree	3	Were they saplings or older trees?	commonsense	old trees	saplings	1
+planting a tree	4	What did planting the tree involve?	text	Calling the utility company, digging a hole, and making sure it grows healthy	hiring someone to plant it	0
+planting a tree	5	How did they dig the hole to plant the tree?	commonsense	with a shovel	with a bulldozer	0
+planting a tree	6	Would it have been easier to plant the tree if they had help?	commonsense	yes	no	0
+making a bonfire	0	What did they use to make the bonfire?	text	wood logs	Logs,bricks,leaves.	0
+making a bonfire	1	How long did it take to build the fire?	commonsense	all day	less than an hour	1
+making a bonfire	2	did they have enough firewood	text	Yes	No	0
+making a bonfire	3	Who started the fire?	text	the author	Their cousin	0
+making a bonfire	4	What did they use for fuel?	text	Wood.	gasoline	0
+making a bonfire	5	Did they cook over the fire?	commonsense	No	yes once there were a lot of hot coals	1
+making a bonfire	6	Why were they having a bonfire?	text	to warm up	they were teaching about cooking with a campfire	1
+making a bonfire	7	why did they put the fire out	commonsense	They canceled the class	To make sure the fire didn't spread.	1
+making a bonfire	8	When did the fire go out?	commonsense	After they were done.	when it rained	0
+making a bonfire	9	who lit the fire	text	The friend.	the teacher	1
+making toasted bread	0	Did they cut up the toast before eating it?	text	Yes	No	0
+making toasted bread	1	Where did they make the toast?	text	In their kitchen.	the bedroom	0
+making toasted bread	2	Who is toasting the bread?	text	Their wife is toasting it.	the narrator	1
+making toasted bread	3	What setting did they use to toast the bread?	text	They set the knob to dark.	medium	1
+making toasted bread	4	How many pieces of bread can you put in the toaster?	text	one	two	1
+making toasted bread	5	Where was the toaster stored before making the toast?	text	In the cabinet.	On the counter	0
+making toasted bread	6	What kind of bread do they like to put in the toaster?	text	Sliced fresh bread.	Wonder bread	0
+making toasted bread	7	Did the toast come out too dark?	commonsense	No, the person choose the darkness of the toast before putting it in the toaster.	Yes, the toast was burned and had to be thrown away.	0
+going on a train	0	Were they traveling by themselves?	text	no	yes	1
+going on a train	1	Was there food offered on the train?	text	Yes, there was a dining car.	No, only at the stations.	0
+checking in at an airport	0	How long did it take to get through security?	commonsense	Less than a day	an hour	0
+checking in at an airport	1	Did they have a carry on bag?	text	No, because drugs were being smuggled	yes	1
+checking in at an airport	2	What are they wearing for the flight?	text	jacket	shorts	0
+checking in at an airport	3	Did everything go smoothly at check in?	text	No, speaker was detained for not wearing pants	Yes	1
+mailing a letter	0	When do they expect the letter to arrive to its destination?	text	One week	One day	0
+mailing a letter	1	How did the envelope get stamped?	text	The postman put a stamp on.	by the sender	1
+mailing a letter	2	Who was the letter sent to?	text	the president	Their friend Shelley	1
+mailing a letter	3	How did they get a stamp for the letter?	text	At the post office.	Store.	0
+mailing a letter	4	What is in the letter?	text	Information about their trip to Alaska	Details about their Canada trip.	0
+mailing a letter	5	Why are they mailing the letter?	text	to tell best friend about a trip	to get paid	0
+mailing a letter	6	Why did they write the letter?	text	They missed their friend.	They asked the friend to come there.	0
+going on a train	0	Why did they take the train?	text	To visit Grandma who lived upstate.	For work	0
+going on a train	1	Where did they travel to?	text	Grandma's house upstate.	Home	0
+going on a train	2	Did they sleep on the train?	text	No	Yes	0
+going on a train	3	How long did they wait at the station?	text	a long time	a short while	1
+going on a train	4	How long did they wait for the train?	text	Thirty minutes.	a short time	1
+going on a train	5	How much luggage did they bring on the train?	text	One bag was brought.	a bunch of luggage	0
+ordering a pizza	0	When will it be here?	text	It took an hour.	It took 30 minutes.	1
+ordering a pizza	1	Who ordered the pizza?	text	The narrator	The dog.	0
+ordering a pizza	2	Did they order any other entrees?	text	No	Yes	0
+ordering a pizza	3	Where did they order it?	text	Pizza Hut	from Domino's	1
+ordering a pizza	4	Would they order the same thing again?	commonsense	no	yes, it was good	1
+ordering a pizza	5	Did they use a coupon?	commonsense	No	Yes	0
+ordering a pizza	6	How long did they have to wait for the meal?	text	30 minutes	15 minutes	0
+ordering a pizza	7	Which restaurant did they order the pizza from?	text	Domino's	Pizza Hut	0
+ordering a pizza	8	What door did the pizza get delivered to?	commonsense	it didn't say.	The front door	1
+ordering a pizza	9	How much of a tip was given?	text	$5.00	$2.00	1
+going grocery shopping	0	Did they get meat?	text	Yes	No.	0
+going grocery shopping	1	How did they pay for their groceries?	text	They used a debit card.	They used cash.	0
+going grocery shopping	2	What did they do when they had their groceries?	text	Packed them into their car and drove home	Ate their groceries in the car	0
+going grocery shopping	3	When did they arrive?	text	on the way to work	After work.	1
+going grocery shopping	4	Did they have to ask for help?	commonsense	No	Yes	0
+making a bonfire	0	Who started the fire?	text	Wife.	Their husband lit it.	1
+making a bonfire	1	Where did they make the bonfire?	text	in the garage	Their fire pit	1
+making a bonfire	2	How long did it take to build the fire?	commonsense	Few minutes.	Hours	0
+making a bonfire	3	Who built the bonfire?	text	the wife	Their husband.	1
+making a bonfire	4	Had they ever built a bonfire before this one?	commonsense	Yes, they had built one before?	No, this was their first.	0
+making a bonfire	5	When did they put the logs in the fire pit?	text	They did it the next morning.	After they gathered all the logs.	1
+making a bonfire	6	Where did they build the bonfire?	text	Their fire pit	in the house	0
+making a bonfire	7	What did they do at the bonfire?	text	Talk and cook smores.	They were dancing around.	0
+answering the phone	0	Why did that person call?	commonsense	To catch up with family and friends	To pay a bill via phone	0
+answering the phone	1	Do they know them?	text	No they do not	Yes they do	1
+answering the phone	2	Why was the caller calling this person?	text	To keep in touch	To prank call them	0
+answering the phone	3	How did they answer the phone?	text	By swiping the red phone icon	Swiping the green phone icon.	1
+answering the phone	4	Was it a personal call, or a business call?	text	Business Cal	Personal call	1
+answering the phone	5	How pleasant was the phone call?	commonsense	Very nice	They are rude	0
+answering the phone	6	Did they know the caller?	text	Yes they did	No they did not	0
+unloading the dishwasher	0	How long did it take them to unload the dishwasher?	commonsense	a few minutes	an hour	0
+unloading the dishwasher	1	Who unloaded the dishwasher?	text	the narrator	Another person in the room	0
+unloading the dishwasher	2	Why did they dry the plates?	text	to remove excess water	they were melting	0
+unloading the dishwasher	3	When did they open the dishwasher?	commonsense	After they had put everything away.	After the dishwasher washed the dishes	1
+unloading the dishwasher	4	Were there any other people around?	commonsense	yes	no	1
+unloading the dishwasher	5	How many people unloaded?	text	Two	1	1
+unloading the dishwasher	6	Why did they unloaded the dishwasher?	text	it was done cleaning	they needed to clean the dishwasher	0
+cleaning up a flat	0	Did they use a mop?	text	No	Yes after sweeping	1
+cleaning up a flat	1	Is it hard work to clean the flat?	commonsense	No.	yes	0
+cleaning up a flat	2	Where did they vacuum?	text	Hardwood floor	Rooms with rugs and carpet	1
+cleaning up a flat	3	Why did the flat needed cleaning?	commonsense	It was a big mess.	The dishes were washed at the sink.	0
+setting the dining table	0	Was the meal good?	text	Yes it was delicious	No it was overcooked	0
+setting the dining table	1	Were they at home?	text	Yes	No	0
+setting the dining table	2	Why are there two glasses at each place setting?	text	One for water, one for chocolate milk	For water and drink of choice	1
+setting the dining table	3	Did they set the table for guests?	text	Yes	No	0
+setting the dining table	4	How many cups were in a setting?	text	One.	Two.	1
+setting the dining table	5	What order did they set the items on the dining table?	text	Placemat, dish, napkin, silverware, glass	Glass, silverware, dish	0
+folding clothes	0	Why were the clothes separated into separate stacks?	text	They didn't all fit in the machine at once	So they could wash like clothes with like clothes	1
+folding clothes	1	Are the clothes dry?	text	Yes the clothes were dried	no they were wet	0
+folding clothes	2	Did they immediately put the clothes away after folding them?	text	No, they put the folded clothes in the rooms of the people who own the clothes	Yes	0
+folding clothes	3	When did they start folding clothes?	commonsense	after taking them to the kids bedrooms	After they were dry.	1
+feeding a cat	0	How did they feed the cat?	text	They cut open a pouch of cat food	Quick	1
+feeding a cat	1	Whose job was it to clean the cat's food dish between feedings?	commonsense	no one cleans the bowl between feedings	The cat's owner	1
+feeding a cat	2	Who is feeding the cat?	text	Narrator	the dad	0
+feeding a cat	3	What were they doing before they fed the cat?	text	the laundry	Just waking up	1
+feeding a cat	4	What did the cat eat?	text	Fishy wet cat food	Beefy cat food	0
+feeding a cat	5	How many persons fed the cat?	text	twenty people	the cat's owner	1
+going on a date	0	Who went on the date?	text	Two strangers.	A woman and her husband.	1
+going on a date	1	How did they get to where they were going?	text	Walking	Driving	0
+going on a date	2	Did they know this person personally before the date?	text	No- it's a first date.	Yes- it's her husband	1
+going on a date	3	Does the date sound like fun?	text	No	Yes	1
+going on a date	4	How did they go on a date?	text	They drove to the park for a walk.	They walked to the park for a picnic.	1
+going on a date	5	What did they use to get there, car, bus, or walking?	text	Walking	Bus	0
+cleaning the bathroom	0	Who uses this bathroom?	commonsense	guests and family	no one uses this bathroom	0
+cleaning the bathroom	1	What cleaning products did they use?	text	they did not use supplies	Glass and toilet bowl cleaners.	1
+cleaning the bathroom	2	What tools did they use to clean the bathroom?	text	wash cloth	Glass cleaner, toilet bowl cleaner, paper towels, and a scrubber	1
+cleaning the bathroom	3	How did the bathroom look after?	commonsense	dirty	clean	1
+cleaning the bathroom	4	Where did the water come from?	commonsense	The sink.	They did not use water to clean	0
+planning a holiday trip	0	What is the weather expected to be where they are traveling?	text	Snowy and cold	Sunny and Hot	1
+planning a holiday trip	1	Who did they travel with?	text	Their family	their friends	0
+planning a holiday trip	2	Who is going on the holiday trip?	text	The Barkers and their friends	The Barker family	1
+planning a holiday trip	3	Did they visit any tourist attractions?	text	yes, they did	no, they didn't	0
+planning a holiday trip	4	Who did they go on vacation with?	text	Their friends	Their family	1
+going to the sauna	0	What should they wear?	commonsense	swimsuit or nude	jeans and a tshirt	0
+going to the sauna	1	Why did they go to the sauna?	text	They had a free coupon for a sauna session	they were stressed out	1
+going to the sauna	2	Was this for social purposes?	text	No, relaxation	Yes they were meeting friends there	0
+going to the sauna	3	When did they leave the sauna and go to the shower?	text	after an hour	When they were relaxed and ready to leave	1
+going to the sauna	4	Who went to the sauna?	text	his friends	the author	1
+going to the sauna	5	did they have a good experience?	text	Yes, it was the perfect relaxation	no, it made them more stressed out	0
+going to the sauna	6	When did they enter the sauna?	text	After the message.	First thing	0
+visiting a doctor	1	How long did they wait?	commonsense	a few minutes	long time	0
+visiting a doctor	2	Were they in a hospital?	commonsense	Yes	No	1
+visiting a doctor	3	Were they sick?	text	No	Yes	1
+visiting a doctor	4	Who went with them to the doctors?	commonsense	No one	their spouse	0
+visiting a doctor	6	Did the doctor wear a stethoscope?	commonsense	no	yes	1
+visiting a doctor	7	Did the nurses help?	text	Yes	No	0
+making a bonfire	0	Why were they having a bonfire?	text	it was cold	For fun.	1
+making a bonfire	1	Did the fire keep them warm?	commonsense	Probably yes.	Not really.	0
+making a bonfire	2	How long did the fire take to start?	text	A little while.	right away	0
+making a bonfire	3	Who went to the bonfire?	text	the story teller and friends	just the story teller	0
+making a bonfire	4	What day did they make the bonfire?	text	Yesterday.	Monday.	0
+making a bonfire	5	Had they ever built a bonfire before this one?	commonsense	No	Yes	1
+making a bonfire	6	Did they make a fire pit for the bonfire?	text	yes	no	0
+making a bonfire	7	Where did they get the wood for the bonfire?	text	In the backyard.	From the school yard	0
+making a bonfire	8	What kind of wood did they use to build the bonfire?	text	Dry wood.	Wet wood	0
+making a bonfire	9	Who started the bonfire?	text	the story teller	the dad	0
+making a flight reservation	0	Did they need a travel agent?	text	yes	no	1
+making a flight reservation	1	Was it hard to make the reservations?	text	yes	no	1
+making a flight reservation	2	When did they make the reservation?	text	Yesterday	today	0
+making a flight reservation	3	Where were they going?	text	Boston	Chicago	1
+making a flight reservation	4	Which airline are they flying on?	text	Pan Am	American Airlines	1
+making a flight reservation	5	How did they pay for their reservation?	text	credit card online	cash in person	0
+making a flight reservation	6	Did they make the reservations in person or over the phone?	text	neither they did it online	over the phone	0
+making a camping trip	0	Are they camping in a tent?	text	yes	no	0
+making a camping trip	1	do they have all the supplies?	text	NO	YES	1
+making a camping trip	2	What was in the bonfire?	text	Newspaper	wood	1
+making a camping trip	3	Where were they going to set up camp at?	text	at the campgrounds	in their backyard	0
+making a camping trip	4	How long did it take to plan the trip?	text	one week	four hours	0
+making a camping trip	5	where are they camping?	text	At a campground	nature	0
+visiting the beach	0	How did they keep lunch cold?	commonsense	a bag of ice	probably with a cooler	1
+visiting the beach	1	Did they sunbathe?	text	yes	no	0
+visiting the beach	2	Did they bring food?	text	no	yes	1
+visiting the beach	3	Did they ride the waves?	commonsense	yes	no	1
+having a barbecue	0	What type of food was barbecued?	text	Hot dogs and burgers.	ribs	0
+having a barbecue	1	Where was the barbecue held?	text	At the park	at the person's house	1
+having a barbecue	2	What kind of food was being made at the BBQ?	text	corn on the cob, brats, and chicken	All American.	1
+having a barbecue	3	When are they going to start cooking food for the barbecue?	text	the day before	When their friends arrived.	1
+having a barbecue	4	How many people came to eat the meal?	text	20.	40.	0
+having a barbecue	5	How long did the barbecue last?	text	Several hours.	All day.	0
+having a barbecue	6	How long did the food take to cook?	commonsense	Hours and hours.	Thirty minutes	1
+having a barbecue	7	Who is supplying the meats that will be grilled?	text	The guests.	the narrator	1
+going to a shopping centre	0	Where was the shopping center?	text	3 miles from her home	30 miles away.	0
+going to a shopping centre	1	Why did they need to go shopping?	text	she needed a new dress for a celebration she'll be attending	to buy new shoes	0
+going to a shopping centre	2	Were they shopping for themselves?	text	No	Yes	1
+going to a shopping centre	3	How did they get there?	text	They walked.	drove a car	1
+making scrambled eggs	0	What utensils did they use to scramble the eggs?	text	They used a whisk.	They used a fork.	0
+making scrambled eggs	1	Who was going to eat the scrambled eggs?	text	The customer at the restaurant.	The narrator	1
+making scrambled eggs	2	Who cooked the eggs?	text	The narrator	The cook at the diner.	0
+making scrambled eggs	3	Where do they put the eggs after they are stirred in the bowl?	text	in frying pan	Into the refrigerator.	0
+making scrambled eggs	4	What were the eggs cooked in?	text	stock pot	The eggs were cooked in a pan.	1
+making scrambled eggs	5	how many people were involved in cooking?	text	One person cooked.	It took 3 people to cook the eggs.	0
+making scrambled eggs	6	Why did the eggs cook?	text	The heat made them cook.	The counter heated them up.	0
+making scrambled eggs	7	How did they crack the eggs?	text	They cracked them into the pan.	using a small bowl	1
+making scrambled eggs	8	Where did they make the eggs?	commonsense	In their living room.	In their kitchen.	1
+playing tennis	0	How long were they playing tennis for?	text	A couple of hours	For fifteen minutes.	0
+playing tennis	1	Were the amateurs or professionals?	commonsense	They are professionals.	They are amateurs.	1
+playing tennis	2	Who did they play against?	text	Each other	Tennis pros	0
+making a shopping list	0	Where was the list put?	text	in trash	on their fridge	1
+making a shopping list	1	What did they write the list on?	text	Fridge	Paper	1
+making a shopping list	2	When did they go to the store?	text	Next week	the day after writing the list	1
+making a shopping list	3	Why did they write the list?	commonsense	so they could buy extra items	To make sure they were ready for shopping.	1
+making a shopping list	4	Were they outdoors when they made it?	commonsense	Yes, while having a picnic.	No.	1
+making a shopping list	5	When did they make the list?	text	Day of shopping	the day before grocery shopping	1
+making a shopping list	6	Did they take it with them to the store?	commonsense	yes	No, they memorized the list.	0
+making a shopping list	7	Did they write the list down or put it in a phone?	text	wrote it down	used a voice recorder	0
+cooking fish	0	Did anyone enjoy the fish?	text	Yes, the narrator	no	0
+cooking fish	1	Did any fish get overcooked?	commonsense	Yes, he had to give it to the cat is was so over cooked.	It was not mentioned so, no.	1
+cooking fish	2	Who is cooking the fish?	text	The narrator	The story teller's best friend	0
+cooking fish	3	Where were they cooking the fish?	commonsense	The kitchen	On the stove top at home	0
+cooking fish	4	Who ate the fish?	text	the author	The story teller's boyfriend	0
+cooking fish	5	How did they cook the fish?	text	on the grill	Baked.	1
+cooking fish	6	How many people can the fish feed?	commonsense	Enough to feed a family of 4	He only buys a pound, so one	1
+cooking fish	7	how many people helped cook the fish?	text	None	Two.	0
+going to the swimming pool	0	What are they bringing to the pool?	text	Their towels	toys	0
+going to the swimming pool	1	Did their mother take them to the pool?	text	yes	no	0
+going to the swimming pool	2	How did they get to the pool?	text	They took the bus	their mom drove them	1
+going to the swimming pool	3	Why did they have to wait to enter the pool?	text	There were too many kids in the pool	other kids were swimming	1
+going to the swimming pool	4	Why did they want to go swimming?	text	to get wet	to learn how to swim	1
+preparing dinner	0	How long did dinner take to prepare?	text	2 minutes	Over 15 minutes	1
+preparing dinner	1	How long did it take them to finish cooking?	text	1 hour	It took 15 minutes for dinner.	1
+preparing dinner	2	Was enough food prepared for the amount of guests that attended?	commonsense	No	Yes	1
+preparing dinner	3	Who prepared the dinner?	text	The cook at the diner.	A parent and child	1
+preparing dinner	4	Were they following a recipe?	commonsense	No	Yes	0
+preparing dinner	5	How much time did it take to make the food?	commonsense	2 minutes	Under an hour	1
+preparing dinner	6	how long did dinner take to make?	commonsense	4 minutes	Under an hour	1
+preparing dinner	7	How did the food taste?	commonsense	Bad	Good	1
+playing tennis	0	Was the tennis court inside or outside?	text	Inside	It was outside	1
+playing tennis	1	Did they play with a partner?	text	No	Yes	1
+playing tennis	2	Why were they playing tennis?	text	They were training for a match	They wanted to do something outside	1
+playing tennis	3	How did they score a point?	text	By hitting the tennis ball out of the court.	By bouncing twice in the opponent's side	1
+playing tennis	4	Where was the tennis court located?	text	At the gym	Near the city park	1
+making a camping trip	0	Why are they going camping?	text	To celebrate Father's day.	To celebrate Mother's Day.	1
+making a camping trip	1	How did they reach their destination?	text	They drove.	In a plane.	0
+making a camping trip	2	Are they camping in a tent?	text	No a hotel.	yes	1
+making a camping trip	3	What equipment are they bringing?	text	Baseball equipment.	Camping equipment.	1
+making a camping trip	4	Was more than one person going on the trip?	commonsense	No they were not.	Yes they were.	1
+attending a wedding ceremony	0	Who got married?	text	Two of the person's friends from college.	Two of the person's friends from church.	0
+attending a wedding ceremony	1	Where was the wedding located?	text	At a church.	In a hotel	0
+attending a wedding ceremony	2	When did they leave the ceremony?	text	After they were done taking pictures	After everyone applauded	1
+making a bonfire	0	Did they have fun?	commonsense	Yes they did.	not really	0
+making a bonfire	1	did they have enough firewood	commonsense	No they did not.	Yes they did.	1
+making a bonfire	2	why did they build a bonfire	text	So they could cook and have fun.	they were bored	0
+making a bonfire	3	Why did they have a bonfire?	text	They wanted to have a wedding	to have a family gathering	1
+making a bonfire	4	Did everyone have a good time at the bonfire?	commonsense	No they did not have a good time.	Yes they had a good time.	1
+making a bonfire	5	Did they cook any food on the fire?	text	Yes they cooked food.	No they did not cook any food.	0
+making a bonfire	6	Did they cook food over the bonfire?	text	No they did not cook any food.	Yes they cooked food.	1
+renting a movie	0	have they seen the movie before?	commonsense	The person has not seen the movie	yes	0
+renting a movie	1	who rented the movie	text	the attendant	The narrator of story.	1
+renting a movie	2	Did they use a coupon to get the movie?	commonsense	yes	No.	1
+renting a movie	3	how many movies did they rent	text	Four.	They rented one movie	1
+renting a movie	4	Was the movie one they'd seen before?	text	Yes	No.	1
+going to a shopping centre	0	Were they shopping for themselves?	commonsense	They were not shopping for anybody	yes, but also for their children	1
+going to a shopping centre	1	How long did they spend there?	commonsense	Three hours, because they shared ice cream after shopping	four hours	0
+going to a shopping centre	2	When did they go to the shopping centre?	text	at two o'clock on Saturday	last weekend	1
+going to a shopping centre	3	What did they do after shopping?	text	got ice cream and coffee	Went back to the mall.	0
+going to a shopping centre	4	Did they walk around the store?	commonsense	No.	yes	1
+going to a shopping centre	5	Did they shop for anyone in particular?	text	themselves, their kids	They didn't shop for anyone	0
+sewing a button	0	Did they lose the button on the same day they sewed the button on?	commonsense	No	Yes	0
+sewing a button	1	Did the button look good?	commonsense	No	Yes	1
+sewing a button	2	Why did they need to sew the button?	text	One button is missing	They wanted to change buttons	0
+sewing a button	3	What time of the day was it?	text	Morning	Night	0
+sewing a button	4	How does the button stay on?	text	sewn on	Glue	0
+sewing a button	5	Where did they put the shirt after they sewed the button back on?	text	They hung it up	They put it on	1
+sewing a button	6	Was it easy or difficult to sew the button?	commonsense	Difficult	Easy	1
+sewing a button	7	Was the shirt missing the button?	text	No	Yes	1
+sewing a button	8	how long did it take	text	A few minutes	A half hour	0
+flying in a plane	0	Why are they going to the destination?	text	friends wedding	to get married	0
+flying in a plane	1	How long was the plane ride?	text	A little over four hours	1 hour	0
+flying in a plane	2	Why was their flight delayed?	text	freezing rain	unruly passengers	0
+putting up a painting	0	How long did it take to hang it?	commonsense	quite awhile	days	0
+putting up a painting	1	what kind of art is it?	commonsense	Mural	Paintings of flowers	1
+putting up a painting	2	When did they put the painting up?	commonsense	just before the meeting	Before a family get-together	0
+putting up a painting	3	How long did it take them to hang the painting?	commonsense	A few days	A few minutes	1
+putting up a painting	4	Who helped them put up the painting?	text	Friend	Their daughter.	1
+putting up a painting	5	Why did they hang the painting?	text	To redecorate	To make their house look nicer	1
+putting up a painting	6	When did they hang it?	commonsense	Before friends came over	Before co workers arrived	1
+going to the sauna	0	how long did the sauna last?	text	two hours	30 minutes	1
+going to the sauna	1	Why did they want to go to the sauna?	commonsense	To relax and socialize	just to sit in a hot room	0
+going to the sauna	2	What does the steam do?	commonsense	overheats you	cleanses the pores	1
+going to the sauna	3	Did they feel better afterwards?	commonsense	yes	No, the friend was scalded by the steam and required medical treatment	0
+going to the sauna	4	Did they go with anybody else?	text	no	Yes, speaker went with a friend	1
+going to the sauna	5	Was there anyone else in the sauna?	text	no	yes	1
+preparing dinner	0	Who prepared the dinner?	text	The family	The narrator	1
+preparing dinner	1	Who is preparing dinner?	text	the author	no one	0
+preparing dinner	2	Did they use an oven?	text	yes	no	0
+preparing dinner	3	Were they in the kitchen?	commonsense	no	yes	1
+changing a light bulb	0	What did they stand on to change the light bulb?	commonsense	Floor	Chair	0
+changing a light bulb	1	How long did it take to remove the old bulb from the socket?	commonsense	One minute	Few seconds	1
+changing a light bulb	2	Did they have extra light bulbs just in case?	text	yes	no	0
+changing a light bulb	3	Who changed the light bulb?	text	a friend	the narrator	1
+changing a light bulb	4	Where did they get the light bulb?	text	From the hall closet.	From the garage.	0
+changing a light bulb	5	When did they notice the light bulb burned out?	text	The next morning	While they were reading	1
+changing a light bulb	6	When did the light bulb go out?	text	In the morning.	While they were reading	1
+changing a light bulb	7	Did they do it by them self?	text	Yes they did.	No they didn't.	0
+changing a light bulb	8	Why did the light go out?	text	The power went out	Normal usage limit	1
+changing a light bulb	9	Did they get help from someone?	text	No they did not.	Yes they did.	0
+changing a light bulb	10	How easy did it look to change the light bulb?	commonsense	It seemed hard to change it.	very easy	1
+changing a light bulb	11	How did they change the light bulb?	text	Popping the old one out and putting the new one in	Unscrewing the burned bulb and screwing in a new light bulb.	1
+washing one¡¯s hair	0	Who helped wash their hair?	text	Their stylist helped them.	Nobody.	1
+washing one¡¯s hair	1	Did they wash their hair in the sink?	text	No,they washed it in the shower.	Yes,they washed it in the sink.	0
+washing one¡¯s hair	2	Where did they wash their hair?	text	In the kitchen sink.	the bathroom	1
+washing one¡¯s hair	3	Were they alone washing their hair?	commonsense	No, their husband was in the bathroom shaving at the sink.	Yes, they are alone.	1
+washing one¡¯s hair	4	Were they at home or someplace else?	commonsense	They were at a salon.	They were at home.	1
+washing one¡¯s hair	5	Did they have the adequate necessities to wash their hair?	text	Yes, they had everything to wash their hair.	No, they were out of conditioner.	0
+washing one¡¯s hair	6	Were they talking to someone while they washed their hair?	commonsense	Yes	Probably not.	1
+washing one¡¯s hair	7	Where was this located?	text	the bathroom	It is at a hair salon.	0
+making coffee	0	How did they feel after drinking the coffee?	text	Tired.	ready to take on the day	1
+making coffee	1	Why do they drink that kind of coffee.	text	they wanted to drink a fancier coffee	that was their only choice	0
+making coffee	2	why do they drink coffee?	text	Because of feeling sad.	Tired as usual.	1
+making coffee	3	How many cups of coffee did they drink?	text	One.	6	0
+making coffee	4	How did the coffee taste	text	delicious	Horrible.	0
+making coffee	5	How much coffee did they make?	text	One cup.	Sixteen cups.	0
+making coffee	6	Who were they serving?	text	The author's friends.	themselves	1
+making coffee	7	How long did it take to make the coffee?	commonsense	1 hour	A few seconds.	1
+making coffee	8	Do they usually drink coffee?	text	Yes, they do.	No, they don't.	0
+making coffee	9	When did they get up to make the coffee?	text	in the morning	Night.	0
+borrowing a book from the library	0	Where did they find the book they wanted?	text	At the school.	At the library.	1
+borrowing a book from the library	1	Can they take the books home?	commonsense	No they can't.	Yes they can.	1
+sending party invitations	0	Who wrote all the invitations?	text	The narrator's friends	The Author	1
+sending party invitations	1	Who picked out the invitations?	text	The Author	The College gave the graduates generic invitations	0
+sending party invitations	2	Did the party invitations have any type of images on them?	commonsense	no, they were plain white	presumably yes	1
+sending party invitations	3	How easy was the process of sending invites?	commonsense	Very easy	Very hard	0
+making fresh orange juice	0	Did they enjoy it?	text	Yes	No	0
+making fresh orange juice	1	How did they get the juice from the oranges?	text	They used a juicer	They squeezed them by hand	0
+making fresh orange juice	2	What did they use to make it?	text	an electric juicer	their hands	0
+making fresh orange juice	3	Why did they want to make fresh orange juice?	text	as a special treat for her husband	Because the store was out of orange juice	0
+making fresh orange juice	4	What time of day was it made?	text	early	at night	0
+making fresh orange juice	5	Do they make juice often?	text	No this was the first time	Yes every weekend	0
+making fresh orange juice	6	Will they make juice again?	commonsense	no	probably yes	1
+making fresh orange juice	7	Were they making orange juice for someone other than themselves?	text	Just for themselves	yes the hubby	1
+making fresh orange juice	8	Was it sweet or sour?	commonsense	sour	sweet	1
+making fresh orange juice	9	Did they make a lot of juice?	text	yes	Enough for four	0
+making fresh orange juice	10	Where did they juice the oranges?	text	In the kitchen	In the bedroom	0
+making fresh orange juice	11	Did they grow their own oranges?	text	No they didn't	Yes they did	0
+making fresh orange juice	12	How did the orange juice taste?	commonsense	horrible	Good	1
+taking a driving lesson	0	Why do they need to take the lesson?	commonsense	So they can work in a bar	to learn to drive	1
+taking a driving lesson	1	Did they use their turn signals?	commonsense	No, they didn't use turn signals.	Yes, they used their turn signals.	1
+taking a driving lesson	2	Who was the driver?	commonsense	The instructor was	the narrator	1
+taking a driving lesson	3	Was the instructor a nice person?	commonsense	no	yes	1
+taking a driving lesson	4	When did they take the driving lesson?	text	when they were 16 years old	when they turned 18 years old	0
+cleaning the table	0	Was the table made of wood?	text	Yes	No.	0
+cleaning the table	1	who cleans the table?	text	The husband	His wife	1
+cleaning the table	2	Did they use moist wipes to clean the table?	text	No	Yes	0
+cleaning the table	3	What did they clean the table with?	text	Glass cleaner.	A white rag and wood cleaner	1
+cleaning the table	4	Did someone spill something on the table?	commonsense	Yes	No.	1
+cleaning the table	5	Why did the table need to be cleaned?	text	The cat had walked over it	Because of the food	1
+cleaning the table	6	Did the table have a table cloth?	commonsense	Yes	No.	1
+cleaning the table	7	What time of day did they clean the table?	text	Evening	In the morning	0
+cleaning the table	8	Who made the mess on the table?	text	They both did	The son.	0
+cleaning the table	9	When did they clean the table?	text	After dinner	Before dinner	0
+cleaning the table	10	How many guests did they have at their dinner?	commonsense	None	One.	0
+cooking fish	0	Who was waiting to eat the fish?	commonsense	Their co workers.	The scouts.	1
+cooking fish	1	Who was eating the fish?	commonsense	Girl scouts.	The narrator and his boy scout troop	1
+cooking fish	2	Was the fish cooked over a fire?	text	yes	no	0
+cooking fish	3	Where did the fish come from?	text	The store.	they caught it in a lake	1
+taking a bath	0	Was the bathtub completely filled with water?	text	no, half full	Yes	0
+taking a bath	1	How long did they take in the bath?	text	5 minutes	over an hour	1
+taking a bath	2	How long were they in the bath?	text	15 minutes	over an hour	1
+taking a bath	3	Did they use towels to dry off after bathing?	commonsense	Yes	No	0
+taking a bath	4	Was the bath for cleaning up or just pleasure and relaxation?	text	they had been in the dirt	cleaning and pleasure	1
+taking a bath	5	How long did they bathe?	text	15 minutes	over an hour	1
+taking a bath	6	Why did they stay in for a long as they did?	commonsense	They fell asleep	felt good	1
+taking a driving lesson	0	Who taught the driving lesson?	text	Scott	John.	0
+taking a driving lesson	1	Are they going to take further lessons?	commonsense	No, the student knows enough now to drive on their own.	Yes, the student needs more practice.	1
+taking a driving lesson	2	Was it an automatic or standard car?	text	automatic	Standard.	0
+taking a driving lesson	3	Who is the coach of the lesson?	text	Scott	the student's father	0
+shopping online	0	What website did they shop on?	text	Amazon.com	Ebay	0
+shopping online	1	what website was used?	text	Amazon.com	eBay	0
+shopping online	2	did they use any coupons?	commonsense	no	yes	0
+shopping online	3	Why didn't they go to a store?	text	they don't like shopping online	online shopping is easier	1
+shopping online	4	Where is the order shipping from?	text	across the country	by their house	1
+making a shopping list	0	How long did it take to write the list?	commonsense	not long	An hour	0
+making a shopping list	1	How did they decide there were enough items?	commonsense	they didn't get what they needed	Based on what the recipe called for	1
+making a shopping list	2	Did the list have expensive items?	commonsense	yes	no	1
+making a shopping list	3	Is it a list of food or other items?	text	other items	food	1
+making a shopping list	4	How long did they take to make the list?	commonsense	a few minutes	A year	0
+making a shopping list	5	What did they do after writing the list?	text	They put it in their purse	put the list on her desk	0
+changing batteries in an alarm clock	0	Why do they need an alarm clock?	commonsense	To help them wake up	They liked the noise of the buzzing	0
+changing batteries in an alarm clock	1	Who changed the batteries in the clock?	text	the author	The person at the store	0
+changing batteries in an alarm clock	2	Why do they need to change the batteries?	text	The old ones have worn out	the clock was loud	0
+changing batteries in an alarm clock	3	What kind of clock was it?	text	A grandfather clock	An alarm clock	1
+changing batteries in an alarm clock	4	Where did they put the clock after it had new batteries?	commonsense	Next to the bed	kitchen	0
+changing batteries in an alarm clock	5	How long did it take them to change the batteries?	commonsense	1 minute	1 hour	0
+changing batteries in an alarm clock	6	How many batteries did the clock need?	text	two batteries	six batteries	0
+sewing a button	0	Were they experienced in sewing?	commonsense	Yes, they were able to reattach the button with no help.	No they had to take the dress to a tailor.	0
+sewing a button	1	How long did it take them to sew the button on?	commonsense	a few minutes	an hour or two	0
+sewing a button	2	who was doing the sewing	text	it didn't say	the narrator	1
+sewing a button	3	What color is the thread being used?	commonsense	the same color as the button	It matched the dress.	1
+baking a cake	0	Is there filling in the cake?	text	no	layers were filled	0
+baking a cake	1	When will the cake be eaten?	commonsense	at party	anytime	0
+baking a cake	2	Will the baker use icing?	text	yes	Dry	0
+baking a cake	3	What ingredients do they need	commonsense	eggs,milk,oil,cake mix or flour, icing	meat	0
+baking a cake	4	Why were they celebrating with a cake?	text	The nephew requested it	Samuel's 3rd birthday	1
+baking a cake	5	Who did they make the cake for?	text	Bob	Their nephew	1
+baking a cake	6	Will it have candles placed in it?	text	yes	No Candles	0
+baking a cake	7	What are they baking?	text	A birthday cake	fish	0
+feeding a cat	0	where is the feeding dish of the cat?	text	On the table.	in the kitchen on the floor	1
+feeding a cat	1	Who fed the cat every day?	text	a cat sitter	the author	1
+feeding a cat	2	when did they feed it?	text	in the morning	at noon	1
+feeding a cat	3	How many cats were eating?	text	one	two	0
+feeding a cat	4	how much does the cat eat each time?	text	A packet of food	a can of food	0
+feeding a cat	5	When did they feed the cat?	text	at noon	at dinner time	0
+feeding a cat	6	Where did they feed the cat?	text	in the kitchen	in the laundry room	0
+packing a suitcase	0	Why did they pack their swimsuits?	text	to sleep in	Because they might swim.	1
+packing a suitcase	1	Who did the packing?	text	the mother and the  aunt	the speaker and the brother	1
+packing a suitcase	2	Why were they packing?	text	They were moving.	For a trip to see their aunt	1
+packing a suitcase	3	Do they pack more than one suitcase?	text	no	yes	1
+packing a suitcase	4	How many changes of clothing did they pack?	commonsense	3 plus a few extra for sleeping	7 plus a few extra for swimming	1
+visiting a doctor	0	Have they seen them before?	text	no	Yes, they have a long standing patient doctor relationship.	0
+visiting a doctor	1	Was it confusing?	commonsense	yes	no	1
+visiting a doctor	2	Who needed to see the doctor?	text	the narrator	her mom	0
+visiting a doctor	3	When did the doctor see them?	commonsense	two days ago	at their appointment time	1
+ironing laundry	0	Why do they need a ironing board?	text	To put the dress on.	to heat food	0
+ironing laundry	1	Did they have to do all the ironing by themselves?	text	yes	no	1
+ironing laundry	2	Did they have help?	text	Yes, her mom	A maid	0
+ironing laundry	3	What was hot?	commonsense	the dress	The iron was hot	1
+heating food on kitchen gas	0	how did they heat the food?	text	On the stove	In the microwave	0
+heating food on kitchen gas	1	why did they heat the food?	text	Because raw eggs are not nice	So they could freeze it	0
+heating food on kitchen gas	2	Is an animal involved in this activity?	text	no	yes	0
+heating food on kitchen gas	3	Why did they use the kitchen gas?	text	To cook the egg.	To heat up the kitchen.	0
+heating food on kitchen gas	4	How long did it take the food to cook?	text	1 hour	3 minutes	1
+heating food on kitchen gas	5	Does gas stink?	commonsense	yes, it does have an odor	only when coming from my dog	0
+heating food on kitchen gas	6	Were they heating it for themselves or someone else?	text	For themselves	For someone else	0
+ironing laundry	0	Why did they put water in the iron?	text	To wash the clothes	to be able to create steam	1
+ironing laundry	1	where did they iron everything?	text	In the bath tub	Upstairs	1
+ironing laundry	2	Did they need to put water iron?	text	Yes	No	0
+ironing laundry	3	Why does steam come out of it?	commonsense	because when water is heated it produces steam	They boiled the water	0
+ironing laundry	4	Where did they put the clothes?	text	In a basket	on the floor	0
+ironing laundry	5	What did they do after they ironed?	commonsense	put everything away	They put the clothes in the basket	0
+ironing laundry	6	were the clothes dirty or clean?	text	Dirty	Clean	1
+ordering a pizza	0	How many people ate the pizza?	text	one	Two	1
+ordering a pizza	1	How many people did they order for?	text	They ordered for 5 people.	They ordered for 2 people.	1
+ordering a pizza	2	How many pizzas were there?	text	They ordered one pizza.	5	0
+ordering a pizza	3	Who took the order?	commonsense	employee at the drive in	employee at the pizza place	1
+ordering a pizza	4	Did they order anything besides pizza from the restaurant?	text	Yes, they got chicken bites.	Yes, they got garlic knots.	0
+ordering a pizza	5	Why did they choose to order take out and not go out?	text	it was a beautiful day out but they didn't feel like going out	they wanted to have a fort party	1
+preparing dinner	0	What did they prepare for dinner?	text	salad and fish	spaghetti and bread	1
+preparing dinner	1	What type of meat are they cooking for dinner?	commonsense	beef	none	1
+preparing dinner	2	Did anyone hep prepare it?	text	yes, their kids	no, they did it themselves	1
+preparing dinner	3	From which store did they purchase the ingredients?	text	the closest	a convenience store	0
+preparing dinner	4	Who was making dinner?	text	the author	His family	0
+going on a train	0	How was the train ride?	text	enjoyable	Rough	0
+going on a train	1	Why were they traveling by train?	commonsense	It was affordable.	They wanted to.	1
+going on a train	2	Why did they go on the train?	text	to take a trip to NYC	It was cheap.	0
+going on a train	3	Where was the train at?	text	at the Boston train station	it was in Newark	0
+feeding the fish	0	How long did it take to feed the fish?	commonsense	less than a minute	half an hour	0
+feeding the fish	1	Why did they feed the fish?	text	They were sick	to keep them healthy	1
+feeding the fish	2	Why did the fish need to be fed?	commonsense	to live and be healthy	they didn't need food	0
+feeding the fish	3	How did the food end up in the fish tank?	text	He opened up the lid and put it there.	they did not put food in the tank	0
+feeding the fish	4	Where are the fish located?	text	In a bowl	In the tank	1
+feeding the fish	5	What are they  going to feed the fish?	text	fish food in the jar	bread	0
+feeding the fish	6	Did the fish eat everything it was given?	text	Yes they ate most of what was given	no they would not eat	0
+feeding the fish	7	What did they feed the fish?	text	Fish food from jar	worms	0
+feeding the fish	8	Did they enjoy feeding the fish?	commonsense	yes	no	0
+feeding the fish	9	Will the fish know how to eat?	commonsense	yes	no it needs spoon fed	0
+paying bills	0	What payment method did they use?	text	A credit card.	most online one bill by mail	1
+paying bills	1	Were any of the bills overdue?	commonsense	yes	no	1
+paying bills	2	How long did it take to pay them?	commonsense	Not long	A long time	0
+paying bills	3	Who got the bills out of the mailbox?	commonsense	The narrator	An adult	0
+paying bills	4	Why do they have to pay bills?	commonsense	because they like to	to keep their house, car, lights,and entertainment	1
+paying bills	5	Did they enjoy paying the bills?	commonsense	Yes	No	1
+paying bills	6	Who paid the bills?	text	Narrator's wife	Narrator	1
+making a flight reservation	0	where are they going?	text	Singapore.	Atlanta	0
+making a flight reservation	1	Who made the reservation?	text	his wife	the narrator	1
+making a flight reservation	2	Was it hard to make the reservations?	commonsense	yes	no	1
+making a flight reservation	3	Did they use a travel agent?	text	yes	no	0
+making a flight reservation	4	Why did they need a reservation?	text	to be fancy	To guarantee their flight.	1
+making a flight reservation	5	Did they make a return reservation?	text	Yes, it is included in the round trip reservation	No, they are staying in Singapore	0
+making a flight reservation	6	how did they make the reservation?	text	Online.	They called.	1
+making a flight reservation	7	who booked the flight?	text	the author	The narrator's wife	0
+changing batteries in an alarm clock	0	How were the batteries changed?	text	He took out the old ones and put in the new ones	They did not change the batteries	0
+changing batteries in an alarm clock	1	Where did they get the new batteries?	text	in the cabinet	From the utility drawer	1
+changing batteries in an alarm clock	2	How did they reprogram the clock?	text	straightened the batteries	By resetting the time	1
+changing batteries in an alarm clock	3	Do they have the batteries in there correctly?	text	Yes, they batteries are in correctly.	No, there was an upside down battery.	0
+changing batteries in an alarm clock	4	Why didn't they just buy a new alarm clock?	commonsense	There were no alarm clocks at the store.	Only the batteries needed replacing	1
+changing batteries in an alarm clock	5	Why did the batteries die?	text	They wee old and used up	They were bad batteries when bought.	0
+changing batteries in an alarm clock	6	How long did it take them to reprogram the clock?	commonsense	Several days.	Only a few minutes.	1
+changing batteries in an alarm clock	7	Did they need to go to the store to buy the batteries?	text	No, they had them already.	Yes, they went to the store.	0
+changing batteries in an alarm clock	8	How did they take out the old batteries?	text	By opening the battery case	With a screwdriver	0
+vacuuming the carpet	0	How often do they need to vacuum?	text	Every other day	Once a week.	0
+vacuuming the carpet	1	What rooms did they vacuum?	text	Living room and hallway.	Bathroom	0
+vacuuming the carpet	2	How long did it take?	commonsense	not long, maybe 20 min	1 hour	0
+vacuuming the carpet	3	What area did they vacuum last?	text	Under couch.	In the hallway.	0
+vacuuming the carpet	4	When did they start?	text	When Terri came home from school.	In the morning.	0
+vacuuming the carpet	5	Where did they put the vacuum when they were done?	text	Hallway	The closet.	1
+cooking fish	0	How did they prepare the fish?	text	They cut the meat off it, seasoned it, covered it in flour and breadcrumbs, then fried it in hot oil	Cover with plastic	0
+cooking fish	1	What kind of fish was it?	text	Drum	Salmon	0
+cooking fish	2	Did they follow a recipe to cook the fish?	commonsense	No	Yes	0
+cooking fish	3	did they like it?	text	No	Yes, this is their favorite way to cook fish	1
+cooking fish	4	Where did they get the fish?	commonsense	The grocery store	A stream	0
+cooking fish	5	Why did they want to eat the fish?	commonsense	because they were hungry	because someone told them to eat fish	0
+cooking fish	6	How did they cook the fish?	text	Baked in the oven	by cutting it and frying it	1
+packing a suitcase	0	Was it packed for more than one person?	text	No	Yes	1
+packing a suitcase	1	How full was it?	commonsense	its empty	almost full	1
+packing a suitcase	2	How large was the suitcase?	commonsense	it didn't say	medium sized	1
+packing a suitcase	3	Did everything fit in the suitcase?	commonsense	Yes	no towel not fit	0
+packing a suitcase	4	Where did they put the suitcase before filling it?	commonsense	bed	bathroom	0
+packing a suitcase	5	How did they fold the clothes?	text	Neatly So The Wouldn't Wrinkle	They did not fold the clothes.	0
+packing a suitcase	6	Where are they taking the suitcase to?	text	Six Flags	Disneyland	0
+packing a suitcase	7	How long were they packing for?	text	Two weeks	2 days	1
+packing a suitcase	8	What did they pack in the suitcase?	text	gifts, clothes, and food	Shorts, Shirts, Trunks and Toothbrushes.	1
+packing a suitcase	9	Was it a business trip?	commonsense	Yes	No	1
+packing a suitcase	10	Are they the only person packing a suitcase?	commonsense	yes only one person	no whole family	1
+packing a suitcase	11	Where were they going?	text	The Beach	Six Flags	1
+packing a suitcase	12	Are they just packing one suitcase?	commonsense	Yes	No	1
+making a bed	0	Did they make the bed nicely?	text	Yes, everything was carefully put together	No, everything was thrown sloppily on the bed.	0
+making a bed	1	Where is the bed?	commonsense	In the bedroom	In the living room.	0
+going dancing	0	Were they dancing alone?	text	No	Yes	0
+going dancing	1	Why did people dance together?	text	they hated the song that came on	They are friends.	1
+going dancing	2	Why did they go dancing at that location?	text	They knew it from past visits	it was closer to their house	0
+going dancing	3	Did they order any drinks at the club?	text	no	Yes	1
+going dancing	4	What did they do after they finished dancing?	text	they went out to a restaurant to eat something	Said goodbye and went home	1
+washing one¡¯s hair	0	Who washed their hair?	text	The narrator's friend	Narrator of story.	1
+washing one¡¯s hair	1	How long did it take to wash their hair?	commonsense	Not long	two hours	0
+washing one¡¯s hair	2	Were they satisfied with how things turned out?	commonsense	yes	no	0
+washing one¡¯s hair	3	When did they get their hair washed?	commonsense	in the morning	in the afternoon	0
+washing one¡¯s hair	4	Is the water hot or just warm?	commonsense	hot	Warm.	1
+washing one¡¯s hair	5	Would they do it again?	commonsense	No.	yes	1
+washing one¡¯s hair	6	How did their hair feel after they washed it?	text	oily	squeaky clean	1
+folding clothes	0	Who is folding the clothes?	text	they	their children	0
+folding clothes	1	Why did they need to fold the clothes?	commonsense	to keep it neat and organized	It's the law	0
+folding clothes	2	Where did they fold the clothes?	text	In the bedroom	in the laundry room	0
+folding clothes	3	When did they start folding the clothes?	text	After laundry was done	after dinner	0
+folding clothes	4	Were the clothes neat or sloppy?	text	sloppy at first, neat after	just sloppy	0
+folding clothes	5	Who was folding clothes?	text	her mom	they	1
+folding clothes	6	What method of folding did they use?	text	just tossed them in the closet willy nilly	different methods depending on the article of clothing	1
+folding clothes	7	Why did they decide to fold clothes?	commonsense	There was a threat	To keep clean & neat	1
+cooking pasta	0	How did the pasta taste?	text	Bland	delicious	1
+cooking pasta	1	How much time did the pasta boil?	text	1 hour	until tender	1
+cooking pasta	2	were they in a kitchen?	commonsense	cooked it over a campfire	Yes	1
+cooking pasta	3	What happened when it finished cooking?	text	served it to friends and family	they ate	1
+cooking pasta	4	Did they use a fork or spoon to eat the pasta?	commonsense	fork	spoon	0
+making a bed	0	Did they have to move anything out of the way to make the bed?	text	bed cover	No	1
+making a bed	1	Who made the bed?	text	The narrator	My wife did	0
+making a bed	2	Was there a comforter put onto the bed?	text	No, they put blanket on the bed.	Yes	0
+making a bed	3	Did they clean up anything else in the room?	text	yes	no	1
+washing clothes	0	How did they wash the clothes?	text	by hand	with a washing machine	1
+washing clothes	1	Who was washing the clothes?	text	the narrator	a neighbor	0
+washing clothes	2	Who did the laundry?	text	narrator	the narrator's neighbor	0
+washing clothes	3	Did they use bleach?	text	No, they did not.	Yes, they did/	1
+washing clothes	4	Did they dry the clothes right after washing them?	text	No, they left them in the washer for a few hours	yes	1
+making a bonfire	0	Who went to the bonfire?	text	the author and their friends	Friends and neighbors.	0
+making a bonfire	1	how was it possible for the fire to stay lit?	commonsense	adding more wood rekindles the flames	there was no wind to blow it out	0
+making a bonfire	2	Did they do anything else at the bonfire?	text	No, they did nothing	they shared stories	1
+making scrambled eggs	0	What meal was this?	commonsense	Breakfast	Dinner	0
+making scrambled eggs	1	When do they move the eggs around in the pan?	text	from the time they hit the pan	When the eggs are semi firm	1
+making scrambled eggs	2	Did they like their food?	commonsense	They are making the food, so yes	No, but it is all they have to eat.	0
+making scrambled eggs	3	How many do they scramble at a time?	text	2 eggs	one	0
+making scrambled eggs	4	How long did the eggs cook for?	commonsense	Few minutes	1 Hour	0
+making scrambled eggs	5	Were the scrambled eggs hot?	commonsense	No, they had been stored in the refrigerator.	Yes, they were cooked on a hot stove.	1
+making scrambled eggs	6	How many eggs did they use for the scrambled eggs?	text	3 eggs	2 eggs	1
+making scrambled eggs	7	Where were the egg shells put?	text	In bowl	The shells went into the garbage	1
+making scrambled eggs	8	How did they season the eggs?	text	Added a little salt and pepper	Taco spices	0
+renting a movie	0	is it DVD or VHS?	text	It was an old VHS from the basement	the husband rented a DVD from Redbox	1
+renting a movie	1	Where was the movie rented?	text	video store	RedBox machine	1
+renting a movie	2	Did they return the movie on time?	commonsense	No	Yes	1
+renting a movie	4	When did they rent the movie?	text	yesterday	today	0
+wrapping a gift	0	did they put a bow on their gift?	text	No they did not.	Yes they did.	1
+wrapping a gift	1	When did they use scissors to cut the paper?	text	After they measure.	after marking it	0
+wrapping a gift	2	Will she like opening the gift?	commonsense	No she will not.	Yes she will.	1
+wrapping a gift	3	Who came to help?	commonsense	mom	noone	1
+wrapping a gift	4	Who offered to help them?	commonsense	mom	Nobody	1
+packing a suitcase	0	Who packed for them?	text	A neighbor packed the Author's suitcase.	They did.	1
+packing a suitcase	1	What's in the suitcase?	text	Everything they need for a vacation	Toiletries and clothes.	0
+packing a suitcase	2	How big was the suitcase?	commonsense	Small	Large	1
+packing a suitcase	3	Why were they packing?	text	They were going on vacation	Business trip.	0
+packing a suitcase	4	Where was the suitcase packed?	commonsense	Porch	Bedroom	1
+packing a suitcase	5	Where are they taking the suitcase to?	text	They were going on vacation.	they packed the suitcase for their kid to take to camp	0
+going to the swimming pool	0	Did they swim with other people?	text	No, only porpoises	Yes, there were a dozen other people there	1
+going to the swimming pool	1	Why did they want to go swimming?	commonsense	Fun/felt  like it	For work	0
+going to the swimming pool	2	What did they do at the pool?	text	Just swim.	Swam and talked	1
+going to the swimming pool	3	Did they wear sunscreen?	text	Yes	No, they forgot and left it at home	0
+going to the swimming pool	4	When did they go swimming?	commonsense	on a cool day	yesterday	1
+going to the swimming pool	5	Did they bring towels to dry off with?	text	Yes	No, they were included in the price of admission	0
+going to the theater	0	Did they got to the movie with anyone else?	text	yes	no	0
+going to the theater	1	Did they go with anyone else?	text	yes	No.	0
+going to the theater	2	Who paid to get into the theater?	text	The narrator and their companions	It was free	0
+going to the theater	3	Did they get any snacks?	text	No snacks.	Yes	1
+washing dishes	0	How did they clean the more difficult stains?	commonsense	Threw the dish away	Scrubbed harder with the sponge	1
+washing dishes	1	Why were they washing the dishes?	commonsense	they were clean	Because the dishes were dirty	1
+washing dishes	2	Who's house were they washing the dishes in?	commonsense	Their own home.	their son's house	0
+washing dishes	3	Why did they have to do the dishes?	commonsense	they were ordered to	to stay tidy	1
+washing dishes	4	How long did it take?	commonsense	No time at all	About an hour or less.	1
+washing dishes	5	was it hard to do?	text	No, it was times consuming but easy.	Yes, it was difficult and time consuming.	0
+washing dishes	6	who do they wash dishes with	commonsense	alone	with two people	0
+washing dishes	7	Did they wash plates?	commonsense	yes, they did	No, only silverware.	0
+washing dishes	8	What kind of soap are they using to wash the dishes?	commonsense	liquid	Laundry soap	0
+washing dishes	9	Did they wash the dishes in the sink or in a dish washer?	text	In the sink	dishwasher	0
+feeding an infant	0	What did they use to wipe the infant's face?	text	A large towel	A tissue.	1
+feeding an infant	1	what temperature do they give the infant food at?	commonsense	Body temperature	It was cold milk	0
+feeding an infant	2	How often did it eat?	commonsense	many times a day	once a day	0
+feeding an infant	3	What are they feeding the baby?	text	Mother's breast milk	a bottle of formula	0
+feeding an infant	4	Who was feeding the infant?	text	The mother.	the nurse	0
+feeding an infant	5	Who was hungry?	text	The baby girl	The mother	0
+feeding an infant	6	Are they feeding the baby with warm food?	commonsense	yes	no	0
+feeding an infant	7	Did they only feed the infant because it was crying?	commonsense	Yes	No	1
+feeding an infant	8	Will the baby stop crying?	text	Yes	Not until it's 20 years old	0
+removing and replacing a garbage bag	0	What did they do after the garbage bag was removed?	text	Place in the garage	pulled the handles and tied a knot	1
+removing and replacing a garbage bag	1	How long until the garbage bag need to be removed again?	commonsense	When it's full.	When it's empty.	0
+removing and replacing a garbage bag	2	When did they remove the bag?	commonsense	When the garbage was full.	When the bag was half full.	0
+removing and replacing a garbage bag	3	Did the trash smell bad?	commonsense	yes	no	0
+removing and replacing a garbage bag	4	Was it a real garbage bag or a grocery bag?	commonsense	real garbage bag	grocery bag	0
+removing and replacing a garbage bag	5	Were they at work or at home?	commonsense	at work	Home	1
+removing and replacing a garbage bag	6	Why did the trash bag need to be changed?	commonsense	It was full.	The Author wanted another color bag in the can?	0
+boiling milk	0	What kind of pot did they use?	text	sauce pan	frying pan	0
+boiling milk	1	Who boiled the milk?	text	The person telling the story	Their mom boiled it.	0
+boiling milk	2	What container was used for boiling?	text	sauce pan	mug	0
+boiling milk	3	Who was the boiled milk for?	text	The person telling the story	It was boiled for a friend.	0
+boiling milk	4	What level of heat did they boil the milk over?	text	medium high	High heat.	0
+boiling milk	5	Where did they get the milk from?	commonsense	freezer	The refrigerator.	1
+boiling milk	6	Why did milk need to be boiled?	commonsense	To dissolve the sugar and cocoa powder	to make it hot	0
+boiling milk	7	Why did they want the milk boiled?	commonsense	For taste and because it blends more efficiently with the other ingredients	make it safe to drink	0
+boiling milk	8	What else did they add to the boiled milk?	text	cocoa and sugar	swiss miss mix	0
+going to a shopping centre	0	Why did they go to the shopping center?	text	They wanted to treat themselves to something nice	To go for dinner.	0
+going to a shopping centre	1	What did they purchase?	text	A new outfit	A book.	1
+going to a shopping centre	2	Did they meet anyone there?	commonsense	yes	No.	1
+going to a shopping centre	3	Where did they go shopping?	text	Shopping center	gas station	0
+going to a shopping centre	4	What did they do after finding what they wanted?	text	They went out to eat	Went to get gas.	1
+cleaning up a flat	0	When did they change what area they were cleaning?	commonsense	When they grew tired of cleaning an area.	When they finished the current area.	1
+cleaning up a flat	1	Are they at their house cleaning?	text	No they are not	Yes they are.	1
+cleaning up a flat	2	What day did they pick to clean the flat?	text	first day of winter	First day of spring	1
+cleaning up a flat	3	Did they clean the windows in their flat?	text	No the didn't.	Yes they did.	1
+cleaning up a flat	4	When did they start?	commonsense	The first day of spring	in the evening	0
+cleaning up a flat	5	Was a lot of soap used to clean the flat?	commonsense	no	yes	0
+cleaning the table	0	Did they reset the table after it was cleaned?	commonsense	Yes, they reset the table up.	no	1
+cleaning the table	1	does the table get very dirty?	text	Yes, the table gets dirty sometimes.	No, it is usually clean.	0
+cleaning the table	2	Why did they clean the table?	commonsense	because it was dirty	They had company coming to visit.	0
+cleaning the table	3	Were they mad that they had to clean the table?	commonsense	No they weren't mad.	Yes, they get very mad about having to do that chore.	0
+cleaning the table	4	How did they clean the table?	text	using several steps	They throw everything away.	0
+cleaning the table	5	Which table did they clean?	commonsense	The table used to serve meals	They cleaned the coffee table.	0
+shopping online	0	How long did they shop online?	text	a month	a few days	0
+shopping online	1	What will they do with the ordered object?	text	They sold it for a profit online	fix their tattoo	1
+shopping online	2	Why did they order online?	text	to get a special product	to save money	0
+shopping online	3	Who paid for it?	text	The parents of the storyteller	The author	1
+shopping online	4	How good were they savings?	commonsense	It was quickly saved up.	They were adequate for what the person needed to buy	1
+shopping online	5	Were they happy with their purchase?	commonsense	yes	no	0
+shopping online	6	When did they finish their shopping for the day?	commonsense	After researching different inks.	After they had checked out online	1
+shopping online	7	who shopped online?	text	The author	The narrators father shopped online	0
+shopping online	8	Why did they order it?	text	It was a gift for a friend	to fix their tattoo	1
+shopping online	9	what website was used?	text	Amazon	Walmart	0
+making a bed	0	Why did they make the bed?	text	It was very messy.	It was wet.	0
+making a bed	1	Whose bed are they making?	text	Their little brother's bed.	Theirs.	1
+making a bed	2	Did they use new sheets to make the bed?	text	Yes, they used new sheets.	No, they put the old ones back on.	0
+making a bed	3	How fast did they make up the bed?	commonsense	it only took a few minutes	it took several hours	0
+making a bed	4	Did they make up the bed by themselves or were they told do?	text	They were not told.	They were told.	0
+making a bed	5	Was it their own bed?	text	Yes, they made their own bed.	No, it was their parent's bed.	0
+making a bed	6	When did they make the bed?	text	After the sheets were washed	at night	0
+making a bed	7	Who made the bed?	text	the author	The housekeeper.	0
+sending food back (in a restaurant)	0	what time of day did they eat?	text	lunchtime so afternoon	morning	0
+sending food back (in a restaurant)	1	How much food was ordered?	text	a four course meal	one meal	1
+sending food back (in a restaurant)	2	Did they go back to that restaurant?	commonsense	it has yet to be determined if he'll return	yes	0
+sending food back (in a restaurant)	3	What did they order to eat?	text	Pumpkin.	grilled salmon	1
+sending food back (in a restaurant)	4	Did they bring the wrong food to the table?	text	yes	No.	0
+vacuuming the carpet	0	Why did the carpet need vacuuming?	text	it was dirty	It was too clean.	0
+vacuuming the carpet	1	Why were they happy when they finished vacuuming the room?	text	The family was home.	The carpet was clean.	1
+vacuuming the carpet	2	What did they do after they were finished vacuuming?	text	Ate a snack	Called their family to come look at the carpet.	1
+vacuuming the carpet	3	Do they know where to plug in the vacuum?	text	yes, the outlet	The vacuum does not need to be plugged it, it has a rechargeable battery.	0
+vacuuming the carpet	4	Where does the dirt go?	text	in the garbage can	in a bag	1
+baking a cake	0	Who bought the ingredients?	text	friend	narrator	1
+baking a cake	1	Did they have to deviate from their initial plans for the cake at any point in the process?	text	yes	no	1
+driving a car	0	Did they wear a seat belt?	text	Yes they wore seat belts.	No, they did not wear seat belts.	0
+driving a car	1	Who was in the car?	text	Just dad	The storyteller's family.	1
+driving a car	2	Were they safe on the trip?	commonsense	no it was a life threatening drive !	Yes,they wore seat belts.	1
+driving a car	3	Who was driving?	text	The storyteller's Dad.	Mom	0
+driving a car	4	Were there other people there?	text	No, the storyteller was alone.	Other drivers on the road	1
+driving a car	5	Why are they driving?	text	They are on a day trip	They are going to church	0
+giving a medicine to someone	0	Who told them to take the medicine?	text	the doctor	His friend	0
+giving a medicine to someone	1	How did they administer the medicine to them?	text	In a syringe	They measured a dose into the cap.	1
+giving a medicine to someone	2	Why do they give the medicine to them?	text	Based on symptom he exhibited	to help him sleep	0
+giving a medicine to someone	3	Who is taking the medicine?	text	the child	The person telling the story	0
+giving a medicine to someone	4	Where was the medicine given?	text	In the bedroom	in the bathroom	0
+giving a medicine to someone	5	Why did they give them medicine?	text	Because he was completely cured	They were sick.	1
+giving a medicine to someone	6	Who needs the medicine?	text	the child	A woman	0
+giving a medicine to someone	7	Who gave the medicine?	text	the doctor	The narrator.	1
+checking in at an airport	0	Where are they going?	text	Cancun Mexico	Jamaica	0
+checking in at an airport	1	Why did they arrive to the airport early?	text	They had no where else to be	it's required to allow enough time to get processed and screened through security	1
+checking in at an airport	2	Where were they flying to?	text	Dallas, Texas	Cancun Mexico	1
+changing bed sheets	0	Who helped change the sheets?	text	her mother	nobody	1
+changing bed sheets	1	When did they change the sheets?	text	During the weekend	During the week.	0
+changing bed sheets	2	How did they select the sheets to use?	commonsense	Mary wanted favorite color	She chose whatever was is in the closet.	0
+changing bed sheets	3	Whose bed sheets did they change?	text	Mary's	her mother's	0
+changing bed sheets	4	whose bed sheets did they belong to?	text	the mother	the person who changed the sheets	1
+changing bed sheets	5	How did the bed loo when it was done being changed?	commonsense	Nice and neat	dirty old with nice smelly sheets	0
+changing bed sheets	6	What did they do with the old sheets?	text	put them in the hamper	Put them in the washer.	0
+changing bed sheets	7	Was this at someone's home or a hotel?	text	At home.	At a hotel.	0
+changing bed sheets	8	Did they change the blanket also?	text	Yes they did.	No they did not change the blankets	1
+changing bed sheets	9	Was it a grown up changing the bed sheets?	commonsense	yes	no	1
+mowing the lawn	0	Where do they keep the lawnmower?	text	in a garage.	in a shed.	1
+mowing the lawn	1	How did they start the lawn mower?	text	Pulled the cord	They turned the key.	0
+mowing the lawn	2	Where did they mow the lawn?	text	The front and back yard at home.	library	0
+mowing the lawn	3	What did they use to mow the lawn?	text	Riding lawn mower	Their lawn mower.	1
+taking a shower	0	Were they in a hurry?	commonsense	No.	yes	0
+taking a shower	1	Had they done something beforehand that required a shower?	text	no	yes	1
+taking a shower	2	How many times did they wash their hair?	text	once	three times	0
+going grocery shopping	0	What did they buy?	text	Groceries	Tires	0
+going grocery shopping	1	Were there a lot of groceries?	commonsense	Yes, they had to replenish the groceries in the house	No	0
+going grocery shopping	2	Why did they get all that food?	text	They were out of the staples	the dog broke into the cupboards and ate a lot of the food they had	0
+cleaning the bathroom	0	Who cleaned the bathroom?	text	Themselves	a maid	0
+cleaning the bathroom	1	What did they use to clean the toilet?	text	Shower cleaner	Special toilet bowl cleaner.	1
+cleaning the bathroom	2	How did they clean the tub?	text	Washing it out with shower cleaner.	With marble cleaner	0
+cleaning the bathroom	3	What did they use to clean the bathroom floor?	text	a mop	A steam cleaner	0
+cleaning the bathroom	4	Why did they clean the bathroom?	text	It was dirty.	For money	0
+cleaning the bathroom	5	Why did they need to clean the bathroom?	text	They were paid to clean it	It's dirty	1
+making a bed	0	Who will wash the dirty sheets from the bed they changed?	commonsense	they will	No one will	0
+making a bed	1	Why was the bed messy?	commonsense	It hadn't been made	It had someone in it	0
+making a bed	2	Where is the bed?	commonsense	Bedroom	Guest room	0
+making a bed	3	Do they leave the pillows on top when they make the bed?	text	Yes they do.	No they do not.	1
+making a bed	4	Do the sheets need to be washed?	commonsense	Yes	No	0
+making a bed	5	Was there a comforter put onto the bed?	text	no, just a blanket	yes, a comforter	0
+making a bed	6	Can you make a bed after you get in it?	commonsense	No	Yes	0
+making a bed	7	Where are they making the bed, in a bedroom or in a hotel?	text	In their bedroom.	In a hotel.	0
+fueling a car	0	When did they remove the gas cap?	text	Before they paid	After they paid	1
+fueling a car	1	How did they pay for fuel?	text	With card at the pump	cash inside	0
+fueling a car	2	How long did they wait in line?	text	They didn't	one hour	0
+fueling a car	3	Who fueled the car?	text	the attendant	the driver	1
+fueling a car	4	Did they have to wait long to use a pump?	text	Yes, a very long time	no they used the pump right away	1
+fueling a car	5	Where did they fuel the car?	text	at home	At the gas station	1
+fueling a car	6	Who did they pay for the gas?	text	They paid for it with, their card	gas station attendant	0
+fueling a car	7	Why were they fueling the car?	text	the tank had a leak	for a trip	1
+fueling a car	8	Did they buy anything else besides fuel?	text	yes they bought chips	no	1
+fueling a car	9	How do they pay for the gas?	text	cash	With a card	1
+answering the phone	0	Do they know them?	text	no, it was a random caller	yes, they are friends	1
+answering the phone	1	Who answered the phone?	text	Jasmine.	Themself	1
+answering the phone	2	Was the conversation nice?	text	No.	yes	1
+answering the phone	3	Was it a pleasant call?	text	Yes	No.	0
+answering the phone	4	Was the phone answered for an emergency?	commonsense	yes	no	1
+answering the phone	5	Who was the person who called?	text	Their friend Jasmine	Their mother	0
+answering the phone	6	Why did the caller call that person?	text	To let them know they were visiting soon	To ask for money.	0
+playing a movie	0	How many movies were watched?	text	They watched three movies.	They watched one movie.	1
+playing a movie	1	Did they agree on where to go?	commonsense	yes stayed home	No.	0
+playing a movie	2	Did they enjoy the movie?	commonsense	Yes, they enjoyed the movie.	No, they didn't like it at all.	0
+playing a movie	3	What were they sitting on to watch the movie?	text	Everyone sat on the floor.	The all sat on the couch.	1
+playing a movie	4	Did they understand the movie?	commonsense	No, they didn't get it.	Yes, they understood the movie.	1
+playing a movie	5	Why did they laugh?	text	there were no funny parts	because of the funny parts	1
+playing a movie	6	Did they travel during the movie?	commonsense	yes	no	1
+playing a movie	7	Why did they play the movie?	commonsense	they didn't want to watch a movie	they wanted to see the new movie	1
+feeding a cat	0	How did they feed the cat?	text	open the can with a pull tab	by throwing the food at her	0
+feeding a cat	1	What type of meat did they feed to the cat?	text	Chicken and tuna flavored wet cat food.	Beef flavored dry food.	0
+feeding a cat	2	What is their cat¡¯s name ?	text	Paul	Gracie	1
+feeding a cat	3	What does the cat eat off of?	text	water bowl	a food dish	1
+feeding a cat	4	When did they feed the cat?	commonsense	never did	When the cat 'asked' to be fed	1
+feeding a cat	5	Why did they decide to feed the cat?	text	It was sleeping.	because the cat was asking to be fed	1
+feeding a cat	6	What did the cat eat?	text	One can of tuna and chicken flavored cat food	sardines	0
+feeding a cat	7	What meal is this?	text	breakfast	dinner	1
+cooking fish	0	Who is cooking the fish?	text	his dad	the mom	0
+cooking fish	1	why were they cooking fish?	commonsense	they have nothing else to eat	hungry	1
+cooking fish	2	Why did they use the oven?	commonsense	bake fish	to fry the fish	0
+cooking fish	3	how many people helped cook the fish?	text	the mom and dad	0	1
+making soup	0	What kind of soup was it?	text	Cream of Celery	Chicken noodle soup	1
+making soup	1	How long did they let the soup simmer on the stove?	commonsense	10 hours	for a while but not too long because it says it only took a little while	1
+making soup	2	How long did it take to make the soup?	commonsense	5 minutes	Having made soup many times I would estimate a total of 45 min with all that chopping and if the veggies were cut small enough they'd cook quickly	1
+making soup	3	Who made the soup?	text	The speaker	her mom	0
+making soup	4	What was one of the main ingredients in the soup?	text	beef	chicken, carrots, onions, celery, noodles	1
+making soup	5	How was the soup made?	text	from scratch	baked in the oven	0
+making soup	6	How did they begin making the soup?	text	By chopping up the chicken	Put water on to boil	0
+making scrambled eggs	0	When did they make the scrambled eggs?	text	first day in new place	last day in old place	0
+making scrambled eggs	1	how many people were involved in cooking?	commonsense	One	Seven	0
+making scrambled eggs	2	Where did they make the eggs?	text	garage	In their new home.	1
+making scrambled eggs	3	How did they cook the eggs?	text	in a pan	Sunny side up	0
+writing a letter	0	Why are they writing to this person?	text	To celebrate her birthday	to thank them for the birthday card	1
+writing a letter	1	What materials did they use to write the letter?	commonsense	paper and pen	plastic and markers	0
+writing a letter	2	Who is the letter for?	text	my mom	her friend in India	1
+writing a letter	3	Why did they hand write the letter instead of typing it on a computer?	text	no computer	it's more special and a better way to stay in touch	1
+writing a letter	4	Did they talk about places they went to in the letter?	text	No, they talked about places they wanted to go.	yes	1
+taking a bath	0	Do they wash their own hair?	text	no, her mother did.	yes, she did.	1
+taking a bath	1	How did the bath feel?	text	yes, the warm water was relaxing.	no, the water was too cold.	0
+taking a bath	2	Did they bathe to get clean?	text	yes, and to relax	no, they bathed to soak sore muscles	0
+taking a bath	3	Who prepared the bath?	text	The narrator	My girlfriend	0
+taking a bath	4	How big was the bathtub?	text	a deep soaking tub	Quite shallow	0
+taking a bath	5	Did the bath soap have a smell?	text	Yes, it was scented	no, no soap or bath scents were added.	0
+taking a bath	6	Why did they stay in for a long as they did?	commonsense	it was too cold	dinner was soon afterwards	1
+fueling a car	0	Who fueled the car?	text	The neighbor	the narrator	1
+fueling a car	1	Who paid for the fuel?	text	Friend.	Owner/author.	1
+fueling a car	2	Whose car were they filling?	text	The person's car	the grandmother's car	0
+fueling a car	3	Where were they filling gas?	text	Their favorite gas station	Work.	0
+fueling a car	4	How long did it take to put fuel in the car?	text	It was done quickly.	a long time	1
+fueling a car	5	Who drove to the gas station?	commonsense	The owner/author.	A friend.	0
+fueling a car	6	How did they pay for the fuel?	text	Credit card	Cash	0
+writing a letter	0	How well did they know the recipient of the letter?	text	they were writing as strangers	very well	1
+writing a letter	1	What did they use to write the letter?	text	pen and paper	Paper and pencil	0
+writing a letter	2	Who is the letter for?	text	their friend	their parents	1
+writing a letter	3	How many stamps did they use?	text	One.	4	0
+writing a letter	4	Were they sitting while they wrote the letter?	text	No, standing.	on their bed	1
+writing a letter	5	Did they write the letter at a desk?	text	No.	yes	0
+preparing a picnic	0	Who will help clean up?	commonsense	Workers.	All of them	1
+preparing a picnic	1	Who will cook the food?	commonsense	Me	It isn't being cooked at the picnic	1
+preparing a picnic	2	Where was the sun in the sky at the picnic?	commonsense	mainly above	It was hidden behind clouds	0
+preparing a picnic	3	How many people went on the picnic?	commonsense	Four.	2	0
+preparing a picnic	4	Who was present?	text	Two parents and two kids.	a class from school	0
+preparing a picnic	5	Did they stay at the picnic for a long time?	text	Yes, 5 hours	No, they left soon after they ate	0
+preparing a picnic	6	Are they only packing food items?	text	yes	No.	1
+preparing a picnic	7	what time did they make the food?	text	before 1pm or after 4pm	1 P.M.	1
+preparing a picnic	8	Could people bring their children to the picnic?	text	yes	no	0
+preparing a picnic	9	How is the weather?	commonsense	rainy	sunny	1
+cleaning the floor	0	Did they clean the floor during the day or at night time?	text	day time	night time	0
+cleaning the floor	1	Did they use a mop to clean?	text	yes	No, just a vacuum.	0
+cleaning the floor	2	Was there a spill or was it generally dirty?	commonsense	it was generally dirty from yesterday dust and dirt	Yes, there was soda all over the floor.	0
+cleaning the floor	3	What time of day did they clean?	text	7am	9 in the morning.	0
+cleaning the floor	4	Did they have to break it into two or more tasks such as sweeping and mopping?	text	Yes, they vacuumed and moped	No, they only mopped	0
+chopping vegetables	0	Did they chop each vegetable separately?	text	No they didn't.	Yes they did.	1
+chopping vegetables	1	How many vegetables did they chop?	text	Three different vegetables.	Four	0
+chopping vegetables	2	Where were the vegetables chopped?	text	on the counter top	On the cutting board.	1
+chopping vegetables	3	What will happen to the vegetables now?	text	They will be saved for lunch tomorrow	They will be put in the soup	1
+chopping vegetables	4	Were they preparing a meal?	text	no, they were preparing a snack	yes, they were preparing dinner	1
+chopping vegetables	5	When did they pull out the cutting board?	text	Before chopping the vegetables.	After chopping the celery	0
+chopping vegetables	6	Why did they need to chop vegetables?	text	To make a casserole	To add them to the soup.	1
+chopping vegetables	7	What did they chop the vegetables with?	text	Knife	An electric chopper.	0
+chopping vegetables	8	Are the chopped vegetables being used for entree?	text	No, they were being used for dessert	yes, they were being used to make the soup	1
+taking a photograph	0	When did they take the picture?	commonsense	daytime	nighttime	0
+taking a photograph	1	Was it dark when they took the photograph?	commonsense	no, it was during the day	yes, they needed flash	0
+taking a photograph	2	Where are they taking the photograph?	text	in a park	at the beach	1
+taking a photograph	3	When in the day was the photo taken?	commonsense	in the day	Afternoon	1
+taking a photograph	4	Were the people excited to have their picture taken?	commonsense	no, they weren't	yes, they were	1
+taking a photograph	5	Did they know the photographer?	text	yes, they did	no , they didn't	1
+taking a photograph	7	Was the person taking the picture nice?	commonsense	no, they were put off	Yes, they were	1
+taking a photograph	8	What were they taking a picture of?	text	their family	the beach only	0
+taking a photograph	9	Did they finish taking the photograph?	text	yes, they did	no, they didn't	0
+taking a photograph	10	What did they use to take the photograph with?	text	camera	a Canon camera	0
+making coffee	0	Was the coffee too hot?	commonsense	No	Yes	0
+making coffee	1	Who made the coffee?	text	a child	the author	1
+making coffee	2	Are they cooking meat?	text	no	yes	0
+making coffee	3	Where did they make the coffee?	text	At home	At work	0
+making coffee	4	Did they add milk or creamer?	text	Milk	Creamer	1
+making coffee	5	Who was the coffee for?	text	for the child	themselves	1
+making coffee	6	Did they like the coffee?	commonsense	Yes	No	0
+sending party invitations	0	What was the party for?	text	brothers birthday	their cousin	0
+sending party invitations	1	Why did they send invitations instead of calling everybody?	commonsense	they don't have a phone	it's more traditional to send out invitations	1
+sending party invitations	2	How easy was the process of sending invites?	commonsense	pretty simple	very hard	0
+sending party invitations	3	who is invited to the party?	commonsense	friends and family	no one was invited	0
+sending party invitations	4	Who was invited?	commonsense	family only	family and friends	1
+sending party invitations	5	Where did they drop off the invitations?	text	in mailbox	at the post office	0
+sending party invitations	6	when did they mail the invitations?	text	After the party	Before the party	1
+washing dishes	0	Did they wash dishes at home?	commonsense	Yes, they did.	No, they didn't.	0
+washing dishes	1	Did anyone help?	text	No	Yes	0
+washing dishes	2	How did they get the dishes clean?	text	they were all put into a dishwasher	they washed then dried them in batches by hand	1
+washing dishes	3	When did they start washing the dishes?	text	after a large family breakfast	after dinner	1
+washing dishes	4	How many dishes do they need to wash?	commonsense	a whole lot!	10	0
+washing dishes	5	Who dirtied the dishes?	text	The family	The dog	0
+washing dishes	6	What did they do with any food that was left on any dishes?	commonsense	Left it on there	throw it away	1
+washing dishes	7	why do they wash the dishes	text	For fun	it's their chore to do	1
+washing dishes	8	How long did it take to wash the dishes?	text	Two hours	almost 30 min	1
+calling 911	0	Did the caller get an indication that assistance was on the way?	text	Yes the 911 operator said help was on the way.	No, they were not told help was on the way.	0
+calling 911	1	Who called 911?	text	neighbor/ person telling story	The woman	0
+calling 911	2	When did they call 911?	text	They did not call 911	After seeing the man yelling at the neighbor.	1
+calling 911	3	Did the caller remain on the line while waiting for help?	text	Yes the caller remained on the line while waiting for help.	No they hung up with 911 before help arrived.	0
+calling 911	4	Where were they when they called 911?	text	outside home	inside home	1
+calling 911	5	How did the situation turn out?	text	The man was taken away by police.	The woman beat the man.	0
+calling 911	6	How did the caller realize that there was an emergency?	text	They looked out their front window and saw a man yelling at their neighbor.	The neighbor told them there was an emergency.	0
+calling 911	7	Was there a violent incident involved?	commonsense	no	Someone was in need of medical help.	0
+calling 911	8	Did they feel better after?	text	Yes	No they were still worried.	0
+calling 911	9	Who was in danger, needing emergency assistance?	text	The neighbor was in danger.	An old man	0
+sewing a button	0	Did they know how to sew on a button?	text	Yes	No	0
+sewing a button	1	Did the original button break?	text	no	yes	0
+taking a photograph	0	How many people were in the photos?	text	none	1	0
+taking a photograph	1	Was the camera nice?	text	No, a disposable.	Yes, high quality.	1
+taking a photograph	2	Was it dark when they took the photograph?	commonsense	it was nighttime	no	1
+taking a photograph	3	What was the reason for taking the photo?	text	it was cold	beautiful setting	1
+taking a photograph	4	Why were the pictures being taken?	text	Beautiful scenery.	someone asked me to	0
+taking a photograph	5	Where were they taking the photograph?	text	At the store.	forest	1
+taking a photograph	6	Where was the picture taken?	text	forest	In Mexico.	0
+taking a photograph	7	Was there a certain pose for the photo?	commonsense	Yes	No.	1
+taking a photograph	8	Did they take the photograph well or not?	text	No.	yes	1
+making coffee	0	What did they use to make the coffee?	text	Water and coffee grounds.	A kettle and some water	0
+making coffee	1	Where did they make the coffee?	text	At their home.	In the bedroom	0
+making coffee	2	Where did they drink their coffee?	text	Home	They took it to their car.	0
+making coffee	3	How much coffee was made?	text	one to three	Just one mug.	0
+making coffee	4	What did they add to their coffee?	text	Nothing it was black.	Milk and sugar	0
+making coffee	5	How did the coffee make the house smell?	commonsense	good	It didn't smell at all.	0
+making coffee	6	Who made the coffee?	text	the narrator	their cousin	0
+making coffee	7	Was the coffee too hot?	commonsense	no	yes	0
+making coffee	8	Who poured the coffee?	text	The person telling the story.	The husband of the storyteller	0
+making coffee	9	Why did they get the coffee there?	text	They couldn't afford to go buy a hot cup of coffee	they needed caffeine at home to wake up	1
+changing a light bulb	0	Did it break when it went out?	text	No	Yes	0
+changing a light bulb	1	What room had to have the light bulb changed?	text	The dining room	The living room	1
+changing a light bulb	2	Why did they cut off the power first?	commonsense	So they could see that the lamp wasn't on	For safety.	1
+changing a light bulb	3	When did the burned out light bulb get replaced?	text	When the owner found one in a drawer	When a new one had been purchased	1
+changing a light bulb	4	Who helped change the light bulb?	commonsense	No one	the clerk	0
+changing a light bulb	5	How many people helped change the light bulb?	text	Two	No one helped	1
+changing a light bulb	6	Did they use any tools to change the light bulb?	text	Yes	No	1
+changing a light bulb	7	Who changed the light bulb?	text	It didn't specify	The narrator.	1
+changing a light bulb	8	How long did it take to change the light bulb?	commonsense	A few hours	A few minutes	1
+changing a light bulb	9	Did they have to climb up to reach the light bulb?	text	Yes	No	1
+changing a light bulb	10	When did the light go out?	text	When it was knocked off the table	When the light bulb burned out	1
+changing a light bulb	11	How did they change the light bulb?	text	By unscrewing the old bulb and screwing in the new bulb	By using a stepladder	0
+folding clothes	0	How many clothes did they fold in total?	text	Three loads worth	4 loads	0
+folding clothes	1	Where did they put everything when they finished?	text	on the table	Where they belonged.	1
+folding clothes	2	who folded the clothes?	text	someone else did	The narrator	1
+folding clothes	3	When did they start folding clothes?	text	that night	The next morning	1
+folding clothes	4	Were they folding clothes for themselves or someone else?	text	Themselves	someone else	0
+boiling milk	0	Who will drink the milk once it's boiled?	commonsense	no one, it will be used to make cheese	they will	0
+boiling milk	1	What was the boiled milk for?	text	to make cottage cheese	to make hot chocolate	0
+boiling milk	2	Who boiled the milk?	text	their friend did	the author	1
+boiling milk	3	Were they making hot chocolate or something else?	text	something else	hot chocolate	0
+boiling milk	4	When did they boil the milk?	text	After selecting the appropriate pan	last month	0
+boiling milk	5	What container was used to boil the milk?	text	a wide pan	a pot	0
+boiling milk	6	Was boiled milk needed for a recipe?	text	No, but it was a cold night	yes	1
+boiling milk	7	Who wanted to boil milk?	text	the author	their friends did	0
+boiling milk	8	Did they use a potholder to remove the boiling milk for the heat source?	commonsense	yes	no	0
+boiling milk	9	How long did it take the milk to boil?	text	60 minutes	10 minutes	1
+boiling milk	10	Why did they boil the milk?	text	sterilize the milk	to make chocolate	0
+boiling milk	11	Was the hot milk good?	commonsense	yes	no	0
+making breakfast	0	In what room did they make the breakfast?	text	Living room.	In their kitchen.	1
+making breakfast	1	How does the breakfast taste?	commonsense	delicious!	It got burned.	0
+making breakfast	2	Who all ate the breakfast?	text	Three others.	The person telling the story.	1
+making breakfast	3	Why did they make breakfast?	commonsense	Because they were hungry.	They were cooking for family	0
+making breakfast	4	What time of the day is breakfast eaten?	commonsense	In the afternoon.	Usually, in the morning.	1
+sending party invitations	0	Where did they drop off the invitations?	text	They put them in their mailbox.	They took them to the post office.	1
+sending party invitations	1	Why were invitations sent out?	text	It was a Halloween party	invite friends	1
+sending party invitations	2	Why did they send invitations?	text	It was going to be Beth's birthday	It was for a Christmas party.	0
+sending party invitations	3	Why are they sending out invitations?	text	They are inviting people to Beth's birthday party.	A Halloween party.	0
+sending party invitations	4	What did they use to make the invitations?	text	They used pretty cards.	Ugly cards.	0
+sending party invitations	5	How did they mail the invitations?	text	They put them in their mailbox.	Sent in the mail	1
+sending party invitations	6	Did they enjoy sending out invitations?	text	No, it was a pain.	Yes, Beth was excited.	1
+sending party invitations	7	How did they create the invitations?	text	They typed it up.	writing them	1
+going to the theater	0	Why did they go to the theater?	text	because they love to go	they hate it there	0
+going to the theater	1	Who did they invite?	text	Their family	Their friends	1
+going to the theater	2	How did they get tickets?	text	They got them online.	Ticket booth	1
+going to the theater	3	Where did they go when the movie ended?	commonsense	Home	out dancing	0
+going to the theater	4	Will they bring a date to the theater?	text	Yes, they were bringing a date.	No, they went with friends.	1
+going to the theater	5	Did they go with anyone else?	text	Yes, they went with their friends.	No they went alone	0
+papering a room	0	Why did they paper the room?	text	They wanted new colors in the room	The old wallpaper looked bad	1
+papering a room	1	How did they get the room ready to be papered?	text	They took the old paper off	they put the paste over the old paper	0
+papering a room	2	Who papered the room?	text	Two friends	a contractor	0
+papering a room	3	Why did they decide to paper the room?	text	the old stuff looked bad	The old paint was peeling	0
+making coffee	0	How much coffee did they make?	text	enough	not a lot	0
+making coffee	1	Did they like the coffee?	commonsense	no	yes	1
+making coffee	2	Did they add sugar?	text	no	yes	1
+making coffee	3	Who made the coffee?	text	they did	waitress	0
+making coffee	4	Did they use coffee beans or ground coffee?	text	coffee beans	Coffee Ground	1
+making coffee	5	How much coffee was made?	text	none	a lot	1
+going to a funeral	0	How will the family arrive at the funeral?	text	in a funeral procession of various cars	by bus	0
+going to a funeral	1	What did they do at the funeral?	text	Played with toys	Laughed, cried, told stories about Aunt Martha and pretty much mourned her and said their good-byes	1
+going to a funeral	2	Where was the funeral held?	text	a church	A funeral home, and then Shady Oaks cemetery	1
+going to a funeral	3	Why did everyone drive in a line?	text	they didn't	So they could follow the police escort to the cemetery	1
+making scrambled eggs	0	Where were the egg shells put?	commonsense	in with the eggs	trash	1
+making scrambled eggs	1	Did they eat the eggs from a plate or a bowl?	text	in a bowl	plate	1
+making scrambled eggs	2	Where did they make the scrambled eggs?	commonsense	In their bed room	In their kitchen	1
+making scrambled eggs	3	Where did they get the eggs from?	text	the fridge.	neighbor	0
+making scrambled eggs	4	How long did the eggs cook for?	text	a few minutes.	left then on the stove to long and they burned	0
+making scrambled eggs	5	Did they add anything to the eggs?	text	yes	nothing.	0
+making scrambled eggs	6	What did they cook the eggs in?	text	a pie plate	in a non stick pan	1
+making scrambled eggs	7	How many eggs did they use for the scrambled eggs?	text	three eggs	two eggs	1
+making scrambled eggs	8	How many eggs were used?	text	three eggs	two eggs	1
+making scrambled eggs	9	How did they cook the eggs?	text	They stirred it to scramble.	very firm	0
+taking a driving lesson	0	Who was the student?	text	the author	their mom	0
+taking a driving lesson	1	Why did they want to take driving lessons?	commonsense	To apply for a job.	To get their license.	1
+ordering a pizza	0	Who ordered the pizza?	text	The dog did.	the main character	1
+ordering a pizza	1	How did the pizza taste?	text	scrumptious	Awful	0
+ordering a pizza	2	When did they pay for the pizza?	text	Once it was delivered	pre-paid when placing the order	0
+ordering a pizza	3	How did they place the order?	text	online at Domino's website	over the phone	1
+ordering a pizza	4	What door did the pizza get delivered to?	commonsense	His garage door.	front door	1
+ordering a pizza	5	Did they order anything else?	text	No.	yes	0
+ordering a pizza	6	Who cooked the pizza?	text	Domino's Pizza	the narrator	0
+ordering a pizza	7	Who is cooking the pizza?	text	Pizza Hut	Domino's Pizza	1
+ordering a pizza	8	Did they like the pizza?	text	yes	No.	0
+ordering a pizza	9	When did the pizza arrive?	text	One hour after ordering.	Soon after it was ordered	1
+setting the dining table	0	For how many people did they set the table for?	text	4	2	0
+setting the dining table	1	How did they arrange the dishes on the table?	text	Four for each person.	every place had a full setting	1
+setting the dining table	2	Where did they set up the dining table?	text	In the living room.	In the dining room.	1
+setting the dining table	3	Where all the places set in exactly the same fashion ?	text	yes	No.	0
+setting the dining table	4	Why did they set the table?	text	So that they don't use other people's silverware.	people were coming for dinner	1
+setting the dining table	5	Who was invited?	text	Some friends.	family	0
+setting the dining table	6	Why did they set that number of places?	commonsense	That's how many were coming.	To seat two people	0
+going to the sauna	0	How many other people were in the sauna?	commonsense	Someone else was in there.	none	1
+going to the sauna	1	How hot was the sauna?	text	Very hot	It was cold and not that steamy.	0
+going to the sauna	2	How long did they stay in the sauna?	text	About ten minutes.	Over thirty minutes.	0
+going to the sauna	3	Where did they sit inside the sauna?	commonsense	On a bench	On the floor	0
+cooking pasta	0	was the pasta good?	text	No,it turned out bad.	Yes,they enjoyed it.	1
+cooking pasta	1	Who cooked the pasta?	text	The narrator	The girl did.	0
+going to the swimming pool	0	Did they put on sunscreen or other protection before swimming?	text	No	Yes	1
+going to the swimming pool	1	How did they get to the pool?	text	drove	Walked	1
+going to the swimming pool	2	How long did it take them to get to the swimming pool?	commonsense	a half hour	several hours	0
+papering a room	0	Who did the work?	text	The staff at the store	Author and friend	1
+papering a room	1	Is it in their house?	text	no	yes	1
+papering a room	2	Which room did they paper?	text	Kitchen	the living room	1
+papering a room	3	Who will be helping with the papering?	text	Landlord	Author and friend	1
+papering a room	4	Who papered the room?	text	they and their friend did	professional wallpaper installers	0
+papering a room	5	What color was the wallpaper?	text	Yellow	Red	0
+preparing a picnic	0	Did they pack drinks?	text	Yes	No, they would buy them there	0
+preparing a picnic	1	What type of food will they eat?	text	Sandwiches, potato salad, and snacks	They will eat Barbeque Ribs	0
+mowing the lawn	0	Who mowed the grass?	text	just him	The speaker, his wife and mother-in-law	1
+mowing the lawn	1	Did anyone help to mow the lawn?	text	Yes	No	0
+mowing the lawn	2	Was the grass very long before they mowed the lawn?	text	Yes	No.	0
+mowing the lawn	3	Why did they need to mow the lawn?	text	The grass was too high	The grass was too low	0
+cleaning the table	0	When was the last time they were cleaned?	text	They have not been cleaned	after the last diner was finished	1
+cleaning the table	1	Where did they clean the table?	text	home	At the restaurant	1
+cleaning the table	2	Were dishes on the table?	text	yes	No dishes	0
+cleaning the table	3	Did they have to clear the table before cleaning it?	text	No, they clean around the old dishes.	Yes, they clear it.	1
+cleaning the table	4	Did anyone help them clean the table?	text	No one helped	Yes a group helped	0
+cleaning the table	5	Who are they cleaning the table for?	text	So it's clean for the next diner	Their boss.	0
+cleaning the table	6	Why did they clean the table?	text	It was dirty	They didn't clean it	0
+taking a photograph	0	Did they finish taking the photograph?	commonsense	no	yes	1
+taking a photograph	1	What type of person is taking the photograph?	text	mother	child	1
+taking a photograph	2	What camera did they use?	text	Penny's	Old camera	0
+taking a photograph	3	Did they use a tripod?	commonsense	yes	It didn't mention one, so probably not.	1
+taking a photograph	4	Why are they taking a photograph?	text	Her daughter wanted to learn.	She was being paid.	0
+taking a photograph	5	Did their arm get sore holding the camera?	commonsense	no	yes	0
+taking a photograph	6	Where was the photo taken?	text	The store	At the dog park.	1
+mowing the lawn	0	Why did they mow the lawn that day?	text	they needed lawn clippings	the grass had grown	1
+mowing the lawn	1	Did they get it all finished?	commonsense	Yes	No	0
+mowing the lawn	2	What time of the day did they mow the lawn?	text	Morning	Night	0
+mowing the lawn	3	Was the grass very high?	commonsense	yes	no	0
+mowing the lawn	4	Did they have a helper?	text	Yes	No	1
+going to the theater	0	What did they eat at the theater?	text	Flaming Hot cheetos.	Butter popcorn, a pickle, and Dr. Pepper	1
+going to the theater	1	Why did they need tickets in advance?	text	Because the theater was pretty far away	Because they only like to watch super-popular movies	0
+going to the theater	2	Where did they go to see the movie?	text	the drive thru	the movie theater	1
+going to the theater	3	Did they enjoy their day at the theater?	commonsense	No	Yes	1
+going to the theater	4	How did they get to the theater?	text	The next door neighbors took the Author to the theater.	They drove	1
+going to the theater	5	How did they get tickets?	text	They get them at the theater the day of the movie	they preordered the tickets	1
+making tea	0	How long will it take them to drink the tea?	commonsense	1 Hour	Few minutes	1
+making tea	1	How long did they put the tea bags in the water?	text	hours	no tea bags, loose tea for a few minutes	1
+making tea	2	Where was the tea made?	commonsense	in the oven	Kitchen	1
+making tea	3	where are they making tea?	text	work	Kitchen	1
+making tea	4	Did they use tea bags or tea leaves?	text	Tea bag	tea leaves	1
+making tea	5	Was there cream or milk added?	commonsense	No	yes	0
+making tea	6	How long was it before the tea was served?	text	she had some in a few min then took some to work later	hours	0
+making tea	7	What do they add to their tea?	text	honey	Salt	0
+changing bed sheets	0	What did they do to the old bed sheets?	text	Threw them into washer, then drier	Throw them away	0
+changing bed sheets	1	Do they change them overnight and sleep without sheets?	text	Yes	No	1
+changing bed sheets	2	Was this at someone's home or a hotel?	commonsense	Home	Hotel	0
+changing bed sheets	3	What kind of sheets did they put on bed?	text	fitted, flat, pillowcases	Pink sheets	0
+changing bed sheets	4	Who's bed sheets were being changed?	text	Their own	Their grandmother's	0
+changing bed sheets	5	why did the bed sheets need to be changed?	text	It was hot, and they sweated a lot the night before	they were muddy	0
+changing bed sheets	6	Did they help change the bedsheets?	text	Yes	No	0
+changing bed sheets	7	How long did it take?	commonsense	less than 10 minutes	Around two hours	1
+changing bed sheets	8	whose bed sheets did they belong to?	text	Mother	Speaker	1
+changing bed sheets	9	Who changed the bed sheets?	text	Dad	Speaker	1
+washing one¡¯s hair	0	Is the water hot or just warm?	text	They used lukewarm water.	They used hot water.	1
+washing one¡¯s hair	1	Why were they washing their hair?	commonsense	Didn't wash it	it was dirty	1
+washing one¡¯s hair	2	Who washed their hair?	text	Author	their mom	0
+washing one¡¯s hair	3	Did they need a lot of towels to dry their hair?	commonsense	no	yes	0
+washing one¡¯s hair	4	Were they wearing a shower cap?	commonsense	yes	no	1
+walking a dog	0	Does the dog like walks?	text	Yes	No	0
+walking a dog	1	Who walked the dog?	text	A hired dog walker	The author	1
+walking a dog	2	Why did they have to walk the dog?	commonsense	To train the dog	all dogs need walking	1
+walking a dog	3	Where did they go along the way?	text	The grocery store	To the park and lake	1
+walking a dog	4	Was the dog walker also the owner of the dog?	text	Yes it was the same person	NO	0
+walking a dog	5	How was the weather?	text	Sunny and warm	Wet and raining	0
+walking a dog	6	Did the dog try to run away from them?	commonsense	No	Yes	0
+walking a dog	7	Do they walk the trail?	commonsense	no, they went to the park	Yes	0
+making a shopping list	0	When did they add the first item?	text	After making a meal plan and checking the cupboard	at the store	0
+making a shopping list	1	Is it a list of food or other items?	text	Just food.	Both food and other items.	1
+making a shopping list	2	Why were they going shop?	text	For a birthday	They needed things from the grocery store.	1
+making a shopping list	3	Why did they write the list?	text	So they wouldn't forget to get the items.	As a Christmas list	0
+visiting a museum	0	Did they have dinosaurs at the museum ?	commonsense	Probably not, since it was an ART museum.	Yes	0
+visiting a museum	1	Which museum did they go to ?	text	Dallas Museum of Art	Smithsonian	0
+visiting a museum	2	Was their a tour guide?	commonsense	Yes, that is why they could only look at things for a short time.	No, or they would have mentioned it.	1
+visiting a museum	3	Did they see a famous document at the museum ?	commonsense	yes	no	1
+answering the phone	0	Did they say hello?	text	yes	No.	0
+answering the phone	1	What did they say when they picked up their phone?	text	They said "Hello, who is calling please?"	good-bye	0
+answering the phone	2	What was there greeting?	text	Hi.	hello	1
+answering the phone	3	How did they answer the phone?	text	They said "Hello, Gramma"	They said "Hello, who is calling please?"	1
+answering the phone	4	Who was the person who called?	text	Grandpa	gramma	1
+answering the phone	5	Were they very talkative?	text	Yes	No	0
+doing laundry	0	Where were they doing laundry?	commonsense	in the kitchen	At home	1
+doing laundry	1	Where was the laundry done?	commonsense	In the local laundromat.	At home	1
+doing laundry	2	Were the clothes hung on a line outside to dry?	text	no they were dried in the dryer	Yes, they were.	0
+doing laundry	3	why did they do the laundry?	commonsense	to clean their clothes	They spilled paint on all their clothes.	0
+doing laundry	4	Who did the laundry?	text	the next door neighbor	The storyteller.	1
+cleaning up toys	0	Where did the toys belong?	text	toy box, shelves, closet, corner	On the floor	0
+cleaning up toys	1	Where did they put the toys away?	text	In different places	Only on the shelf	0
+cleaning up toys	2	Why did they clean up the toys?	commonsense	Because it was a crime scene	It was messy	1
+cleaning up toys	3	How did the toys end up being left out?	commonsense	The kids didn't put them away.	The kids were too tired to clean up	0
+cleaning up toys	4	What type of toys were out?	text	Robots and drones	All kinds of toys	1
+cleaning up toys	5	Did anyone help them?	text	No they cleaned up alone	Yes, a profession "crime scene cleanup" service	0
+giving a medicine to someone	0	Who has to give them the medicine?	commonsense	The nurse.	The parent.	1
+giving a medicine to someone	1	Is the medicine hard to swallow?	commonsense	Yes	No	1
+giving a medicine to someone	2	Will the medicine make them better?	commonsense	Yes	No	0
+giving a medicine to someone	3	Who has to take the medicine?	text	the sibling	little girl	1
+making a flight reservation	0	How many tickets did they need?	text	2 each way, 4 total	five	0
+making a flight reservation	1	Are they flying alone or with someone else?	text	Some else.	Traveling alone	0
+making a flight reservation	2	Why are they traveling?	text	for vacation	Work.	0
+making a flight reservation	3	Are they flying for work or vacation?	text	work.	They are flying for vacation.	1
+making a flight reservation	4	When did they make the reservations?	commonsense	a few weeks ahead of time	Same day as traveling	0
+making a flight reservation	5	Where are they traveling to?	text	Florida.	California	0
+making a flight reservation	6	Why did they need reservations?	commonsense	They like to pay the airline.	So they could ensure a spot	1
+sending food back (in a restaurant)	0	Did they still have to pay for the meal?	text	Yes, they still paid.	no. it was free	0
+sending food back (in a restaurant)	1	What food did they order?	text	Steaks and salmon	They got a cheese pizza.	0
+sending food back (in a restaurant)	2	How did the food taste?	text	Everything was good except for the salmon.	Everything was great	0
+sending food back (in a restaurant)	3	what did they order to drink?	text	Water and iced tea	a diet coke and water	0
+sending food back (in a restaurant)	4	was the restaurant close to home?	commonsense	yes	no	0
+sending food back (in a restaurant)	5	Why were they disappointed?	text	The food was slow	Because the salmon had gone bad.	1
+going to the dentist	0	Did it hurt them to have the dentist clean their teeth?	commonsense	No	Yes	0
+going to the dentist	1	What did the dentist do to their teeth?	text	play with his teeth	examined their teeth	1
+going to the dentist	2	Did they have a cavity?	text	Yes	No	1
+going to the dentist	3	What did the dentist do for them?	text	gave them an x-ray	examine their mouth	1
+making soup	0	How did they make the soup?	text	in a microwave	by hand	1
+making soup	1	How long did it take to prepare the soup?	commonsense	2 hours	a few minutes	1
+making soup	2	Who was making the soup?	text	a professional chef	the narrator	1
+making soup	3	Was there any meat in the soup?	text	no	yes	0
+making soup	4	What ingredients were used?	text	eggs, water, soy sauce, white pepper, black vinegar, chopped green onion, * and salt	chicken, noodles, water, soy sauce, eggs	0
+making soup	5	Was the soup good?	text	no	yes	1
+making soup	6	Was the soup a microwave soup?	text	no	yes	0
+making soup	7	Where was the soup made?	text	at home	in the bedroom	0
+making soup	8	When will the soup be done?	commonsense	a few minutes	when it is cold	0
+cleaning the shower	0	Why did they clean the shower?	commonsense	It was clean	They always put it off and it needed to be cleaned.	1
+cleaning the shower	1	What cleaning materials did they use?	text	Dish soap, vinegar, and water.	Only a scrubbing brush.	0
+cleaning the shower	2	Was the cleaner in a house or another type of building?	text	In the garage	House	1
+making a camping trip	0	What snacks did they take with them?	text	snacks like pretzels	ice cream,chips	0
+making a camping trip	1	How are they getting to the camp site?	text	They are driving.	walking	0
+making a camping trip	2	do they have all the supplies?	text	Yes, they had their supplies.	No, they had to go shopping.	0
+making a camping trip	3	Where did they sleep on the trip?	text	in sleeping bags	In the car.	0
+making a camping trip	4	How long did it take to plan the trip?	text	one evening	a week	0
+making a camping trip	5	how long was the trip?	text	They stayed one night.	one week	0
+putting up a painting	0	Where are they putting the painting up at?	text	In Billy's bedroom	in the living room	0
+putting up a painting	1	What type of painting is it?	text	A picture of a bird	A picture of a locomotive	1
+putting up a painting	2	What did they need to do before hanging the painting?	text	Mark the wall	weigh the painting	0
+putting up a painting	3	how long did it take to put up?	commonsense	1 hour	few mins	1
+putting up a painting	4	Who put up the painting?	text	Tommy	Billy	1
+putting up a painting	5	How long did it take them to hang the painting?	commonsense	1 hour	Not long	1
+putting up a painting	6	Where is the best place to hang the painting?	text	In the center of the wall.	corner of his room	1
+going to the sauna	0	Why did they choose this sauna?	text	it had good reviews	Because it was local and his wife needed to relax.	1
+going to the sauna	1	Where did they sit down?	text	They sat down on the chairs.	No where, they laid down on the benches.	1
+going to the sauna	2	Why did they go to the sauna?	text	the husband had a stressful week at work	He wanted to surprise his wife so they could relax.	1
+going to the sauna	3	Where do you go to check in?	text	at the shower	They checked in with the attendant.	1
+going to the sauna	4	Was there steam in the sauna?	text	No, the sauna was broken.	Yes, they poured water over the coals and steam filled the room.	1
+going to the sauna	5	How many people went?	text	A group of people went.	two people	1
+going to the sauna	6	When did they go to the sauna?	text	On a Tuesday.	During the weekend.	1
+going to a funeral	0	Where was the funeral held?	text	New York.	Wisconsin	1
+going to a funeral	1	Why was there a funeral?	text	Grandpa died.	Grandma died.	1
+going to a funeral	2	Did they give flowers at the funeral?	commonsense	No	Yes	1
+going to a funeral	3	How did they know the deceased person?	text	She was a friend.	a relative	1
+going to a funeral	4	how did they get killed or die?	text	A stroke	cancer	0
+going to a funeral	5	Was there a video at the funeral?	text	Yes, there was a video of her life.	No	0
+going to a funeral	6	When did they go to the funeral?	text	right after the wake	the day after the wake	1
+going to a funeral	7	Why did people talk at the funeral?	commonsense	They talked about their favorite music.	To honor and remember the deceased	1
+preparing dinner	0	What did they make?	text	Steak, salad, and bread with butter.	They made a meat pie with the steak	0
+preparing dinner	1	Why did they decide to make what they did?	text	They had the ingredients in the refrigerator.	They had been planning the dinner for a week	0
+preparing dinner	2	Where was dinner prepared?	commonsense	At a friend's house	In the storyteller's kitchen.	1
+preparing dinner	3	What type of cutlery are they going to serve the dinner with?	commonsense	Forks,tongs,and knives.	Tongs,knives,and spoons.	0
+preparing dinner	4	Where did they prepare the dinner?	commonsense	In the storyteller's kitchen.	At the restaurant.	0
+having a barbecue	0	Who went to the barbeque?	text	Just their family.	Their friends.	1
+having a barbecue	1	When are they going to start cooking food for the barbecue?	text	After shopping.	after their friends arrive	0
+calling 911	0	Were they in danger at the time of calling?	commonsense	Yes	No.	1
+calling 911	1	Was there more than one person who needed help?	text	Noone else	Yes	0
+calling 911	2	When did they call?	text	After opening the door	As soon as they saw the smoke	1
+calling 911	3	Who called 911?	text	The narrator.	Neighbor called	0
+calling 911	4	How long after calling did responders show up?	text	3-4 minutes	30-40 minutes	0
+calling 911	5	How did the accident occur?	text	A person left food cooking.	The door was open	0
+calling 911	6	Why did they call 911?	text	Saw smoke	They were locked out.	0
+calling 911	7	Where were they?	text	At home	At work	0
+calling 911	8	Was there a fire?	text	No.	Yes in the kitchen	1
+calling 911	9	Where was the emergency that prompted the 911 call?	text	At the story teller's house	Their job.	0
+calling 911	10	Who was the reason they called 911?	text	Someone broke in	Dave	1
+fueling a car	0	Did they have to wait long to use a pump?	commonsense	Yes	No	1
+fueling a car	1	Did they pay with cash or a card?	text	Credit Card	cash	0
+fueling a car	2	When did they fill up the fuel?	text	After work	When the tank was empty.	0
+fueling a car	3	Did they fill the gas tank all the way?	text	Yes, the tank was filled all the way.	No, filled one gallon.	0
+fueling a car	4	Who did they pay before they put fuel in the car?	text	inside person	The machine	1
+fueling a car	5	What time of day was it when they put fuel in the car?	commonsense	evening	morning	0
+fueling a car	6	Did they remember to replace the gas cap after fueling the car?	text	Yes, he replaced the gas cap.	No,they forgot.	0
+fueling a car	7	Who is fueling the car?	text	The gas attendant	The driver.	1
+fueling a car	8	How much fuel did they put in the car?	text	The tank was filled completely.	half tank	0
+putting up a painting	0	who is the artist?	text	the daughter	Dad	0
+putting up a painting	1	How did the painting look?	commonsense	great	Bad.	0
+putting up a painting	2	How long did it take to hang it?	commonsense	probably an hour total	two days	0
+putting up a painting	3	Who put up the painting?	text	Her dad	mom	0
+putting up a painting	4	How long did it take to put up?	commonsense	all day	probably an hour	1
+putting up a painting	5	Who hung it up?	text	Dad	Tanya	0
+putting up a painting	6	How long did it take them to hang the painting?	commonsense	Not long.	two days	0
+putting up a painting	7	How did they get the painting?	text	From daughter	Bought at store	0
+cleaning the shower	0	Where are they cleaning the shower?	text	In the bathroom	In the kitchen	0
+cleaning the shower	1	why are they cleaning it?	text	it was cleaning day	it is filthy and grimy	1
+cleaning the shower	2	Why did they spray so much of the cleaner?	commonsense	Dirty	Clean	0
+cleaning the shower	3	what supplies were used?	text	only sponge	Gloves, bleach, bucket, sponge, shower cleaner	1
+cleaning the shower	4	whose shower is it?	commonsense	Their own	a friends	0
+cleaning the shower	5	What was the main reason they were cleaning the shower at that time?	text	it was cleaning day	It was filthy	1
+sending food back (in a restaurant)	0	Was it the right order?	commonsense	No, the steak was ordered rare	Yes it was perfect the first time.	0
+sending food back (in a restaurant)	1	What had they ordered?	text	Chicken	Salad and a rare steak.	1
+sending food back (in a restaurant)	2	Who took the order back?	text	The waitress took it back.	The chef	0
+sending food back (in a restaurant)	3	Was it cooked enough?	text	It was undercooked.	It was overcooked.	1
+sending food back (in a restaurant)	4	Was the replacement food better?	text	No, they had to send the replacement back.	Yes, the replacement was better.	1
+sending food back (in a restaurant)	5	What was wrong with the person's food who sent it back?	text	It was undercooked.	Their steak was overcooked.	1
+sending food back (in a restaurant)	6	Did they bring the wrong food to the table?	text	Yes, the steak was overcooked.	No they cooked it right the first time.	0
+sending food back (in a restaurant)	7	Did they like the resolution?	text	Yes, they were happy with the resolution.	No, they were very angry.	0
+preparing a picnic	0	did they have dessert?	text	No, they were on a diet.	yes	1
+preparing a picnic	1	What kind of food was made for the picnic?	text	Salad, pizza, chicken, and dessert.	salad, pizza, and dessert	1
+preparing a picnic	2	How many people went on the picnic?	text	Six	Four.	1
+preparing a picnic	3	How many people are coming to the picnic?	text	Four.	Ten	0
+preparing a picnic	4	When will the picnic end?	text	A couple of hours later.	After 30 minutes.	0
+preparing a picnic	5	Who will bring dessert?	text	His wife	His sister	1
+preparing a picnic	6	Who is packing the picnic?	text	Their children.	the narrator, his wife, and his sister	1
+answering the doorbell	0	How long had the guests been waiting at the door?	commonsense	All day	Less than 1 minute	1
+answering the doorbell	1	How did they ring the doorbell?	commonsense	By knocking on the door	By pressing a button	1
+answering the doorbell	2	Who answered the door when the doorbell rang?	text	The UPS person	The homeowner	1
+answering the doorbell	3	Did they know the person pressing the doorbell?	text	Not personally, but recognized them as a courier	No, and they could not even tell by looking at them	0
+answering the doorbell	4	Are they an expected visitor?	text	No	Yes	0
+answering the doorbell	5	When did the doorbell go off?	text	In the morning	In the afternoon	0
+answering the doorbell	6	Whose doorbell did they ring?	text	The person receiving a package	The house next door	0
+answering the doorbell	7	Is it Grandma coming to see me?	text	Yes	No, it is a courier	1
+answering the doorbell	8	How were the people who rang the doorbell traveling from home to home?	commonsense	By bus	By automobile	1
+answering the doorbell	9	Did they look through the peephole?	text	No	Yes	1
+answering the doorbell	10	Did they look out of the window before the answered the door?	text	No- the peephole	Yes	0
+mailing a letter	0	When did the letter get mailed?	text	The same day the person received a letter.	The next week	0
+mailing a letter	1	Do they expect a response to their letter?	commonsense	Yes they would need confirmation of  visit dates	No they would wait and see when the sister turned up	0
+mailing a letter	2	Where did they go to mail the letter?	text	To the post office	To the mailbox outside their house	1
+mailing a letter	3	When did they write the letter?	text	as soon as they opened the letter	a week later	0
+mailing a letter	4	Where were they when they put the letter into the envelope?	text	In the kitchen by the phone	at home	1
+mailing a letter	5	What did they write on the envelope?	text	their sister's address	her own address	0
+mailing a letter	6	At what location did they mail the letter?	text	At the post office in town	home	1
+mailing a letter	7	Who is the letter addressed to?	text	Her sister	her brother	0
+mailing a letter	8	How many stamps did they need?	commonsense	One	Seven	0
+making tea	0	How did they know when the water was boiling in the kettle?	commonsense	it made a whistle sound	it was cold	0
+making tea	1	Why did they use a kettle?	text	to drink from	to boil water	1
+making tea	2	Where are they drinking the tea?	commonsense	the bathroom	the kitchen	1
+making tea	3	What did they use to stir the tea?	text	a spoon	a knife	0
+throwing a party	0	Who threw the party?	text	The narrator (boyfriend)	The family members	0
+throwing a party	1	Was it a celebration for an achievement?	text	Yes, she graduated from college.	No, it was a birthday party.	1
+throwing a party	2	Who sent the invitations?	text	the girlfriend	boyfriend	1
+throwing a party	3	Did they have fun?	text	no it's boring	yes lots of fun	1
+unloading the dishwasher	0	Where did they put the dishes next?	text	Directly in cupboard	They first put them on the counter and then they put them in the cupboard.	1
+unloading the dishwasher	1	Where did they place the dishes after unloading them from the dishwasher?	text	They put the dishes on the counter.	They put them in the cupboard right away.	0
+unloading the dishwasher	2	Do they do this often?	commonsense	yes	no	0
+unloading the dishwasher	3	Why did they want to unload the dishwasher?	commonsense	To put dishes away	because it was Tuesday	0
+unloading the dishwasher	4	Was there any water left on the dishes?	text	no	yes	1
+changing batteries in an alarm clock	0	Who changed the batteries?	text	a salesperson	Occupant	1
+changing batteries in an alarm clock	1	how did they change the battery?	text	took it to a repair shop	they took the old batteries up and lined the new ones with the negative and positive lines	1
+changing batteries in an alarm clock	2	Why did the batteries need changing?	commonsense	Clock is broken.	The batteries were dead	1
+changing batteries in an alarm clock	3	How long did it take?	commonsense	a whole day	a few minutes	1
+changing batteries in an alarm clock	4	Why did they throw away the old batteries?	commonsense	Because he no longer needed an alarm clock	they didn't need them anymore	1
+changing batteries in an alarm clock	5	Why did they change the batteries?	text	they changed them because the old batteries were dead	no change needed	0
+changing batteries in an alarm clock	6	Why do they need to change the batteries?	text	the alarm clock didn't work	The old batteries were dead	1
+putting up a painting	0	Who hung it up?	text	wife	husband	1
+putting up a painting	1	What did the painting look like?	text	Black and white photo of daughters	flowers	0
+putting up a painting	2	What wall did they put up the painting on?	text	hall bathroom	Kitchen wall	0
+putting up a painting	3	What hanging method did they use for the painting?	text	Screws	hammer a nail	0
+putting up a painting	4	Why are they putting it up on the wall?	text	they like it	Their friend told them it would be a good idea	0
+cleaning up toys	0	How many toys were there to pick up?	commonsense	1 toy	several	1
+cleaning up toys	1	Were the toys for a young child?	commonsense	Probably, yes.	no, there are no children	0
+cleaning up toys	2	How long did it take them to clean up their toys?	commonsense	More than an hour.	About fifteen minutes.	1
+cleaning up toys	3	How often do they clean?	commonsense	never	daily	1
+cleaning up toys	4	What equipment did they need to clean the flat?	commonsense	none	a vacuum and trash bags	0
+cleaning up toys	5	When did the toys get left out?	commonsense	throughout day	After bed	0
+cleaning up toys	6	What kind of toys were there?	text	various	video games	0
+cleaning up toys	7	Who cleaned up the toys?	text	The speaker	The neighbor's kids.	0
+cleaning up toys	8	Did the person picking up the toys have any help?	text	no they did not	yes the grandmother helped	0
+cleaning up toys	9	What did they do after cleaning up?	text	They went to sleep.	they had a snack	0
+cleaning up toys	10	How long did picking up the toys take?	commonsense	About fifteen minutes.	several hours	0
+cleaning up toys	11	What did they use to clean up the toys?	commonsense	Their hands	The vacuum cleaner.	0
+giving a medicine to someone	0	What kind of medicine was it?	text	Stomach medicine.	Allergy medicine.	0
+giving a medicine to someone	1	Why did they give someone medicine?	text	to hurt someone's stomach	To help with upset stomach	1
+giving a medicine to someone	2	Who gave the medicine?	text	the little sister	parent	1
+giving a medicine to someone	3	What was their relationship with the person they were giving medicine to?	text	his uncle	Mother/son	1
+giving a medicine to someone	4	Why did they get medicine?	text	Their little boy's stomach was upset	dad was sick	0
+giving a medicine to someone	5	Will the medicine make them better?	commonsense	no it will not help	Usually, medicine makes a person feel better.	1
+giving a medicine to someone	6	What did the mother use to measure out the medicine?	text	A plastic measuring cup that came with the medication	A large spoon	0
+going to the swimming pool	0	What time of year was it?	text	It was summer time.	Fall	0
+going to the swimming pool	1	What games did they play?	text	golf	a game with a ball.	1
+going to the swimming pool	2	Did they wear sunscreen?	text	Yes	It was not stated	1
+going to the swimming pool	3	Who was overseeing the pool?	commonsense	No one.	The lifeguard	1
+cleaning up a flat	0	Did they use a vacuum cleaner?	text	Yes	No	0
+cleaning up a flat	1	Did they have to move stuff out of the way first?	text	No	Yes	1
+cleaning up a flat	2	Did they have any help cleaning their flat?	text	Yes	No	1
+cleaning up a flat	3	How good did they clean the flat?	commonsense	Not well at all	Very good	1
+cleaning up a flat	4	When did they change what area they were cleaning?	commonsense	when finished	Every half hour	0
+cleaning up a flat	5	Who helped in cleaning?	text	Roommate.	No one else.	1
+cleaning up a flat	6	How many rooms did they clean?	text	One	Four	1
+cleaning up a flat	7	Who started cleaning the flat?	text	The maid	The author	1
+cleaning up a flat	8	Who cleaned the table?	text	they did	mom cleaned the table	0
+cleaning up a flat	9	Did they clean every room?	commonsense	No	Yes	1
+removing and replacing a garbage bag	0	Where was the garbage bag changed?	text	garage	In their kitchen.	1
+removing and replacing a garbage bag	1	Why do we use garbage bags?	commonsense	for trash	for the look of the bag	0
+removing and replacing a garbage bag	2	How long did it take to replace the garbage bag?	commonsense	Just a few minutes.	More than fifteen minutes.	0
+removing and replacing a garbage bag	3	Were they doing a chore?	text	no , they weren't	yes, they were	1
+getting the newspaper	0	What did they do after they got the paper?	text	Sat at the table and read it	Tore it up	0
+getting the newspaper	1	Where was the newspaper located?	text	Basement	in periodicals on the 3rd floor	1
+getting the newspaper	2	Did they read it?	text	Yes	No.	0
+getting the newspaper	3	How long did they have to wait til they got the newspaper?	commonsense	Did not need to wait	About hour	0
+getting the newspaper	4	What did they do with the newspaper after they read it?	text	took it home	Returned the paper.	1
+visiting a museum	0	Why did they take so much time to see all of the museum?	commonsense	It is large	Never went	0
+visiting a museum	1	How big was the museum?	commonsense	very large	Small with few things to look at	0
+visiting a museum	2	All in all, would they go back to the museum ?	commonsense	No	Yes	1
+visiting a museum	3	What type of ticket did they buy?	commonsense	lottery ticket	admissions ticket	1
+visiting a museum	4	Did they have fun at the museum ?	text	No they didn't like it	Yes they enjoyed it	1
+visiting a museum	5	Why did they go to the museum?	commonsense	Because they had free tickets	they wanted to go	1
+visiting a museum	6	Why did they end up going to the museum ?	commonsense	Never went	To learn and have fun	1
+changing a baby diaper	0	Who changed the baby diaper?	commonsense	the mother	the father	1
+changing a baby diaper	1	What did they lay the baby on to change the baby's diaper?	text	Changing table.	Coffee table.	0
+changing a baby diaper	2	Why did they have to change the diaper?	commonsense	The baby had pooped.	for fun	0
+changing a baby diaper	3	How did they change the diaper?	commonsense	They had a babysitter do it	carefully	1
+changing a baby diaper	4	Where did the dirty diaper get put?	commonsense	In a garbage can.	on the floor	0
+changing a baby diaper	5	Why did the baby's diaper need to be changed?	commonsense	Their wife asked them to change the diaper	The baby had pooped.	1
+changing a baby diaper	6	Did anyone help to change the baby?	text	Yes	No.	1
+changing a baby diaper	7	who changed the diaper?	commonsense	the father	another baby	0
+changing a baby diaper	8	What did they use to clean the baby?	commonsense	a baby wipe	They didn't say.	0
+changing a baby diaper	9	Who helped them change the baby's diaper?	commonsense	No one.	the wife	0
+making coffee	0	Did the coffee taste good?	commonsense	yes	no	0
+making coffee	1	What did they use to make the coffee?	text	a coffee pot	coffee filter and hot water	1
+making coffee	2	Who drank the coffee?	text	Visitors	narrator and their wife	1
+making coffee	3	Were they tired and in need of a lift?	commonsense	no, they were fine	yes, they woke up in a bad mode and hoped the coffee would make them feel better	1
+going dancing	0	Why did they go dancing?	text	their monthly ritual	try something new	0
+going dancing	1	How long did they dance?	text	More than two hours.	They danced for one hour	1
+going dancing	2	How did they feel about the dancing?	text	they love it	they hate it	0
+going dancing	3	Where were they dancing?	text	home	At the club.	1
+going dancing	4	Who was with them when they were out dancing ?	text	no one was with them	a few of their friends	1
+going dancing	5	Is there a dance contest ?	text	Yes there is.	No there is not.	1
+going dancing	6	What time did they begin dancing?	text	in the afternoon	evening	1
+going to a shopping centre	0	Why did they go shopping?	commonsense	just to look at people	Because they wanted to.	1
+going to a shopping centre	1	What did they buy?	text	Electronics.	Clothes.	1
+going to a shopping centre	2	Was there a food court?	commonsense	yes	no there was no food there	0
+making a camping trip	0	Why are they going camping?	text	for work	to have fun	1
+making a camping trip	1	Who will be camping with them?	text	the speaker and friends	their family	0
+making a camping trip	2	How will they cook their food?	text	They will cook with deep fryer	Campfire.	1
+making a camping trip	3	Were they going to camp out in the forest?	commonsense	Yes	No.	0
+making a camping trip	4	where did they go?	text	a national park	Disney park	0
+making a camping trip	5	Where would they be traveling to?	text	a national park	trailer park	0
+feeding a cat	0	What does the cat eat off of?	text	A bowl	A mat on the floor.	0
+feeding a cat	1	Who normally fed the cat?	text	A neighbor	the narrator	1
+feeding a cat	2	How eager was the cat to eat the food?	text	Very Eager	the cat didn't want to eat	0
+feeding a cat	3	who fed it?	text	the narrator	Author's mother	0
+feeding a cat	4	Why did the cat meow?	text	He wants to be fed	it needed to go outside	0
+feeding a cat	5	Do other cats live with the cat that was fed?	commonsense	Yes, a whole litter of 12 cats	no	1
+feeding a cat	6	Did the cat look particularly hungry ?	commonsense	Yes	Nope	0
+feeding a cat	7	what time of day does the cat eat?	text	night	Morning	1
+feeding a cat	8	Who purchased the cat food?	commonsense	The narrator	The cat.	0
+going on a train	0	Did they order any food on the train?	text	No only drinks	yes, a sandwich	0
+going on a train	1	Where did they go?	text	New York City	To Boston	1
+going on a train	2	Did they enjoy the train ride?	commonsense	The train was delayed and they did not enjoy the ride.	yes	1
+going on a train	3	How long was the train ride?	text	Approximately two hours.	two days	0
+going on a train	4	Did they sit by a window?	text	No, they did not.	Yes, they did.	1
+mowing the lawn	0	Why did they mow the grass?	commonsense	to make their yard look nice	They were forced to mow it by the neighborhood board	0
+mowing the lawn	1	How many people were mowing the lawn?	text	Two	One	1
+mowing the lawn	2	What did they drink while mowing?	text	Tea	Water	1
+mowing the lawn	3	Who mowed the lawn?	text	The narrator	The neighbor	0
+mowing the lawn	4	Where did they put the mower after it was finished?	commonsense	The garage	a shed	0
+mowing the lawn	5	What time of the day did they mow the lawn?	text	Afternoon	The morning	1
+mowing the lawn	6	Did anyone help to mow the lawn?	text	Yes	No	1
+getting a haircut	0	Where did they cut their hair?	text	In the bathroom	In the barber shop	1
+getting a haircut	1	Who cut their hair?	text	The barber	The hair stylist	1
+getting a haircut	2	Is this taking place in a business or a residence?	text	Business	Residence	0
+getting a haircut	3	When did they get their hair cut?	text	a long time ago	The day after scheduling it	1
+getting a haircut	4	What sharp object is involved in this activity?	commonsense	Scissors	Knife	0
+cleaning the floor	0	why are they cleaning it now?	commonsense	Because it got dirty, and it would be better to clean it before it gets any dirtier.	It was cleaned yesterday	0
+cleaning the floor	1	How many people are cleaning the floor?	text	One person, the narrator.	A few people helped clean the floor.	0
+cleaning the floor	2	Was there a spill or was it generally dirty?	text	Both	there were no spills	0
+cleaning the floor	3	Why did they have to clean the floor?	commonsense	Because it got dirty.	It was clean.	0
+cleaning the floor	4	who cleaned the floor?	text	The writer	A cleaning company	0
+cleaning the floor	5	Did they sweep before or after mopping?	text	After mopping	Before mopping	1
+cleaning the floor	6	Where did they clean the floor?	text	Just in the center	kitchen	1
+writing a letter	0	How did they write the letter?	text	with a pen and paper	on the computer	0
+writing a letter	1	Who are they writing to?	text	their friend	my cousin	0
+writing a letter	2	Was the letter written with a pen?	text	yes	no, a pencil	0
+writing a letter	3	Why did they write the letter?	text	to talk to their best friend	They wanted to wish their friend a happy birthday.	0
+going to the theater	0	Why did they see that particular movie?	text	They had some free tickets	They saw the ads on television.	1
+going to the theater	1	Why did they see that movie?	text	They had seen it advertised	The movie they wanted to see was full	0
+going to the theater	2	Did they go with anyone else?	text	No they went alone	Yes, their friend	1
+going to the theater	3	Did they buy anything at the concession stand?	text	Yes they did.	No, they brought their own.	0
+going to the theater	4	Did they buy the ticket there or in advance?	text	They bought them there.	They bought them in advance.	0
+going to the theater	5	Where did they go to see the movie?	commonsense	Friend's house	They went to a movie theater.	1
+making breakfast	0	What time of the day is breakfast eaten?	commonsense	In the morning.	At night.	0
+making breakfast	1	From where did they purchase the ingredients for the breakfast?	commonsense	Nowhere	The grocery store.	1
+making breakfast	2	How long did it take to cook breakfast?	commonsense	More than an hour.	a little while	1
+making breakfast	3	Did they cook the food in the stove or in the oven?	text	In the oven.	on the stove	1
+making breakfast	4	When did they start cooking?	text	Morning.	In the afternoon	0
+making breakfast	5	Who prepared the food?	text	the author	The storyteller's parents.	0
+calling 911	0	How long did it take for someone to answer?	text	quickly	after three minutes	0
+calling 911	1	Who called 911?	text	The person telling the story.	My Friend	0
+calling 911	2	What kind of phone did they use to call 911?	commonsense	cell phone	Land line	1
+calling 911	3	Why were the police dispatched?	text	There was an emergency.	For doughnuts	0
+going grocery shopping	0	What did they buy?	text	Just a few items.	A week's worth of groceries.	1
+going grocery shopping	1	Did they need groceries?	commonsense	No, they had more than enough food at home.	Yes, they needed groceries.	1
+going grocery shopping	2	Were they quick?	text	yes, faster than usual	no, longer than usual	0
+going grocery shopping	3	D they go to the store more than once a week?	text	Yes, Monday and Thursday	No, every Thursday	1
+going grocery shopping	4	When did they pay?	text	Before going to the bakery.	after the sales clerk rings the groceries up	1
+going grocery shopping	5	Did they need to buy any meat?	text	No, they don't eat meat.	Yes, they bought chicken and a roast.	1
+changing a light bulb	0	Why didn't they change the bulb by themselves?	commonsense	To be safe.	They were afraid to	0
+changing a light bulb	1	Did they have to buy a light bulb from the store, or did they already have one at home?	text	They had to buy one from the store	Had one.	0
+changing a light bulb	2	Who changed the light bulb?	text	Their father	The boss.	0
+changing a light bulb	3	Why did they cut off the power first?	text	To prevent electrocution or burn	To save electricity	0
+changing a light bulb	4	Where did they get a new light bulb?	text	From the garage	From the store	1
+changing a light bulb	5	Did they do it by them self?	text	Yes	Their father helped	1
+changing a light bulb	6	Why didn't they wait to change the light bulb?	commonsense	Their brother was afraid of the dark	Not fun.	0
+changing a light bulb	7	How did the light bulb burn out?	commonsense	From use.	They were playing with it.	0
+changing a light bulb	8	Did they have trouble changing it?	commonsense	Yes	No.	1
+changing a light bulb	9	Did they test the bulb to see if it worked after they screwed it in?	text	No, they waited	Yes	1

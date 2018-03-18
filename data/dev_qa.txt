@@ -1,0 +1,1417 @@
+0	0	Where were they heating the food?	On an electric stove.	On the stove/home	1
+0	1	How many people were making the food?	Just one.	About 5.	0
+0	2	Was it leftover from home or takeout?	From home	Takeout	0
+0	3	What is dangerous about this?	It creates a flame to cook with and if you aren't careful, it could start a fire in your home.	nothing	0
+0	4	Is it hard using a gas stove?	Yes it is.	No.	1
+0	5	How did they like the food?	hated it	They loved it.	1
+0	6	Why do you need to have a flame to cook?	to burn it up	to have the heat	1
+0	7	Were they heating leftovers?	No,it was fresh.	Yes they were reheating leftovers.	1
+0	8	Who was cooking in the kitchen?	Friend	Mother.	1
+0	9	Who is making the food?	The narrator's mother.	My father	0
+0	10	What type of food were they cooking?	left overs	Frozen dinner	0
+0	11	How did the food taste?	Terrible	Delicious.	1
+1	0	Have they read anything else by that book's author?	no	Yes, the first 4 Game of Throne books	1
+1	1	Did they have outstanding fines on their library card?	no because they didn't pay any money when checking out	yes, five dollars	0
+1	2	Why did they borrow a book?	They wanted to read it before the new season started	They wanted to try out a new series they'd never read	0
+1	3	What is the genre of the book?	Fantasy/Fiction	non-fiction	0
+1	4	What happens if they don't return the book in time?	Receive a fine	nothing	0
+1	5	Did they need anything to borrow the book?	A library card	money	0
+1	6	When do they need to return the book?	2 months	In two weeks	1
+1	7	Did they have to pay anything to borrow the book?	no, it was free	yes, thirty dollars	0
+1	8	When did they go to the library?	Before they had read any books in the series	After finding their library card	1
+1	9	When must they return the book?	1 month	In 2 weeks	1
+2	0	Why did they throw away the old batteries?	The batteries were the wrong size.	They were no longer useful	1
+2	1	what time of day did they change it?	In the morning	Evening	1
+2	2	Why did they need to reset the clock?	The batteries had died and the clock was wrong	It is broken.	0
+2	3	What size of batteries were they?	C	AA-sized batteries	1
+2	4	How did they know it was time to change the batteries?	The clock wasn?t working	Clock alarm went off	0
+2	5	Why did they need to change the batteries?	The clock stopped working indicating that the batteries may have died.	Because it seemed like time to change it	0
+2	6	Who helped to change the batteries?	No one helped	Called customer service on the phone	0
+2	7	What did they do to the clock after they put in the new batteries?	Turned the clock off	Close the lid and adjust the time.	1
+2	8	For how long did the clock need batteries?	Two weeks	less than a day	1
+2	9	Who changed the batteries in the clock?	The person who borrowed the clock from someone else.	The speaker	1
+2	10	How did they dispose of the old batteries?	Used them in another device	They threw them away	1
+2	11	why did the clock need new batteries?	It was a fire alarm.	Because the batteries were dead	1
+2	12	Was changing the batteries difficult?	Yes	No	1
+3	0	How hot was the sauna?	hot enough for a warm steam	Cold	0
+3	1	When did they enter the sauna?	After showering.	after changing into swimming suit	1
+3	2	Did they enjoy the sauna?	Not really.	yes, they felt much better afterwards	1
+3	3	did they have payment up front?	yes, they paid to enter	no, they paid afterwards	0
+3	4	Who went to the sauna?	Her friend.	the author	1
+3	5	How hot is it in there?	really cold	hot enough for a warm steam	1
+3	6	Why did they go to the sauna?	To try to relax	To have fun.	0
+3	7	Where do you go to check in?	In the sauna.	At the front desk.	1
+3	8	What did they do before they got in the sauna?	changed into a bathing suit	took a bath	0
+4	0	How many people were with them?	three people	none	1
+4	1	All in all, would they go back to the museum ?	yes, because there were more things to see	no, it was terribly boring	0
+4	2	Did they like the museum?	yes, they learned so much	no, it was so boring	0
+4	3	Who went to the museum?	narrator	the entire family	0
+5	0	Did they use plates?	no	yes	1
+5	1	Where did they cook?	bathroom	In their kitchen	1
+5	2	Where did the people eat breakfast?	Restaurant	kitchen	1
+5	3	What did they drink with breakfast?	orange juice	coffee	1
+6	0	Will they fertilize the tree?	yes	no	0
+6	1	Why are trees important?	because they are green	create O2	1
+6	2	Was the tree watered after planted?	no water	yes	1
+6	3	Were they saplings or older trees?	saplings	old trees	0
+6	4	What did planting the tree involve?	hiring someone to plant it	Calling the utility company, digging a hole, and making sure it grows healthy	1
+6	5	How did they dig the hole to plant the tree?	with a bulldozer	with a shovel	1
+6	6	Would it have been easier to plant the tree if they had help?	yes	no	0
+7	0	What did they use to make the bonfire?	Logs,bricks,leaves.	wood logs	1
+7	1	How long did it take to build the fire?	less than an hour	all day	0
+7	2	did they have enough firewood	Yes	No	0
+7	3	Who started the fire?	Their cousin	the author	1
+7	4	What did they use for fuel?	none	gasoline	0
+7	5	Did they cook over the fire?	No	yes once there were a lot of hot coals	1
+7	6	Why were they having a bonfire?	to warm up	No	1
+7	7	why did they put the fire out	To make sure the fire didn't spread.	when it rained	0
+7	8	When did the fire go out?	After they were done.	when it rained	0
+7	9	who lit the fire	the teacher	The friend.	0
+8	0	Did they cut up the toast before eating it?	Yes	No	0
+8	1	Where did they make the toast?	In their kitchen.	the bedroom	0
+8	2	Who is toasting the bread?	Their wife is toasting it.	the narrator	1
+8	3	What setting did they use to toast the bread?	medium	They set the knob to dark.	0
+8	4	How many pieces of bread can you put in the toaster?	two	one	0
+8	5	Where was the toaster stored before making the toast?	In the cabinet.	On the counter	0
+8	6	What kind of bread do they like to put in the toaster?	Sliced fresh bread.	Wonder bread	0
+8	7	Did the toast come out too dark?	Yes, the toast was burned and had to be thrown away.	No, the person choose the darkness of the toast before putting it in the toaster.	1
+9	0	Were they traveling by themselves?	no	yes	1
+9	1	Was there food offered on the train?	No, only at the stations.	Yes, there was a dining car.	1
+10	0	How long did it take to get through security?	Less than a day	an hour	0
+10	1	Did they have a carry on bag?	No, because drugs were being smuggled	yes	1
+10	2	What are they wearing for the flight?	jacket	shorts	0
+10	3	Did everything go smoothly at check in?	No, speaker was detained for not wearing pants	Yes	1
+11	0	When do they expect the letter to arrive to its destination?	One week	One day	0
+11	1	How did the envelope get stamped?	by the sender	The postman put a stamp on.	0
+11	2	Who was the letter sent to?	Their friend Shelley	the president	0
+11	3	How did they get a stamp for the letter?	At the post office.	Store.	0
+11	4	What is in the letter?	Details about their Canada trip.	a written note	1
+11	5	Why are they mailing the letter?	to get paid	They their friend.	1
+11	6	Why did they write the letter?	They missed their friend.	They asked the friend to come there.	0
+12	0	Why did they take the train?	to travel to grandmas	For work	0
+12	1	Where did they travel to?	Home	Grandma's house upstate.	1
+12	2	Did they sleep on the train?	Yes	No	1
+12	3	How long did they wait at the station?	a short while	a long time	0
+12	4	How long did they wait for the train?	Ten minutes.	Thirty minutes.	0
+12	5	How much luggage did they bring on the train?	One bag was brought.	a bunch of luggage	0
+13	0	When will it be here?	It took an hour.	It took 30 minutes.	1
+13	1	Who ordered the pizza?	The dog.	The narrator	1
+13	2	Did they order any other entrees?	Yes	No	1
+13	3	Where did they order it?	from Domino's	Pizza Hut	0
+13	4	Would they order the same thing again?	yes, it was good	no	0
+13	5	Did they use a coupon?	Yes	No	1
+13	6	How long did they have to wait for the meal?	15 minutes	30 minutes	1
+13	7	Which restaurant did they order the pizza from?	Domino's	Pizza Hut	0
+13	8	What door did the pizza get delivered to?	it didn't say.	The front door	1
+13	9	How much of a tip was given?	$2.00	$5.00	0
+14	0	Did they get meat?	Yes	No.	0
+14	1	How did they pay for their groceries?	They used a debit card.	They used cash.	0
+14	2	What did they do when they had their groceries?	Ate their groceries in the car	Packed them into their car and drove home	1
+14	3	When did they arrive?	on the way to work	After work.	1
+14	4	Did they have to ask for help?	No	Yes	0
+15	0	Who started the fire?	Wife.	Their husband lit it.	1
+15	1	Where did they make the bonfire?	Their fire pit	in the garage	0
+15	2	How long did it take to build the fire?	Hours	Few minutes.	1
+15	3	Who built the bonfire?	Their husband.	the wife	0
+15	4	Had they ever built a bonfire before this one?	No, this was their first.	Yes, they had built one before?	1
+15	5	When did they put the logs in the fire pit?	They did it the next morning.	After they gathered all the logs.	1
+15	6	Where did they build the bonfire?	in the house	Their fire pit	1
+15	7	What did they do at the bonfire?	Talk and cook smores.	They were dancing around.	0
+16	0	Why did that person call?	To pay a bill via phone	To catch up with family and friends	1
+16	1	Do they know them?	No they do not	Yes they do	1
+16	2	Why was the caller calling this person?	To prank call them	To keep in touch	1
+16	3	How did they answer the phone?	By swiping the red phone icon	Swiping the green phone icon.	1
+16	4	Was it a personal call, or a business call?	Personal call	Business Cal	0
+16	5	How pleasant was the phone call?	Very nice	They are rude	0
+16	6	Did they know the caller?	Yes they did	No they did not	0
+17	0	How long did it take them to unload the dishwasher?	a few minutes	an hour	0
+17	1	Who unloaded the dishwasher?	the narrator	Another person in the room	0
+17	2	Why did they dry the plates?	to remove excess water	they were melting	0
+17	3	When did they open the dishwasher?	when the dishes were dry	After they had put everything away.	0
+17	4	Were there any other people around?	no	yes	0
+17	5	How many people unloaded?	1	Two	0
+17	6	Why did they unloaded the dishwasher?	it was done cleaning	they needed to clean the dishwasher	0
+17	7	What types of dishes were in the dishwasher?	Plates,silverware ,glasses,cups	Silverware and plates	0
+18	0	Did they use a mop?	No	Yes after sweeping	1
+18	1	Is it hard work to clean the flat?	No.	yes	0
+18	2	Where did they vacuum?	Hardwood floor	Rooms with rugs and carpet	1
+18	3	Why did the flat needed cleaning?	It was a big mess.	The dishes were washed at the sink.	0
+19	0	Was the meal good?	Yes it was delicious	No it was overcooked	0
+19	1	Were they at home?	Yes	No	0
+19	2	Why are there two glasses at each place setting?	One for water, one for chocolate milk	For water and drink of choice	1
+19	3	Did they set the table for guests?	No	Yes	1
+19	4	How many cups were in a setting?	Two.	One.	0
+19	5	What order did they set the items on the dining table?	Placemat, dish, napkin, silverware, glass	Place mats, plates, glasses, silverware	0
+20	0	Why were the clothes separated into separate stacks?	They didn't all fit in the machine at once	Laundryroom	1
+20	1	Are the clothes dry?	no they were wet	Yes the clothes were dried	1
+20	2	Did they immediately put the clothes away after folding them?	yes but only when all were folded	No, they put the folded clothes in the rooms of the people who own the clothes	1
+20	3	When did they start folding clothes?	after taking them to the kids bedrooms	After they were dry.	1
+21	0	How did they feed the cat?	Quick	They cut open a pouch of cat food	0
+21	1	Whose job was it to clean the cat's food dish between feedings?	no one cleans the bowl between feedings	The cat's owner	1
+21	2	Who is feeding the cat?	Narrator	the dad	0
+21	3	What were they doing before they fed the cat?	the laundry	Just waking up	1
+21	4	What did the cat eat?	Beefy cat food	Fishy wet cat food	1
+21	5	How many persons fed the cat?	twenty people	the cat's owner	1
+22	0	Who went on the date?	A woman and her husband.	Two strangers.	0
+22	1	How did they get to where they were going?	The took an airplane.	Walking	1
+22	2	Did they know this person personally before the date?	No- it's a first date.	Yes- it's her husband	1
+22	3	Does the date sound like fun?	Yes	No	0
+22	4	How did they go on a date?	They walked to the park for a picnic.	They drove to the park for a walk.	0
+22	5	What did they use to get there, car, bus, or walking?	Bus	Walking	1
+23	0	Who uses this bathroom?	guests and family	no one uses this bathroom	0
+23	1	What cleaning products did they use?	they did not use supplies	Glass and toilet bowl cleaners.	1
+23	2	What tools did they use to clean the bathroom?	wash cloth	Glass cleaner, toilet bowl cleaner, paper towels, and a scrubber	1
+23	3	How did the bathroom look after?	dirty	clean	1
+23	4	Where did the water come from?	They did not use water to clean	The sink.	1
+24	0	What is the weather expected to be where they are traveling?	Snowy and cold	Sunny and Hot	1
+24	1	Who did they travel with?	Their family	their friends	0
+24	2	Who is going on the holiday trip?	The Barker family	The Barkers and their friends	0
+24	3	Did they visit any tourist attractions?	yes, they did	no, they didn't	0
+24	4	Who did they go on vacation with?	Their family	Their friends	0
+25	0	What should they wear?	jeans and a tshirt	swimsuit or nude	1
+25	1	Why did they go to the sauna?	They had a free coupon for a sauna session	they were stressed out	1
+25	2	Was this for social purposes?	No, relaxation	Yes they were meeting friends there	0
+25	3	When did they leave the sauna and go to the shower?	after an hour	When they were relaxed and ready to leave	1
+25	4	Who went to the sauna?	the author	his friends	0
+25	5	did they have a good experience?	no, it made them more stressed out	Yes, it was the perfect relaxation	1
+25	6	When did they enter the sauna?	After the message.	First thing	0
+26	0	Were they nervous?	No	Yes	0
+26	1	How long did they wait?	a few minutes	long time	0
+26	2	Were they in a hospital?	No	Yes	0
+26	3	Were they sick?	No	Yes	1
+26	4	Who went with them to the doctors?	No one	their spouse	0
+26	5	Did they leave the doctor's office with medicine?	Yes	No	0
+26	6	Did the doctor wear a stethoscope?	yes	no	0
+26	7	Did the nurses help?	Yes	No	0
+27	0	Why were they having a bonfire?	it was cold	For fun.	1
+27	1	Did the fire keep them warm?	Probably yes.	Not really.	0
+27	2	How long did the fire take to start?	right away	A little while.	1
+27	3	Who went to the bonfire?	the story teller and friends	just the story teller	0
+27	4	What day did they make the bonfire?	Monday.	Yesterday.	1
+27	5	Had they ever built a bonfire before this one?	Yes	No	0
+27	6	Did they make a fire pit for the bonfire?	yes	no	0
+27	7	Where did they get the wood for the bonfire?	From the school yard	In the backyard.	1
+27	8	What kind of wood did they use to build the bonfire?	Wet wood	Dry wood.	1
+27	9	Who started the bonfire?	the story teller	the dad	0
+28	0	Did they need a travel agent?	yes	no	1
+28	1	Was it hard to make the reservations?	no	yes	0
+28	2	When did they make the reservation?	Yesterday	today	0
+28	3	Where were they going?	Boston	Chicago	1
+28	4	Which airline are they flying on?	American Airlines	Pan Am	0
+28	5	How did they pay for their reservation?	cash in person	credit card online	1
+28	6	Did they make the reservations in person or over the phone?	over the phone	neither they did it online	1
+29	0	Are they camping in a tent?	no	yes	1
+29	1	do they have all the supplies?	YES	NO	0
+29	2	What was in the bonfire?	fire	wood	1
+29	3	Where were they going to set up camp at?	under the stars	at the campgrounds	1
+29	4	How long did it take to plan the trip?	four hours	one week	1
+29	5	where are they camping?	nature	At a campground	1
+30	0	How did they keep lunch cold?	probably with a cooler	a bag of ice	0
+30	1	Did they sunbathe?	yes	no	0
+30	2	Did they bring food?	no	yes	1
+30	3	Did they ride the waves?	yes	no	1
+31	0	What type of food was barbecued?	Pork.	Hot dogs and burgers.	1
+31	1	Where was the barbecue held?	On the beach.	at the person's house	1
+31	2	What kind of food was being made at the BBQ?	All American.	corn on the cob, brats, and chicken	0
+31	3	When are they going to start cooking food for the barbecue?	the day before	When their friends arrived.	1
+31	4	How many people came to eat the meal?	20.	40.	0
+31	5	How long did the barbecue last?	All day.	Several hours.	1
+31	6	How long did the food take to cook?	Thirty minutes	Hours and hours.	0
+31	7	Who is supplying the meats that will be grilled?	The guests.	the narrator	1
+32	0	Where was the shopping center?	30 miles away.	3 miles from her home	1
+32	1	Why did they need to go shopping?	she needed a new dress for a celebration she'll be attending	to buy new shoes	0
+32	2	Were they shopping for themselves?	Yes	No	0
+32	3	How did they get there?	drove a car	They walked.	0
+33	0	What utensils did they use to scramble the eggs?	They used a whisk.	They used a fork.	0
+33	1	Who was going to eat the scrambled eggs?	The narrator	The customer at the restaurant.	0
+33	2	Who cooked the eggs?	The cook at the diner.	The narrator	1
+33	3	Where do they put the eggs after they are stirred in the bowl?	Into the refrigerator.	in frying pan	1
+33	4	What were the eggs cooked in?	stock pot	The eggs were cooked in a pan.	1
+33	5	how many people were involved in cooking?	It took 3 people to cook the eggs.	One person cooked.	1
+33	6	Why did the eggs cook?	The heat made them cook.	The counter heated them up.	0
+33	7	How did they crack the eggs?	using a small bowl	They cracked them into the pan.	0
+33	8	Where did they make the eggs?	In their kitchen.	In their living room.	0
+34	0	How long were they playing tennis for?	For fifteen minutes.	A couple of hours	1
+34	1	Were the amateurs or professionals?	They are amateurs.	They are professionals.	0
+34	2	Who did they play against?	Each other	Tennis pros	0
+35	0	Where was the list put?	in trash	on their fridge	1
+35	1	What did they write the list on?	groceries	Fridge	0
+35	2	When did they go to the store?	the day after writing the list	Next week	0
+35	3	Why did they write the list?	To make sure they were ready for shopping.	so they could buy extra items	0
+35	4	Were they outdoors when they made it?	No.	Yes, while having a picnic.	0
+35	5	When did they make the list?	Day of shopping	the day before grocery shopping	1
+35	6	Did they take it with them to the store?	No, they memorized the list.	yes	1
+35	7	Did they write the list down or put it in a phone?	wrote it down	they wrote	0
+36	0	Did anyone enjoy the fish?	Yes, the narrator	no	0
+36	1	Did any fish get overcooked?	It was not mentioned so, no.	Yes, he had to give it to the cat is was so over cooked.	0
+36	2	Who is cooking the fish?	The story teller's best friend	The narrator	1
+36	3	Where were they cooking the fish?	On the stove top at home	The kitchen	1
+36	4	Who ate the fish?	The story teller's boyfriend	the author	1
+36	5	How did they cook the fish?	Baked.	on the grill	0
+36	6	How many people can the fish feed?	He only buys a pound, so one	Enough to feed a family of 4	0
+36	7	how many people helped cook the fish?	None	Two.	0
+37	0	What are they bringing to the pool?	toys	Their towels	1
+37	1	Did their mother take them to the pool?	no	yes	1
+37	2	How did they get to the pool?	their mom drove them	They took the bus	0
+37	3	Why did they have to wait to enter the pool?	There were too many kids in the pool	other kids were swimming	1
+37	4	Why did they want to go swimming?	to learn how to swim	to get wet	0
+38	0	How long did dinner take to prepare?	Over 15 minutes	2 minutes	0
+38	1	How long did it take them to finish cooking?	1 hour	It took 15 minutes for dinner.	1
+38	2	Was enough food prepared for the amount of guests that attended?	No	Yes	1
+38	3	Who prepared the dinner?	The cook at the diner.	A parent and child	1
+38	4	Were they following a recipe?	Yes	No	1
+38	5	How much time did it take to make the food?	2 minutes	Under an hour	1
+38	6	how long did dinner take to make?	4 minutes	Under an hour	1
+38	7	How did the food taste?	Bad	Good	1
+39	0	Was the tennis court inside or outside?	Inside	It was outside	1
+39	1	Did they play with a partner?	No	Yes	1
+39	2	Why were they playing tennis?	I wanted to go outside	They wanted to do something outside	1
+39	3	How did they score a point?	By hitting the tennis ball out of the court.	By bouncing twice in the opponent's side	1
+39	4	Where was the tennis court located?	Near the city park	At the gym	0
+40	0	Why are they going camping?	To celebrate Mother's Day.	To celebrate Father's day.	0
+40	1	How did they reach their destination?	They drove.	In a plane.	0
+40	2	Are they camping in a tent?	yes	No a hotel.	0
+40	3	What equipment are they bringing?	Not much equipment at all.	A lot of different equipment.	1
+40	4	Was more than one person going on the trip?	family	No they were not.	0
+41	0	Who got married?	Two of the person's friends from church.	Two of the person's friends from college.	1
+41	1	Where was the wedding located?	In a hotel	At a church.	1
+41	2	When did they leave the ceremony?	After they were done taking pictures	After everyone applauded	1
+42	0	Did they have fun?	not really	Yes they did.	1
+42	1	did they have enough firewood	No they did not.	Yes they did.	1
+42	2	why did they build a bonfire	they were bored	So they could cook and have fun.	1
+42	3	Why did they have a bonfire?	They wanted to have a wedding	to have a family gathering	1
+42	4	Did everyone have a good time at the bonfire?	Yes they had a good time.	No they did not have a good time.	0
+42	5	Did they cook any food on the fire?	No they did not cook any food.	Yes they cooked food.	1
+42	6	Did they cook food over the bonfire?	Yes they cooked food.	No they did not cook any food.	0
+43	0	have they seen the movie before?	The person has not seen the movie	yes	0
+43	1	who rented the movie	The narrator of story.	the attendant	0
+43	2	Did they use a coupon to get the movie?	No.	yes	0
+43	3	how many movies did they rent	They rented one movie	Four.	0
+43	4	Was the movie one they'd seen before?	Yes	No.	1
+44	0	Were they shopping for themselves?	They were not shopping for anybody	yes, but also for their children	1
+44	1	How long did they spend there?	four hours	Three hours, because they shared ice cream after shopping	1
+44	2	When did they go to the shopping centre?	last weekend	at two o'clock on Saturday	0
+44	3	What did they do after shopping?	got ice cream and coffee	Went back to the mall.	0
+44	4	Did they walk around the store?	No.	yes	1
+44	5	Did they shop for anyone in particular?	themselves, their kids	They didn't shop for anyone	0
+45	0	Did they lose the button on the same day they sewed the button on?	Yes	No	1
+45	1	Did the button look good?	Yes	No	0
+45	2	Why did they need to sew the button?	One button is missing	It fell off the sweater	0
+45	3	What time of the day was it?	Night	Morning	1
+45	4	How does the button stay on?	Glue	sewn on	1
+45	5	Where did they put the shirt after they sewed the button back on?	They put it on	They hung it up	0
+45	6	Was it easy or difficult to sew the button?	Easy	Difficult	0
+45	7	Was the shirt missing the button?	Yes	No	0
+45	8	how long did it take	A half hour	A few minutes	1
+46	0	Why are they going to the destination?	to get married	friends wedding	1
+46	1	How long was the plane ride?	A little over four hours	1 hour	0
+46	2	Why was their flight delayed?	freezing rain	unruly passengers	0
+47	0	How long did it take to hang it?	days	quite awhile	1
+47	1	what kind of art is it?	Paintings of flowers	Mural	0
+47	2	When did they put the painting up?	just before the meeting	for the winter	0
+47	3	How long did it take them to hang the painting?	A few days	A few minutes	1
+47	4	Who helped them put up the painting?	Friend	Their daughter.	1
+47	5	Why did they hang the painting?	to make the house nicer	To make their house look nicer	1
+47	6	When did they hang it?	Before friends came over	Before co workers arrived	1
+48	0	how long did the sauna last?	30 minutes	two hours	0
+48	1	Why did they want to go to the sauna?	just to sit in a hot room	To relax and socialize	1
+48	2	What does the steam do?	cleanses the pores	overheats you	0
+48	3	Did they feel better afterwards?	No, the friend was scalded by the steam and required medical treatment	yes	1
+48	4	Did they go with anybody else?	no	Yes, speaker went with a friend	1
+48	5	Was there anyone else in the sauna?	yes	no	0
+49	0	Who prepared the dinner?	The family	she	1
+49	1	Who is preparing dinner?	the author	no one	0
+49	2	Did they use an oven?	yes	no	0
+49	3	Were they in the kitchen?	yes	no	0
+50	0	What did they stand on to change the light bulb?	Chair	Floor	1
+50	1	How long did it take to remove the old bulb from the socket?	Few seconds	One minute	0
+50	2	Did they have extra light bulbs just in case?	yes	no	0
+50	3	Who changed the light bulb?	a friend	the narrator	1
+50	4	Where did they get the light bulb?	From the garage.	From the hall closet.	1
+50	5	When did they notice the light bulb burned out?	While they were reading	The next morning	0
+50	6	When did the light bulb go out?	In the morning.	While they were reading	1
+50	7	Did they do it by them self?	No they didn't.	Yes they did.	1
+50	8	Why did the light go out?	The power went out	Normal usage limit	1
+50	9	Did they get help from someone?	No they did not.	Yes they did.	0
+50	10	How easy did it look to change the light bulb?	It seemed hard to change it.	very easy	1
+50	11	How did they change the light bulb?	Unscrewing the burned bulb and screwing in a new light bulb.	Popping the old one out and putting the new one in	0
+51	0	Who helped wash their hair?	Nobody.	Their stylist helped them.	0
+51	1	Did they wash their hair in the sink?	Yes,they washed it in the sink.	No,they washed it in the shower.	1
+51	2	Where did they wash their hair?	the bathroom	In the kitchen sink.	0
+51	3	Were they alone washing their hair?	Yes, they are alone.	No, their husband was in the bathroom shaving at the sink.	0
+51	4	Were they at home or someplace else?	They were at home.	They were at a salon.	0
+51	5	Did they have the adequate necessities to wash their hair?	Yes, they had everything to wash their hair.	No, they were out of conditioner.	0
+51	6	Were they talking to someone while they washed their hair?	Probably not.	Yes	0
+51	7	Where was this located?	It is at a hair salon.	the bathroom	1
+52	0	How did they feel after drinking the coffee?	ready to take on the day	Tired.	0
+52	1	Why do they drink that kind of coffee.	that was their only choice	they wanted to drink a fancier coffee	1
+52	2	why do they drink coffee?	Tired as usual.	Because of feeling sad.	0
+52	3	How many cups of coffee did they drink?	6	One.	1
+52	4	How did the coffee taste	Horrible.	delicious	1
+52	5	How much coffee did they make?	Sixteen cups.	One cup.	1
+52	6	Who were they serving?	The author's friends.	themselves	1
+52	7	How long did it take to make the coffee?	1 hour	A few seconds.	1
+52	8	Do they usually drink coffee?	Yes, they do.	No, they don't.	0
+52	9	When did they get up to make the coffee?	Night.	in the morning	1
+53	0	Where did they find the book they wanted?	At the library.	At the school.	0
+53	1	Can they take the books home?	No they can't.	Yes they can.	1
+54	0	Who wrote all the invitations?	The narrator's friends	The Author	1
+54	1	Who picked out the invitations?	The College gave the graduates generic invitations	The Author	1
+54	2	Did the party invitations have any type of images on them?	presumably yes	no, they were plain white	0
+54	3	How easy was the process of sending invites?	Very easy	Very hard	0
+55	0	Did they enjoy it?	Yes	No	0
+55	1	How did they get the juice from the oranges?	They used a juicer	They squeezed them by hand	0
+55	2	What did they use to make it?	their hands	an electric juicer	1
+55	3	Why did they want to make fresh orange juice?	as a special treat for her husband	Because the store was out of orange juice	0
+55	4	What time of day was it made?	early	at night	0
+55	5	Do they make juice often?	Yes every weekend	No this was the first time	1
+55	6	Will they make juice again?	probably yes	no	0
+55	7	Were they making orange juice for someone other than themselves?	yes the hubby	No	0
+55	8	Was it sweet or sour?	sour	sweet	1
+55	9	Did they make a lot of juice?	yes	Enough for four	0
+55	10	Where did they juice the oranges?	In the kitchen	In the bedroom	0
+55	11	Did they grow their own oranges?	Yes they did	No they didn't	1
+55	12	How did the orange juice taste?	horrible	Good	1
+56	0	Why do they need to take the lesson?	So they can work in a bar	to learn to drive	1
+56	1	Did they use their turn signals?	No, they didn't use turn signals.	Yes, they used their turn signals.	1
+56	2	Who was the driver?	The instructor was	the narrator	1
+56	3	Was the instructor a nice person?	yes	no	0
+56	4	When did they take the driving lesson?	when they were 16 years old	when they turned 18 years old	0
+57	0	Was the table made of wood?	Yes	No.	0
+57	1	who cleans the table?	His wife	The husband	0
+57	2	Did they use moist wipes to clean the table?	No	Yes	0
+57	3	What did they clean the table with?	A white rag and wood cleaner	Glass cleaner.	0
+57	4	Did someone spill something on the table?	Yes	No.	1
+57	5	Why did the table need to be cleaned?	Because of the food	Because it was dirty	0
+57	6	Did the table have a table cloth?	No.	Yes	0
+57	7	What time of day did they clean the table?	In the morning	Evening	1
+57	8	Who made the mess on the table?	They both did	The son.	0
+57	9	When did they clean the table?	After dinner	Before dinner	0
+57	10	How many guests did they have at their dinner?	None	One.	0
+58	0	Who was waiting to eat the fish?	The scouts.	Their co workers.	0
+58	1	Who was eating the fish?	Girl scouts.	The narrator and his boy scout troop	1
+58	2	Was the fish cooked over a fire?	yes	no	0
+58	3	Where did the fish come from?	they caught it in a lake	The store.	0
+59	0	Was the bathtub completely filled with water?	no, half full	Yes	0
+59	1	How long did they take in the bath?	5 minutes	over an hour	1
+59	2	How long were they in the bath?	over an hour	15 minutes	0
+59	3	Did they use towels to dry off after bathing?	No	Yes	1
+59	4	Was the bath for cleaning up or just pleasure and relaxation?	cleaning and pleasure	they had been in the dirt	0
+59	5	How long did they bathe?	over an hour	15 minutes	0
+59	6	Why did they stay in for a long as they did?	felt good	They fell asleep	0
+60	0	Who taught the driving lesson?	John.	Scott	1
+60	1	Are they going to take further lessons?	No, the student knows enough now to drive on their own.	Yes, the student needs more practice.	1
+60	2	Was it an automatic or standard car?	automatic	Standard.	0
+60	3	Who is the coach of the lesson?	the student's father	Scott	1
+61	0	What website did they shop on?	Amazon.com	Ebay	0
+61	1	what website was used?	Amazon.com	eBay	0
+61	2	did they use any coupons?	no	yes	0
+61	3	Why didn't they go to a store?	they don't like shopping online	online shopping is easier	1
+61	4	Where is the order shipping from?	across the country	by their house	1
+62	0	How long did it take to write the list?	An hour	not long	1
+62	1	How did they decide there were enough items?	they were going by the restaurant	they didn't get what they needed	0
+62	2	Did the list have expensive items?	no	yes	0
+62	3	Is it a list of food or other items?	other items	food	1
+62	4	How long did they take to make the list?	A year	a few minutes	1
+62	5	What did they do after writing the list?	put the list on her desk	They put it in their purse	1
+63	0	Why do they need an alarm clock?	To help them wake up	They liked the noise of the buzzing	0
+63	1	Who changed the batteries in the clock?	The person at the store	the author	1
+63	2	Why do they need to change the batteries?	The old ones have worn out	the clock was loud	0
+63	3	What kind of clock was it?	An alarm clock	A grandfather clock	0
+63	4	Where did they put the clock after it had new batteries?	Next to the bed	kitchen	0
+63	5	How long did it take them to change the batteries?	1 minute	1 hour	0
+63	6	How many batteries did the clock need?	six batteries	two batteries	1
+64	0	Were they experienced in sewing?	No they had to take the dress to a tailor.	Yes, they were able to reattach the button with no help.	1
+64	1	How long did it take them to sew the button on?	an hour or two	a few minutes	1
+64	2	who was doing the sewing	it didn't say	the narrator	1
+64	3	What color is the thread being used?	the same color as the button	It matched the dress.	1
+64	4	What was the hardest part of the work?	sewing the button to the dress	making the button appear like the rest	1
+65	0	Is there filling in the cake?	no	layers were filled	0
+65	1	When will the cake be eaten?	at party	anytime	0
+65	2	Will the baker use icing?	yes	Dry	0
+65	3	What ingredients do they need	eggs,milk,oil,cake mix or flour, icing	meat	0
+65	4	Why were they celebrating with a cake?	The nephew requested it	Samuel's 3rd birthday	1
+65	5	Who did they make the cake for?	Bob	Their nephew	1
+65	6	Will it have candles placed in it?	yes	No Candles	0
+65	7	What are they baking?	A birthday cake	fish	0
+66	0	where is the feeding dish of the cat?	On the table.	in the kitchen on the floor	1
+66	1	Who fed the cat every day?	a cat sitter	the author	1
+66	2	when did they feed it?	at noon	in the morning	0
+66	3	How many cats were eating?	two	one	1
+66	4	how much does the cat eat each time?	A packet of food	a can of food	0
+66	5	When did they feed the cat?	at dinner time	at noon	1
+66	6	Where did they feed the cat?	in the kitchen	in the laundry room	0
+67	0	Why did they pack their swimsuits?	to sleep in	Because they might swim.	1
+67	1	Who did the packing?	They did	the mother and the  aunt	0
+67	2	Why were they packing?	They were moving.	For a trip to see their aunt	1
+67	3	Do they pack more than one suitcase?	no	yes	1
+67	4	How many changes of clothing did they pack?	7 plus a few extra for swimming	3 plus a few extra for sleeping	0
+68	0	Have they seen them before?	No, this would their first visit.	Yes, they have a long standing patient doctor relationship.	0
+68	1	Was it confusing?	no	yes	0
+68	2	Who needed to see the doctor?	the narrator	her mom	0
+68	3	When did the doctor see them?	after morning	two days ago	0
+69	0	Why do they need a ironing board?	To put the dress on.	to heat food	0
+69	1	Did they have to do all the ironing by themselves?	yes	no	0
+69	2	Did they have help?	Yes.	No help.	1
+69	3	What was hot?	the dress	The iron was hot	1
+70	0	how did they heat the food?	In the microwave	On the stove	1
+70	1	why did they heat the food?	Because raw eggs are not nice	So they could freeze it	0
+70	2	Is an animal involved in this activity?	no	yes	0
+70	3	Why did they use the kitchen gas?	To cook the egg.	To heat up the kitchen.	0
+70	4	How long did it take the food to cook?	1 hour	3 minutes	1
+70	5	Does gas stink?	no	only when coming from my dog	0
+70	6	Were they heating it for themselves or someone else?	For someone else	For themselves	1
+71	0	Why did they put water in the iron?	to be able to create steam	To wash the clothes	0
+71	1	where did they iron everything?	Upstairs	In the bath tub	0
+71	2	Did they need to put water iron?	No	Yes	1
+71	3	Why does steam come out of it?	They boiled the water	because when water is heated it produces steam	1
+71	4	Where did they put the clothes?	on the floor	In a basket	1
+71	5	What did they do after they ironed?	They put the clothes in the basket	put everything away	1
+71	6	were the clothes dirty or clean?	Clean	Dirty	0
+72	0	How many people ate the pizza?	two the son and father	one	0
+72	1	How many people did they order for?	They ordered for 5 people.	They ordered for 2 people.	1
+72	2	How many pizzas were there?	5	They ordered one pizza.	1
+72	3	Who took the order?	employee at the pizza place	employee at the drive in	0
+72	4	Did they order anything besides pizza from the restaurant?	Yes, they got garlic knots.	Yes, they got chicken bites.	1
+72	5	Why did they choose to order take out and not go out?	it was a beautiful day out but they didn't feel like going out	they wanted to have a fort party	1
+73	0	What did they prepare for dinner?	salad and fish	spaghetti and bread	1
+73	1	What type of meat are they cooking for dinner?	beef	none	1
+73	2	Did anyone hep prepare it?	no, they did it themselves	yes, their kids	0
+73	3	From which store did they purchase the ingredients?	the closest	a convenience store	0
+73	4	Who was making dinner?	His family	the author	1
+74	0	How was the train ride?	Rough	enjoyable	1
+74	1	Why were they traveling by train?	They wanted to.	It was affordable.	0
+74	2	Why did they go on the train?	to take a trip to NYC	It was cheap.	0
+74	3	Where was the train at?	it was in Newark	at the Boston train station	1
+75	0	How long did it take to feed the fish?	half an hour	less than a minute	1
+75	1	Why did they feed the fish?	They were sick	to keep them healthy	1
+75	2	Why did the fish need to be fed?	to live and be healthy	they didn't need food	0
+75	3	How did the food end up in the fish tank?	He opened up the lid and put it there.	they did not put food in the tank	0
+75	4	Where are the fish located?	In the tank	In a bowl	0
+75	5	What are they  going to feed the fish?	fish food in the jar	bread	0
+75	6	Did the fish eat everything it was given?	Yes they ate most of what was given	no they would not eat	0
+75	7	What did they feed the fish?	Fish food from jar	worms	0
+75	8	Did they enjoy feeding the fish?	no	yes	1
+75	9	Will the fish know how to eat?	no it needs spoon fed	yes	1
+76	0	What payment method did they use?	monthly	A credit card.	0
+76	1	Were any of the bills overdue?	yes	no	1
+76	2	How long did it take to pay them?	A long time	10 -20 minutes	1
+76	3	Who got the bills out of the mailbox?	An adult	The narrator	1
+76	4	Why do they have to pay bills?	because they like to	to keep their house, car, lights,and entertainment	1
+76	5	Did they enjoy paying the bills?	Yes	No	1
+76	6	Who paid the bills?	Narrator's wife	HE	1
+77	0	where are they going?	Singapore.	Atlanta	0
+77	1	Who made the reservation?	his wife	the narrator	1
+77	2	Was it hard to make the reservations?	yes	no	1
+77	3	Did they use a travel agent?	no	yes	1
+77	4	Why did they need a reservation?	to be fancy	To guarantee their flight.	1
+77	5	Did they make a return reservation?	Yes, it is included in the round trip reservation	No, they are staying in Singapore	0
+77	6	how did they make the reservation?	They called.	Online.	0
+77	7	who booked the flight?	The narrator's wife	the author	1
+78	0	How were the batteries changed?	He took out the old ones and put in the new ones	They did not change the batteries	0
+78	1	Where did they get the new batteries?	in the cabinet	From the utility drawer	1
+78	2	How did they reprogram the clock?	By resetting the time	straightened the batteries	0
+78	3	Do they have the batteries in there correctly?	No, there was an upside down battery.	Yes, they batteries are in correctly.	1
+78	4	Why didn't they just buy a new alarm clock?	Only the batteries needed replacing	It was broken in the back.	0
+78	5	Why did the batteries die?	They wee old and used up	They were bad batteries when bought.	0
+78	6	How long did it take them to reprogram the clock?	Several days.	Only a few minutes.	1
+78	7	Did they need to go to the store to buy the batteries?	No, they had them already.	Yes, they went to the store.	0
+78	8	How did they take out the old batteries?	By opening the battery case	With a screwdriver	0
+79	0	How often do they need to vacuum?	daily	Once a week.	0
+79	1	What rooms did they vacuum?	Living room and hallway.	Bathroom	0
+79	2	How long did it take?	not long, maybe 20 min	1 hour	0
+79	3	What area did they vacuum last?	In the hallway.	Under couch.	1
+79	4	When did they start?	When Terri came home from school.	In the morning.	0
+79	5	Where did they put the vacuum when they were done?	The closet.	Hallway	0
+80	0	How did they prepare the fish?	Breaded	Cover with plastic	0
+80	1	What kind of fish was it?	Salmon	Drum	1
+80	2	Did they follow a recipe to cook the fish?	Yes	No	1
+80	3	did they like it?	Yes, this is their favorite way to cook fish	No	0
+80	4	Where did they get the fish?	A stream	The grocery store	1
+80	5	Why did they want to eat the fish?	because they were hungry	because someone told them to eat fish	0
+80	6	How did they cook the fish?	Baked in the oven	by cutting it and frying it	1
+81	0	Was it packed for more than one person?	Yes	No	0
+81	1	How full was it?	its empty	almost full	1
+81	2	How large was the suitcase?	it didn't say	medium sized	1
+81	3	Did everything fit in the suitcase?	no towel not fit	Yes	1
+81	4	Where did they put the suitcase before filling it?	bed	bathroom	0
+81	5	How did they fold the clothes?	Neatly So The Wouldn't Wrinkle	They did not fold the clothes.	0
+81	6	Where are they taking the suitcase to?	Six Flags	to an amusement park	0
+81	7	How long were they packing for?	2 days	Two weeks	0
+81	8	What did they pack in the suitcase?	Shorts, Shirts, Trunks and Toothbrushes.	gifts, clothes, and food	0
+81	9	Was it a business trip?	No	Yes	0
+81	10	Are they the only person packing a suitcase?	yes only one person	no whole family	1
+81	11	Where were they going?	Water Park	Six Flags	1
+81	12	Are they just packing one suitcase?	No	Yes	0
+82	0	Did they make the bed nicely?	Yes, everything was carefully put together	No, everything was thrown sloppily on the bed.	0
+82	1	Where is the bed?	In the bedroom	In the living room.	0
+83	0	Were they dancing alone?	No	Yes	0
+83	1	Why did people dance together?	They are friends.	they hated the song that came on	0
+83	2	Why did they go dancing at that location?	it was closer to their house	They knew it from past visits	1
+83	3	Did they order any drinks at the club?	Yes	no	0
+83	4	What did they do after they finished dancing?	Said goodbye and went home	Left	0
+84	0	Who washed their hair?	The narrator's friend	Narrator of story.	1
+84	1	How long did it take to wash their hair?	Not long	two hours	0
+84	2	Were they satisfied with how things turned out?	yes	no	0
+84	3	When did they get their hair washed?	in the afternoon	in the morning	1
+84	4	Is the water hot or just warm?	hot	Warm.	1
+84	5	Would they do it again?	yes	No.	0
+84	6	How did their hair feel after they washed it?	oily	squeaky clean	1
+85	0	Who is folding the clothes?	they	their children	0
+85	1	Why did they need to fold the clothes?	to keep it neat and organized	It's the law	0
+85	2	Where did they fold the clothes?	in the laundry room	In the bedroom	1
+85	3	When did they start folding the clothes?	After laundry was done	after dinner	0
+85	4	Were the clothes neat or sloppy?	sloppy at first, neat after	just sloppy	0
+85	5	Who was folding clothes?	they	her mom	0
+85	6	What method of folding did they use?	just tossed them in the closet willy nilly	Hands	1
+85	7	Why did they decide to fold clothes?	To keep clean & neat	There was a threat	0
+86	0	How did the pasta taste?	delicious	Bland	0
+86	1	How much time did the pasta boil?	until tender	1 hour	0
+86	2	were they in a kitchen?	NO	cooked it over a campfire	0
+86	3	What happened when it finished cooking?	they ate	served it to friends and family	0
+86	4	Did they use a fork or spoon to eat the pasta?	spoon	fork	1
+87	0	Did they have to move anything out of the way to make the bed?	No	bed cover	0
+87	1	Who made the bed?	My wife did	The narrator	1
+87	2	Was there a comforter put onto the bed?	No, they put blanket on the bed.	Yes	0
+87	3	Did they clean up anything else in the room?	yes	no	1
+88	0	How did they wash the clothes?	with a washing machine	by hand	0
+88	1	Who was washing the clothes?	a neighbor	the narrator	1
+88	2	Who did the laundry?	for fun	narrator	1
+88	3	Did they use bleach?	No, they did not.	Yes, they did/	1
+88	4	Did they dry the clothes right after washing them?	yes	No, they left them in the washer for a few hours	0
+89	0	Who went to the bonfire?	Friends and neighbors.	the author and their friends	1
+89	1	how was it possible for the fire to stay lit?	there was no wind to blow it out	adding more wood rekindles the flames	1
+89	2	Did they do anything else at the bonfire?	No, they did nothing	they shared stories	1
+90	0	What meal was this?	Dinner	Breakfast	1
+90	1	When do they move the eggs around in the pan?	from the time they hit the pan	to mix well	1
+90	2	Did they like their food?	They are making the food, so yes	No, but it is all they have to eat.	0
+90	3	How many do they scramble at a time?	one	2 eggs	1
+90	4	How long did the eggs cook for?	1 Hour	Few minutes	1
+90	5	Were the scrambled eggs hot?	No, they had been stored in the refrigerator.	Yes, they were cooked on a hot stove.	1
+90	6	How many eggs did they use for the scrambled eggs?	3 eggs	2 eggs	1
+90	7	Where were the egg shells put?	In bowl	The shells went into the garbage	1
+90	8	How did they season the eggs?	Added a little salt and pepper	Taco spices	0
+91	0	is it DVD or VHS?	the husband rented a DVD from Redbox	It was an old VHS from the basement	0
+91	1	Where was the movie rented?	RedBox machine	video store	0
+91	2	Did they return the movie on time?	Yes	No	0
+91	3	how long is the renting time?	24 hours.	The rental time was a year	0
+91	4	When did they rent the movie?	today	yesterday	1
+92	0	did they put a bow on their gift?	No they did not.	Yes they did.	1
+92	1	When did they use scissors to cut the paper?	after marking it	After they measure.	1
+92	2	Will she like opening the gift?	Yes she will.	No she will not.	0
+92	3	Who came to help?	noone	mom	0
+92	4	Who offered to help them?	mom	Nobody	1
+93	0	Who packed for them?	They did.	A neighbor packed the Author's suitcase.	0
+93	1	What's in the suitcase?	Everything they need for a vacation	Toiletries and clothes.	0
+93	2	How big was the suitcase?	Large	Small	0
+93	3	Why were they packing?	Business trip.	They were going on vacation	1
+93	4	Where was the suitcase packed?	Bedroom	Porch	0
+93	5	Where are they taking the suitcase to?	they packed the suitcase for their kid to take to camp	They were going on vacation.	1
+94	0	Did they swim with other people?	No, only porpoises	Yes, there were a dozen other people there	1
+94	1	Why did they want to go swimming?	Fun/felt  like it	For work	0
+94	2	What did they do at the pool?	Just swim.	Swam and talked	1
+94	3	Did they wear sunscreen?	Yes	No, they forgot and left it at home	0
+94	4	When did they go swimming?	on a cool day	yesterday	1
+94	5	Did they bring towels to dry off with?	No, they were included in the price of admission	Yes	1
+95	0	Did they got to the movie with anyone else?	yes	no	0
+95	1	Did they go with anyone else?	yes	No.	0
+95	2	Who paid to get into the theater?	The narrator and their companions	It was free	0
+95	3	Did they get any snacks?	Yes	No snacks.	0
+96	0	How did they clean the more difficult stains?	Threw the dish away	Scrubbed harder with the sponge	1
+96	1	Why were they washing the dishes?	Because the dishes were dirty	they were clean	0
+96	2	Who's house were they washing the dishes in?	their son's house	Their own home.	1
+96	3	Why did they have to do the dishes?	to stay tidy	they were ordered to	0
+96	4	How long did it take?	No time at all	About an hour or less.	1
+96	5	was it hard to do?	Yes, it was difficult and time consuming.	No, it was times consuming but easy.	1
+96	6	who do they wash dishes with	with two people	alone	1
+96	7	Did they wash plates?	No, only silverware.	yes, they did	1
+96	8	What kind of soap are they using to wash the dishes?	Laundry soap	liquid	1
+96	9	Did they wash the dishes in the sink or in a dish washer?	In the sink	dishwasher	0
+97	0	What did they use to wipe the infant's face?	A tissue.	a handkerchief	0
+97	1	what temperature do they give the infant food at?	It was cold milk	Body temperature	1
+97	2	How often did it eat?	many times a day	once a day	0
+97	3	What are they feeding the baby?	a bottle of formula	Mother's breast milk	1
+97	4	Who was feeding the infant?	The mother.	the nurse	0
+97	5	Who was hungry?	The mother	The baby girl	1
+97	6	Are they feeding the baby with warm food?	yes	no	0
+97	7	Did they only feed the infant because it was crying?	No	Yes	0
+97	8	Will the baby stop crying?	Not until it's 20 years old	Yes	1
+98	0	What did they do after the garbage bag was removed?	pulled the handles and tied a knot	took it outside	0
+98	1	How long until the garbage bag need to be removed again?	When it's empty.	When it's full.	1
+98	2	When did they remove the bag?	When the bag was half full.	Morning	1
+98	3	Did the trash smell bad?	yes	no	0
+98	4	Was it a real garbage bag or a grocery bag?	grocery bag	real garbage bag	1
+98	5	Were they at work or at home?	Home	at work	0
+98	6	Why did the trash bag need to be changed?	It was full.	The Author wanted another color bag in the can?	0
+99	0	What kind of pot did they use?	sauce pan	frying pan	0
+99	1	Who boiled the milk?	The person telling the story	Their mom boiled it.	0
+99	2	What container was used for boiling?	sauce pan	mug	0
+99	3	Who was the boiled milk for?	It was boiled for a friend.	The person telling the story	1
+99	4	What level of heat did they boil the milk over?	medium high	High heat.	0
+99	5	Where did they get the milk from?	freezer	The refrigerator.	1
+99	6	Why did milk need to be boiled?	to make it hot	To dissolve the sugar and cocoa powder	1
+99	7	Why did they want the milk boiled?	For taste and because it blends more efficiently with the other ingredients	make it safe to drink	0
+99	8	What else did they add to the boiled milk?	swiss miss mix	cocoa and sugar	1
+100	0	Why did they go to the shopping center?	They wanted to treat themselves to something nice	To go for dinner.	0
+100	1	What did they purchase?	A new outfit	A book.	1
+100	2	Did they meet anyone there?	No.	yes	0
+100	3	Where did they go shopping?	Shopping center	gas station	0
+100	4	What did they do after finding what they wanted?	They went out to eat	Went to get gas.	1
+101	0	When did they change what area they were cleaning?	When they finished the current area.	when the area was clean	0
+101	1	Are they at their house cleaning?	Yes they are.	No they are not	0
+101	2	What day did they pick to clean the flat?	first day of winter	First day of spring	1
+101	3	Did they clean the windows in their flat?	No the didn't.	Yes they did.	1
+101	4	When did they start?	The first day of spring	in the evening	0
+101	5	Was a lot of soap used to clean the flat?	yes	no	1
+102	0	Did they reset the table after it was cleaned?	Yes, they reset the table up.	no	1
+102	1	does the table get very dirty?	Yes, the table gets dirty sometimes.	No, it is usually clean.	0
+102	2	Why did they clean the table?	because it was dirty	They had company coming to visit.	0
+102	3	Were they mad that they had to clean the table?	Yes, they get very mad about having to do that chore.	No they weren't mad.	1
+102	4	How did they clean the table?	using several steps	Clear the plates, remove leftovers, wipe the tables.	0
+102	5	Which table did they clean?	The table used to serve meals	They cleaned the coffee table.	0
+103	0	How long did they shop online?	a few days	a month	1
+103	1	What will they do with the ordered object?	They sold it for a profit online	fix their tattoo	1
+103	2	Why did they order online?	to get a special product	to save money	0
+103	3	Who paid for it?	The parents of the storyteller	The author	1
+103	4	How good were they savings?	They were adequate for what the person needed to buy	It was quickly saved up.	0
+103	5	Were they happy with their purchase?	yes	no	0
+103	6	When did they finish their shopping for the day?	After researching different inks.	After they had checked out online	1
+103	7	who shopped online?	The narrators father shopped online	The author	1
+103	8	Why did they order it?	to fix their tattoo	It was a gift for a friend	0
+103	9	what website was used?	Amazon	Walmart	0
+104	0	Why did they make the bed?	just cleaned sheets	It was wet.	0
+104	1	Whose bed are they making?	their sons bed	Theirs.	1
+104	2	Did they use new sheets to make the bed?	No, they put the old ones back on.	Yes, they used new sheets.	1
+104	3	How fast did they make up the bed?	it took several hours	it only took a few minutes	1
+104	4	Did they make up the bed by themselves or were they told do?	They were told.	They were not told.	1
+104	5	Was it their own bed?	No, it was their parent's bed.	Yes, they made their own bed.	1
+104	6	When did they make the bed?	at night	After the sheets were washed	1
+104	7	Who made the bed?	the author	The housekeeper.	0
+105	0	what time of day did they eat?	morning	lunchtime so afternoon	1
+105	1	How much food was ordered?	a four course meal	one meal	1
+105	2	Did they go back to that restaurant?	yes	it has yet to be determined if he'll return	1
+105	3	What did they order to eat?	grilled salmon	Pumpkin.	0
+105	4	Did they bring the wrong food to the table?	No.	yes	1
+106	0	Why did the carpet need vacuuming?	It was too clean.	it was dirty	1
+106	1	Why were they happy when they finished vacuuming the room?	The family was home.	yes	1
+106	2	What did they do after they were finished vacuuming?	Called their family to come look at the carpet.	Ate a snack	0
+106	3	Do they know where to plug in the vacuum?	The vacuum does not need to be plugged it, it has a rechargeable battery.	yes, the outlet	1
+106	4	Where does the dirt go?	in the garbage can	in a bag	1
+107	0	Who bought the ingredients?	friend	narrator	1
+107	1	Did they have to deviate from their initial plans for the cake at any point in the process?	no	yes	0
+108	0	Did they wear a seat belt?	Yes they wore seat belts.	No, they did not wear seat belts.	0
+108	1	Who was in the car?	Just dad	The storyteller's family.	1
+108	2	Were they safe on the trip?	Yes,they wore seat belts.	no it was a life threatening drive !	0
+108	3	Who was driving?	Mom	The storyteller's Dad.	1
+108	4	Were there other people there?	No, the storyteller was alone.	Other drivers on the road	1
+108	5	Why are they driving?	They are going to church	They are on a day trip	1
+109	0	Who told them to take the medicine?	His friend	the doctor	1
+109	1	How did they administer the medicine to them?	They measured a dose into the cap.	In a syringe	0
+109	2	Why do they give the medicine to them?	Based on symptom he exhibited	to help him sleep	0
+109	3	Who is taking the medicine?	The person telling the story	the child	1
+109	4	Where was the medicine given?	In the bedroom	in the bathroom	0
+109	5	Why did they give them medicine?	Because he was completely cured	They were sick.	1
+109	6	Who needs the medicine?	A woman	the child	1
+109	7	Who gave the medicine?	the doctor	The narrator.	1
+110	0	Where are they going?	cabo Mexico	Cancun Mexico	1
+110	1	Why did they arrive to the airport early?	They had no where else to be	it's required to allow enough time to get processed and screened through security	1
+110	2	Where were they flying to?	Cancun Mexico	Dallas, Texas	0
+111	0	Who helped change the sheets?	her mother	nobody	1
+111	1	When did they change the sheets?	During the week.	During the weekend	1
+111	2	How did they select the sheets to use?	She chose whatever was is in the closet.	Mary wanted favorite color	1
+111	3	Whose bed sheets did they change?	Mary's	her mother's	0
+111	4	whose bed sheets did they belong to?	the person who changed the sheets	the grandmothers	0
+111	5	How did the bed loo when it was done being changed?	Nice and neat	dirty old with nice smelly sheets	0
+111	6	What did they do with the old sheets?	Put them in the washer.	put them in the hamper	1
+111	7	Was this at someone's home or a hotel?	At a hotel.	At home.	1
+111	8	Did they change the blanket also?	Yes they did.	No they did not change the blankets	1
+111	9	Was it a grown up changing the bed sheets?	no	yes	0
+112	0	Where do they keep the lawnmower?	in a garage.	in a shed.	1
+112	1	How did they start the lawn mower?	Pulled the cord	They turned the key.	0
+112	2	Where did they mow the lawn?	The front and back yard at home.	in the grass	0
+112	3	What did they use to mow the lawn?	Their lawn mower.	Ride on lawnmower	0
+113	0	Were they in a hurry?	No.	yes	0
+113	1	Had they done something beforehand that required a shower?	yes	no	0
+113	2	How many times did they wash their hair?	three times	once	1
+114	0	What did they buy?	Tires	Groceries	1
+114	1	Were there a lot of groceries?	No, it was a couple items.	Yes, they had to replenish the groceries in the house	1
+114	2	Why did they get all that food?	they were out of a lot o staples and other things and needed to get food in the house	the dog broke into the cupboards and ate a lot of the food they had	0
+115	0	Who cleaned the bathroom?	a maid	Themselves	1
+115	1	What did they use to clean the toilet?	Special toilet bowl cleaner.	Shower cleaner	0
+115	2	How did they clean the tub?	With marble cleaner	Washing it out with shower cleaner.	1
+115	3	What did they use to clean the bathroom floor?	a mop	A steam cleaner	0
+115	4	Why did they clean the bathroom?	It was dirty.	For money	0
+115	5	Why did they need to clean the bathroom?	They were paid to clean it	It's dirty	1
+116	0	Who will wash the dirty sheets from the bed they changed?	they will	No one will	0
+116	1	Why was the bed messy?	yes	It had someone in it	0
+116	2	Where is the bed?	Guest room	Bedroom	1
+116	3	Do they leave the pillows on top when they make the bed?	No they do not.	Yes they do.	0
+116	4	Do the sheets need to be washed?	No	Yes	1
+116	5	Was there a comforter put onto the bed?	yes, a comforter	no, just a blanket	1
+116	6	Can you make a bed after you get in it?	No	Yes	0
+116	7	Where are they making the bed, in a bedroom or in a hotel?	In a hotel.	In their bedroom.	1
+117	0	When did they remove the gas cap?	After they paid	Before they paid	0
+117	1	How did they pay for fuel?	cash inside	With card at the pump	1
+117	2	How long did they wait in line?	They didn't	one hour	0
+117	3	Who fueled the car?	the attendant	the driver	1
+117	4	Did they have to wait long to use a pump?	no they used the pump right away	Yes, a very long time	0
+117	5	Where did they fuel the car?	At the gas station	at home	0
+117	6	Who did they pay for the gas?	gas station attendant	They paid for it with, their card	1
+117	7	Why were they fueling the car?	they were going on a long drive and needed to make sure he had enough fuel	the tank had a leak	0
+117	8	Did they buy anything else besides fuel?	no	yes they bought chips	0
+117	9	How do they pay for the gas?	With a card	cash	0
+118	0	Do they know them?	no, it was a random caller	yes, they are friends	1
+118	1	Who answered the phone?	Themself	Jasmine.	0
+118	2	Was the conversation nice?	yes	No.	0
+118	3	Was it a pleasant call?	Yes	No.	0
+118	4	Was the phone answered for an emergency?	no	yes	0
+118	5	Who was the person who called?	Their friend Jasmine	Their mother	0
+118	6	Why did the caller call that person?	To catch up	To ask for money.	0
+119	0	How many movies were watched?	They watched one movie.	They watched three movies.	0
+119	1	Did they agree on where to go?	yes stayed home	No.	0
+119	2	Did they enjoy the movie?	No, they didn't like it at all.	Yes, they enjoyed the movie.	1
+119	3	What were they sitting on to watch the movie?	The all sat on the couch.	Everyone sat on the floor.	0
+119	4	Did they understand the movie?	No, they didn't get it.	Yes, they understood the movie.	1
+119	5	Why did they laugh?	there were no funny parts	because of the funny parts	1
+119	6	Did they travel during the movie?	yes	no	1
+119	7	Why did they play the movie?	they wanted to see the new movie	they didn't want to watch a movie	0
+120	0	How did they feed the cat?	open the can with a pull tab	by throwing the food at her	0
+120	1	What type of meat did they feed to the cat?	Chicken and tuna flavored wet cat food.	Beef flavored dry food.	0
+120	2	What is their cat¡¯s name ?	Gracie	Paul	0
+120	3	What does the cat eat off of?	water bowl	a food dish	1
+120	4	When did they feed the cat?	never did	When the cat 'asked' to be fed	1
+120	5	Why did they decide to feed the cat?	It was sleeping.	because the cat was asking to be fed	1
+120	6	What did the cat eat?	Cat treats.	One can of tuna and chicken flavored cat food	1
+120	7	What meal is this?	breakfast	dinner	1
+121	0	Who is cooking the fish?	the mom	his dad	1
+121	1	why were they cooking fish?	they have nothing else to eat	hungry	1
+121	2	Why did they use the oven?	to fry the fish	bake fish	1
+121	3	how many people helped cook the fish?	the mom and dad	0	1
+122	0	What kind of soup was it?	Cream of Celery	Chicken noodle soup	1
+122	1	How long did they let the soup simmer on the stove?	for a while but not too long because it says it only took a little while	10 hours	0
+122	2	How long did it take to make the soup?	5 minutes	Having made soup many times I would estimate a total of 45 min with all that chopping and if the veggies were cut small enough they'd cook quickly	1
+122	3	Who made the soup?	The speaker	her mom	0
+122	4	What was one of the main ingredients in the soup?	beef	chicken, carrots, onions, celery, noodles	1
+122	5	How was the soup made?	baked in the oven	from scratch	1
+122	6	How did they begin making the soup?	By chopping up the chicken	Put water on to boil	0
+123	0	When did they make the scrambled eggs?	last day in old place	first day in new place	1
+123	1	how many people were involved in cooking?	Seven	One	1
+123	2	Where did they make the eggs?	At their moms house.	In their new home.	1
+123	3	How did they cook the eggs?	Sunny side up	in a pan	1
+124	0	Why are they writing to this person?	to thank them for the birthday card	To celebrate her birthday	0
+124	1	What materials did they use to write the letter?	plastic and markers	paper and pen	1
+124	2	Who is the letter for?	her friend in India	my mom	0
+124	3	Why did they hand write the letter instead of typing it on a computer?	no computer	it's more special and a better way to stay in touch	1
+124	4	Did they talk about places they went to in the letter?	yes	No, they talked about places they wanted to go.	0
+125	0	Do they wash their own hair?	no, her mother did.	yes, she did.	1
+125	1	How did the bath feel?	yes, the warm water was relaxing.	no, the water was too cold.	0
+125	2	Did they bathe to get clean?	no, they bathed to soak sore muscles	yes, and to relax	1
+125	3	Who prepared the bath?	My girlfriend	The narrator	1
+125	4	How big was the bathtub?	a deep soaking tub	Quite shallow	0
+125	5	Did the bath soap have a smell?	Yes, it was scented	no, no soap or bath scents were added.	0
+125	6	Why did they stay in for a long as they did?	dinner was soon afterwards	it was too cold	0
+126	0	Who fueled the car?	the narrator	The neighbor	0
+126	1	Who paid for the fuel?	Friend.	Owner/author.	1
+126	2	Whose car were they filling?	the grandmother's car	The person's car	1
+126	3	Where were they filling gas?	Work.	Their favorite gas station	1
+126	4	How long did it take to put fuel in the car?	a long time	It was done quickly.	0
+126	5	Who drove to the gas station?	A friend.	The owner/author.	1
+126	6	How did they pay for the fuel?	Cash	Credit card	1
+127	0	How well did they know the recipient of the letter?	very well	they were writing as strangers	0
+127	1	What did they use to write the letter?	Paper and pencil	pen and paper	1
+127	2	Who is the letter for?	their parents	their friend	0
+127	3	How many stamps did they use?	4	One.	1
+127	4	Were they sitting while they wrote the letter?	on their bed	No, standing.	0
+127	5	Did they write the letter at a desk?	No.	yes	0
+128	0	Who will help clean up?	Workers.	All of them	1
+128	1	Who will cook the food?	Me	It isn't being cooked at the picnic	1
+128	2	Where was the sun in the sky at the picnic?	It was hidden behind clouds	mainly above	1
+128	3	How many people went on the picnic?	Four.	2	0
+128	4	Who was present?	a class from school	Two parents and two kids.	1
+128	5	Did they stay at the picnic for a long time?	Yes, 5 hours	No, they left soon after they ate	0
+128	6	Are they only packing food items?	No.	yes	0
+128	7	what time did they make the food?	before 1pm or after 4pm	1 P.M.	1
+128	8	Could people bring their children to the picnic?	yes	no	0
+128	9	How is the weather?	rainy	sunny	1
+129	0	Did they clean the floor during the day or at night time?	night time	day time	1
+129	1	Did they use a mop to clean?	yes	No, just a vacuum.	0
+129	2	Was there a spill or was it generally dirty?	Yes, there was soda all over the floor.	it was generally dirty from yesterday dust and dirt	1
+129	3	What time of day did they clean?	7am	9 in the morning.	0
+129	4	Did they have to break it into two or more tasks such as sweeping and mopping?	Yes, they vacuumed and moped	No, they only mopped	0
+130	0	Did they chop each vegetable separately?	No they didn't.	Yes they did.	1
+130	1	How many vegetables did they chop?	Four	Three different vegetables.	1
+130	2	Where were the vegetables chopped?	on the counter top	On the cutting board.	1
+130	3	What will happen to the vegetables now?	They will be saved for lunch tomorrow	They will be put in the soup	1
+130	4	Were they preparing a meal?	no, they were preparing a snack	yes, they were preparing dinner	1
+130	5	When did they pull out the cutting board?	Before chopping the vegetables.	After chopping the celery	0
+130	6	Why did they need to chop vegetables?	To make a casserole	To add them to the soup.	1
+130	7	What did they chop the vegetables with?	An electric chopper.	Knife	1
+130	8	Are the chopped vegetables being used for entree?	yes, they were being used to make the soup	No, they were being used for dessert	0
+131	0	When did they take the picture?	when the older couple showed up	daytime	1
+131	1	Was it dark when they took the photograph?	yes, they needed flash	no, it was during the day	1
+131	2	Where are they taking the photograph?	in a park	at the beach	1
+131	3	When in the day was the photo taken?	Afternoon	in the day	0
+131	4	Were the people excited to have their picture taken?	yes, they were	no, they weren't	0
+131	5	Did they know the photographer?	no , they didn't	yes, they did	0
+131	6	How long did it take them to get a good photograph?	they struggled with the camera	5 Minutes	1
+131	7	Was the person taking the picture nice?	Yes, they were	no, they were put off	0
+131	8	What were they taking a picture of?	the beach only	their family	1
+131	9	Did they finish taking the photograph?	no, they didn't	yes, they did	1
+131	10	What did they use to take the photograph with?	the cell phone	a Canon camera	0
+132	0	Was the coffee too hot?	Yes	No	1
+132	1	Who made the coffee?	a child	the author	1
+132	2	Are they cooking meat?	yes	no	1
+132	3	Where did they make the coffee?	At home	At work	0
+132	4	Did they add milk or creamer?	yes	Milk	0
+132	5	Who was the coffee for?	themselves	for the child	0
+132	6	Did they like the coffee?	No	Yes	1
+133	0	What was the party for?	their cousin	brothers birthday	1
+133	1	Why did they send invitations instead of calling everybody?	it's more traditional to send out invitations	it was easier	0
+133	2	How easy was the process of sending invites?	very hard	pretty simple	1
+133	3	who is invited to the party?	no one was invited	friends and family	1
+133	4	Who was invited?	family only	family and friends	1
+133	5	Where did they drop off the invitations?	at the post office	in mailbox	1
+133	6	when did they mail the invitations?	After the party	Before the party	1
+134	0	Did they wash dishes at home?	Yes, they did.	No, they didn't.	0
+134	1	Did anyone help?	Yes	No	1
+134	2	How did they get the dishes clean?	they were all put into a dishwasher	they washed then dried them in batches by hand	1
+134	3	When did they start washing the dishes?	after dinner	after a large family breakfast	0
+134	4	How many dishes do they need to wash?	a whole lot!	10	0
+134	5	Who dirtied the dishes?	The dog	The family	1
+134	6	What did they do with any food that was left on any dishes?	Left it on there	throw it away	1
+134	7	why do they wash the dishes	For fun	it's their chore to do	1
+134	8	How long did it take to wash the dishes?	Two hours	almost 30 min	1
+135	0	Did the caller get an indication that assistance was on the way?	Yes the 911 operator said help was on the way.	No, they were not told help was on the way.	0
+135	1	Who called 911?	neighbor/ person telling story	The woman	0
+135	2	When did they call 911?	They did not call 911	After seeing the man yelling at the neighbor.	1
+135	3	Did the caller remain on the line while waiting for help?	No they hung up with 911 before help arrived.	Yes the caller remained on the line while waiting for help.	1
+135	4	Where were they when they called 911?	outside home	inside home	1
+135	5	How did the situation turn out?	The woman beat the man.	The man was taken away by police.	1
+135	6	How did the caller realize that there was an emergency?	The man yelling look scary	The neighbor told them there was an emergency.	0
+135	7	Was there a violent incident involved?	Someone was in need of medical help.	no	1
+135	8	Did they feel better after?	Yes	No they were still worried.	0
+135	9	Who was in danger, needing emergency assistance?	The neighbor was in danger.	An old man	0
+136	0	Did they know how to sew on a button?	No	Yes	1
+136	1	Did the original button break?	no	yes	0
+137	0	How many people were in the photos?	none	1	0
+137	1	Was the camera nice?	No, a disposable.	Yes, high quality.	1
+137	2	Was it dark when they took the photograph?	no	it was nighttime	0
+137	3	What was the reason for taking the photo?	beautiful setting	it was cold	0
+137	4	Why were the pictures being taken?	Beautiful scenery.	someone asked me to	0
+137	5	Where were they taking the photograph?	At the store.	forest	1
+137	6	Where was the picture taken?	In Mexico.	forest	1
+137	7	Was there a certain pose for the photo?	No.	Yes	0
+137	8	Did they take the photograph well or not?	No.	yes	1
+138	0	What did they use to make the coffee?	A kettle and some water	Water and coffee grounds.	1
+138	1	Where did they make the coffee?	In the bedroom	At their home.	1
+138	2	Where did they drink their coffee?	Home	They took it to their car.	0
+138	3	How much coffee was made?	Just one mug.	one to three	1
+138	4	What did they add to their coffee?	Nothing it was black.	Milk and sugar	0
+138	5	How did the coffee make the house smell?	good	It didn't smell at all.	0
+138	6	Who made the coffee?	the narrator	their cousin	0
+138	7	Was the coffee too hot?	yes	no	1
+138	8	Who poured the coffee?	The person telling the story.	The husband of the storyteller	0
+138	9	Why did they get the coffee there?	They couldn't afford to go buy a hot cup of coffee	they needed caffeine at home to wake up	1
+139	0	Did it break when it went out?	No	Yes	0
+139	1	What room had to have the light bulb changed?	The dining room	The living room	1
+139	2	Why did they cut off the power first?	For safety.	So they could see that the lamp wasn't on	0
+139	3	When did the burned out light bulb get replaced?	When a new one had been purchased	When the owner found one in a drawer	0
+139	4	Who helped change the light bulb?	the clerk	No one	1
+139	5	How many people helped change the light bulb?	No one helped	Two	0
+139	6	Did they use any tools to change the light bulb?	Yes	No	1
+139	7	Who changed the light bulb?	The narrator.	It didn't specify	0
+139	8	How long did it take to change the light bulb?	A few minutes	A few hours	0
+139	9	Did they have to climb up to reach the light bulb?	No	Yes	0
+139	10	When did the light go out?	When it was knocked off the table	When the light bulb burned out	1
+139	11	How did they change the light bulb?	By unscrewing the old bulb and screwing in the new bulb	Extra light bulb in the home	0
+140	0	How many clothes did they fold in total?	4 loads	Three loads worth	1
+140	1	Where did they put everything when they finished?	on the table	Where they belonged.	1
+140	2	who folded the clothes?	The narrator	someone else did	0
+140	3	When did they start folding clothes?	The next morning	that night	0
+140	4	Were they folding clothes for themselves or someone else?	someone else	Themselves	1
+141	0	Who will drink the milk once it's boiled?	they will	no one, it will be used to make cheese	1
+141	1	What was the boiled milk for?	to make hot chocolate	to make cottage cheese	1
+141	2	Who boiled the milk?	their friend did	the author	1
+141	3	Were they making hot chocolate or something else?	something else	hot chocolate	0
+141	4	When did they boil the milk?	last month	After selecting the appropriate pan	1
+141	5	What container was used to boil the milk?	a wide pan	a pot	0
+141	6	Was boiled milk needed for a recipe?	No, but it was a cold night	yes	1
+141	7	Who wanted to boil milk?	the author	their friends did	0
+141	8	Did they use a potholder to remove the boiling milk for the heat source?	yes	no	0
+141	9	How long did it take the milk to boil?	60 minutes	10 minutes	1
+141	10	Why did they boil the milk?	sterilize the milk	it needed to be hot to make cheese	0
+141	11	Was the hot milk good?	yes	no	0
+142	0	In what room did they make the breakfast?	In their kitchen.	Living room.	0
+142	1	How does the breakfast taste?	delicious!	It got burned.	0
+142	2	Who all ate the breakfast?	Three others.	The person telling the story.	1
+142	3	Why did they make breakfast?	They were cooking for family	Because they were hungry.	1
+142	4	What time of the day is breakfast eaten?	In the afternoon.	Usually, in the morning.	1
+143	0	Where did they drop off the invitations?	They put them in their mailbox.	They took them to the post office.	1
+143	1	Why were invitations sent out?	invite friends	It was a Halloween party	0
+143	2	Why did they send invitations?	It was going to be Beth's birthday	It was for a Christmas party.	0
+143	3	Why are they sending out invitations?	A Halloween party.	They are inviting people to Beth's birthday party.	1
+143	4	What did they use to make the invitations?	They used pretty cards.	Ugly cards.	0
+143	5	How did they mail the invitations?	They put them in their mailbox.	Sent in the mail	1
+143	6	Did they enjoy sending out invitations?	No, it was a pain.	Yes, Beth was excited.	1
+143	7	How did they create the invitations?	They typed it up.	writing them	1
+144	0	Why did they go to the theater?	because they love to go	they hate it there	0
+144	1	Who did they invite?	Their family	Their friends	1
+144	2	How did they get tickets?	They got them online.	Ticket booth	1
+144	3	Where did they go when the movie ended?	Home	out dancing	0
+144	4	Will they bring a date to the theater?	No, they went with friends.	Yes, they were bringing a date.	0
+144	5	Did they go with anyone else?	No they went alone	Yes, they went with their friends.	1
+145	0	Why did they paper the room?	The old wallpaper looked bad	They wanted new colors in the room	0
+145	1	How did they get the room ready to be papered?	the left the old paper on	They took the old paper off	1
+145	2	Who papered the room?	a contractor	Two friends	1
+145	3	Why did they decide to paper the room?	The old paint was peeling	the old stuff looked bad	1
+146	0	How much coffee did they make?	enough	not a lot	0
+146	1	Did they like the coffee?	no	yes	1
+146	2	Did they add sugar?	yes	no	0
+146	3	Who made the coffee?	they did	waitress	0
+146	4	Did they use coffee beans or ground coffee?	coffee beans	Coffee Ground	1
+146	5	How much coffee was made?	none	a lot	1
+147	0	How will the family arrive at the funeral?	by bus	in a funeral procession of various cars	1
+147	1	What did they do at the funeral?	Laughed, cried, told stories about Aunt Martha and pretty much mourned her and said their good-byes	Played with toys	0
+147	2	Where was the funeral held?	A funeral home, and then Shady Oaks cemetery	a church	0
+147	3	Why did everyone drive in a line?	they didn't	So they could follow the police escort to the cemetery	1
+148	0	Where were the egg shells put?	in with the eggs	trash	1
+148	1	Did they eat the eggs from a plate or a bowl?	in a bowl	plate	1
+148	2	Where did they make the scrambled eggs?	In their bed room	In their kitchen	1
+148	3	Where did they get the eggs from?	the fridge.	neighbor	0
+148	4	How long did the eggs cook for?	a few minutes.	left then on the stove to long and they burned	0
+148	5	Did they add anything to the eggs?	nothing.	yes	1
+148	6	What did they cook the eggs in?	in a non stick pan	a pie plate	0
+148	7	How many eggs did they use for the scrambled eggs?	three eggs	two eggs	1
+148	8	How many eggs were used?	two eggs	three eggs	0
+148	9	How did they cook the eggs?	very firm	They stirred it to scramble.	1
+149	0	Who was the student?	their mom	the author	1
+149	1	Why did they want to take driving lessons?	To get their license.	To apply for a job.	0
+150	0	Who ordered the pizza?	The dog did.	the main character	1
+150	1	How did the pizza taste?	scrumptious	Awful	0
+150	2	When did they pay for the pizza?	Once it was delivered	pre-paid when placing the order	0
+150	3	How did they place the order?	over the phone	online at Domino's website	0
+150	4	What door did the pizza get delivered to?	front door	His garage door.	0
+150	5	Did they order anything else?	yes	No.	1
+150	6	Who cooked the pizza?	He did.	Domino's Pizza	1
+150	7	Who is cooking the pizza?	Pizza Hut	Domino's Pizza	1
+150	8	Did they like the pizza?	No.	yes	1
+150	9	When did the pizza arrive?	Soon after it was ordered	One hour after ordering.	0
+151	0	For how many people did they set the table for?	2	4	1
+151	1	How did they arrange the dishes on the table?	every place had a full setting	Four for each person.	0
+151	2	Where did they set up the dining table?	In the living room.	people were coming for dinner	1
+151	3	Where all the places set in exactly the same fashion ?	yes	No.	0
+151	4	Why did they set the table?	for them to eat together	people were coming for dinner	1
+151	5	Who was invited?	Some friends.	family	0
+151	6	Why did they set that number of places?	That's how many were coming.	To seat two people	0
+152	0	How many other people were in the sauna?	Someone else was in there.	none	1
+152	1	How hot was the sauna?	It was cold and not that steamy.	Very hot	1
+152	2	How long did they stay in the sauna?	Over thirty minutes.	About ten minutes.	1
+152	3	Where did they sit inside the sauna?	On the floor	On a bench	1
+153	0	was the pasta good?	No,it turned out bad.	Yes,they enjoyed it.	1
+153	1	Who cooked the pasta?	The narrator	The girl did.	0
+154	0	Did they put on sunscreen or other protection before swimming?	Yes	No	0
+154	1	How did they get to the pool?	drove	Walked	1
+154	2	How long did it take them to get to the swimming pool?	a half hour	several hours	0
+155	0	Who did the work?	they and their friends did	The staff at the store	0
+155	1	Is it in their house?	yes	no	0
+155	2	Which room did they paper?	Kitchen	the living room	1
+155	3	Who will be helping with the papering?	Author and friend	Landlord	0
+155	4	Who papered the room?	they and their friend did	professional wallpaper installers	0
+155	5	What color was the wallpaper?	Yellow	Red	0
+156	0	Did they pack drinks?	No, they would buy them there	Yes	1
+156	1	What type of food will they eat?	Sandwiches, potato salad, and snacks	They will eat Barbeque Ribs	0
+157	0	Who mowed the grass?	just him	The speaker, his wife and mother-in-law	1
+157	1	Did anyone help to mow the lawn?	No	Yes	1
+157	2	Was the grass very long before they mowed the lawn?	Yes	No.	0
+157	3	Why did they need to mow the lawn?	The grass was too low	The grass was too high	1
+158	0	When was the last time they were cleaned?	They have not been cleaned	after the last diner was finished	1
+158	1	Where did they clean the table?	At the restaurant	home	0
+158	2	Were dishes on the table?	No dishes	yes	1
+158	3	Did they have to clear the table before cleaning it?	Yes, they clear it.	No, they clean around the old dishes.	0
+158	4	Did anyone help them clean the table?	No one helped	Yes a group helped	0
+158	5	Who are they cleaning the table for?	Their boss.	So it's clean for the next diner	1
+158	6	Why did they clean the table?	It was dirty	They didn't clean it	0
+159	0	Did they finish taking the photograph?	yes	no	0
+159	1	What type of person is taking the photograph?	child	mother	0
+159	2	What camera did they use?	Old camera	Penny's	1
+159	3	Did they use a tripod?	It didn't mention one, so probably not.	yes	0
+159	4	Why are they taking a photograph?	Penny likes dogs	She was being paid.	0
+159	5	Did their arm get sore holding the camera?	no	yes	0
+159	6	Where was the photo taken?	At the dog park.	The store	0
+160	0	Why did they mow the lawn that day?	they needed lawn clippings	the grass had grown	1
+160	1	Did they get it all finished?	No	Yes	1
+160	2	What time of the day did they mow the lawn?	Night	Morning	1
+160	3	Was the grass very high?	no	yes	1
+160	4	Did they have a helper?	No	Yes	0
+161	0	What did they eat at the theater?	Butter popcorn, a pickle, and Dr. Pepper	Flaming Hot cheetos.	0
+161	1	Why did they need tickets in advance?	Because they only like to watch super-popular movies	Because the theater was pretty far away	1
+161	2	Where did they go to see the movie?	the drive thru	the movie theater	1
+161	3	Did they enjoy their day at the theater?	Yes	No	0
+161	4	How did they get to the theater?	The next door neighbors took the Author to the theater.	They drove	1
+161	5	How did they get tickets?	they preordered the tickets	They get them at the theater the day of the movie	0
+162	0	How long will it take them to drink the tea?	5 Minutes	1 Hour	0
+162	1	How long did they put the tea bags in the water?	hours	no tea bags, loose tea for a few minutes	1
+162	2	Where was the tea made?	in the oven	Kitchen	1
+162	3	where are they making tea?	Kitchen	work	0
+162	4	Did they use tea bags or tea leaves?	Tea bag	tea leaves	1
+162	5	Was there cream or milk added?	yes	No	1
+162	6	How long was it before the tea was served?	she had some in a few min then took some to work later	hours	0
+162	7	What do they add to their tea?	honey	Salt	0
+163	0	What did they do to the old bed sheets?	Threw them into washer, then drier	Throw them away	0
+163	1	Do they change them overnight and sleep without sheets?	No	Yes	0
+163	2	Was this at someone's home or a hotel?	Home	Hotel	0
+163	3	What kind of sheets did they put on bed?	Pink sheets	fitted, flat, pillowcases	1
+163	4	Who's bed sheets were being changed?	Mothers	Their own	1
+163	5	why did the bed sheets need to be changed?	they were muddy	the narrator had sweat	1
+163	6	Did they help change the bedsheets?	Yes	No	0
+163	7	How long did it take?	less than 10 minutes	Around two hours	1
+163	8	whose bed sheets did they belong to?	Themself	Mother	0
+163	9	Who changed the bed sheets?	Speaker	Dad	0
+164	0	Is the water hot or just warm?	They used lukewarm water.	They used hot water.	1
+164	1	Why were they washing their hair?	it was dirty	Didn't wash it	0
+164	2	Who washed their hair?	Author	their mom	0
+164	3	Did they need a lot of towels to dry their hair?	no	yes	0
+164	4	Were they wearing a shower cap?	yes	no	1
+165	0	Does the dog like walks?	Yes	No	0
+165	1	Who walked the dog?	A hired dog walker	The author	1
+165	2	Why did they have to walk the dog?	To train the dog	all dogs need walking	1
+165	3	Where did they go along the way?	The grocery store	To the park and lake	1
+165	4	Was the dog walker also the owner of the dog?	NO	Yes it was the same person	1
+165	5	How was the weather?	Wet and raining	Sunny and warm	1
+165	6	Did the dog try to run away from them?	Yes	No	1
+165	7	Do they walk the trail?	Yes	no, they went to the park	1
+166	0	When did they add the first item?	After making a meal plan and checking the cupboard	at the store	0
+166	1	Is it a list of food or other items?	Just food.	Both food and other items.	1
+166	2	Why were they going shop?	For a birthday	They needed things from the grocery store.	1
+166	3	Why did they write the list?	As a Christmas list	So they wouldn't forget to get the items.	1
+167	0	Did they have dinosaurs at the museum ?	Probably not, since it was an ART museum.	Yes	0
+167	1	Which museum did they go to ?	Dallas Museum of Art	Smithsonian	0
+167	2	Was their a tour guide?	No, or they would have mentioned it.	Yes, that is why they could only look at things for a short time.	0
+167	3	Did they see a famous document at the museum ?	yes	no	1
+168	0	Did they say hello?	yes	No.	0
+168	1	What did they say when they picked up their phone?	They said "Hello, who is calling please?"	good-bye	0
+168	2	What was there greeting?	hello	Hi.	0
+168	3	How did they answer the phone?	By picking it up.	They said "Hello, Gramma"	0
+168	4	Who was the person who called?	gramma	Grandpa	0
+168	5	Were they very talkative?	No	Yes	1
+169	0	Where were they doing laundry?	At home	they were bored	0
+169	1	Where was the laundry done?	At home	In the local laundromat.	0
+169	2	Were the clothes hung on a line outside to dry?	Yes, they were.	no they were dried in the dryer	1
+169	3	why did they do the laundry?	They spilled paint on all their clothes.	to clean their clothes	1
+169	4	Who did the laundry?	The storyteller.	the next door neighbor	0
+170	0	Where did the toys belong?	On the floor	toy box, shelves, closet, corner	1
+170	1	Where did they put the toys away?	Only on the shelf	In different places	1
+170	2	Why did they clean up the toys?	the end of the day	Because it was a crime scene	0
+170	3	How did the toys end up being left out?	The kids didn't put them away.	The kids were too tired to clean up	0
+170	4	What type of toys were out?	All kinds of toys	Clothes, books, and stuffed animals	0
+170	5	Did anyone help them?	No they cleaned up alone	Yes, a profession "crime scene cleanup" service	0
+171	0	Who has to give them the medicine?	The parent.	dad	0
+171	1	Is the medicine hard to swallow?	Yes	No	1
+171	2	Will the medicine make them better?	No	Yes	1
+171	3	Who has to take the medicine?	little girl	the sibling	0
+172	0	How many tickets did they need?	2 each way, 4 total	Two drinks	0
+172	1	Are they flying alone or with someone else?	Some else.	Traveling alone	0
+172	2	Why are they traveling?	Work.	for vacation	1
+172	3	Are they flying for work or vacation?	work.	They are flying for vacation.	1
+172	4	When did they make the reservations?	a few weeks ahead of time	Same day as traveling	0
+172	5	Where are they traveling to?	California	Florida.	1
+172	6	Why did they need reservations?	They like to pay the airline.	So they could ensure a spot	1
+173	0	Did they still have to pay for the meal?	no. it was free	Yes, they still paid.	1
+173	1	What food did they order?	They got a cheese pizza.	Steaks and salmon	1
+173	2	How did the food taste?	Everything was good except for the salmon.	Everything was great	0
+173	3	what did they order to drink?	a diet coke and water	Water and iced tea	1
+173	4	was the restaurant close to home?	no	yes	1
+173	5	Why were they disappointed?	no	The food was slow	0
+174	0	Did it hurt them to have the dentist clean their teeth?	No	Yes	0
+174	1	What did the dentist do to their teeth?	play with his teeth	examined their teeth	1
+174	2	Did they have a cavity?	Yes	No	1
+174	3	What did the dentist do for them?	gave them an x-ray	examine their mouth	1
+175	0	How did they make the soup?	by hand	in a microwave	0
+175	1	How long did it take to prepare the soup?	a few minutes	2 hours	0
+175	2	Who was making the soup?	a professional chef	the narrator	1
+175	3	Was there any meat in the soup?	no	yes	0
+175	4	What ingredients were used?	eggs, water, soy sauce, white pepper, black vinegar, chopped green onion, cornstarch and salt	chicken, noodles, water, soy sauce, eggs	0
+175	5	Was the soup good?	no	yes	1
+175	6	Was the soup a microwave soup?	yes	no	1
+175	7	Where was the soup made?	at home	in the bedroom	0
+175	8	When will the soup be done?	a few minutes	when it is cold	0
+176	0	Why did they clean the shower?	It was clean	They always put it off and it needed to be cleaned.	1
+176	1	What cleaning materials did they use?	Dish soap, vinegar, and water.	Only a scrubbing brush.	0
+176	2	Was the cleaner in a house or another type of building?	In the garage	House	1
+177	0	What snacks did they take with them?	ice cream,chips	snacks like pretzels	1
+177	1	How are they getting to the camp site?	They are driving.	walking	0
+177	2	do they have all the supplies?	No, they had to go shopping.	Yes, they had their supplies.	1
+177	3	Where did they sleep on the trip?	In a tent.	In the car.	0
+177	4	How long did it take to plan the trip?	one evening	a week	0
+177	5	how long was the trip?	They stayed one night.	one week	0
+178	0	Where are they putting the painting up at?	in the living room	In Billy's bedroom	1
+178	1	What type of painting is it?	A picture of a bird	A picture of a locomotive	1
+178	2	What did they need to do before hanging the painting?	Mark the wall	weigh the painting	0
+178	3	how long did it take to put up?	few mins	1 hour	0
+178	4	Who put up the painting?	Billy	Tommy	0
+178	5	How long did it take them to hang the painting?	few mins	1 hour	0
+178	6	Where is the best place to hang the painting?	In the center of the wall.	corner of his room	1
+179	0	Why did they choose this sauna?	it had good reviews	Because it was local and his wife needed to relax.	1
+179	1	Where did they sit down?	They sat down on the chairs.	No where, they laid down on the benches.	1
+179	2	Why did they go to the sauna?	the husband had a stressful week at work	He wanted to surprise his wife so they could relax.	1
+179	3	Where do you go to check in?	at the shower	They checked in with the attendant.	1
+179	4	Was there steam in the sauna?	No, the sauna was broken.	Yes, they poured water over the coals and steam filled the room.	1
+179	5	How many people went?	two people	A group of people went.	0
+179	6	When did they go to the sauna?	On a Tuesday.	During the weekend.	1
+180	0	Where was the funeral held?	New York.	Wisconsin	1
+180	1	Why was there a funeral?	Grandma died.	Grandpa died.	0
+180	2	Did they give flowers at the funeral?	No	Yes	1
+180	3	How did they know the deceased person?	a relative	She was a friend.	0
+180	4	how did they get killed or die?	cancer	A stroke	1
+180	5	Was there a video at the funeral?	No	Yes, there was a video of her life.	1
+180	6	When did they go to the funeral?	the day after the wake	right after the wake	0
+180	7	Why did people talk at the funeral?	They talked about their favorite music.	To honor and remember the deceased	1
+181	0	What did they make?	They made a meat pie with the steak	Steak, salad, and bread with butter.	1
+181	1	Why did they decide to make what they did?	It's whats in the fridge.	They had been planning the dinner for a week	0
+181	2	Where was dinner prepared?	At a friend's house	In the storyteller's kitchen.	1
+181	3	What type of cutlery are they going to serve the dinner with?	Forks,tongs,and knives.	Tongs,knives,and spoons.	0
+181	4	Where did they prepare the dinner?	In the storyteller's kitchen.	At the restaurant.	0
+182	0	Who went to the barbeque?	Just their family.	HE ALONE	1
+182	1	When are they going to start cooking food for the barbecue?	after their friends arrive	After shopping.	1
+183	0	Were they in danger at the time of calling?	No.	Yes	0
+183	1	Was there more than one person who needed help?	Yes	Noone else	1
+183	2	When did they call?	As soon as they saw the smoke	After opening the door	0
+183	3	Who called 911?	Neighbor called	The narrator.	1
+183	4	How long after calling did responders show up?	30-40 minutes	3-4 minutes	1
+183	5	How did the accident occur?	A person left food cooking.	The door was open	0
+183	6	Why did they call 911?	They were locked out.	Saw smoke	1
+183	7	Where were they?	At home	At work	0
+183	8	Was there a fire?	Yes in the kitchen	No.	0
+183	9	Where was the emergency that prompted the 911 call?	At the story teller's house	Their job.	0
+183	10	Who was the reason they called 911?	Dave	Someone broke in	0
+184	0	Did they have to wait long to use a pump?	No	Yes	0
+184	1	Did they pay with cash or a card?	cash	Credit Card	1
+184	2	When did they fill up the fuel?	When the tank was empty.	After work	1
+184	3	Did they fill the gas tank all the way?	No, filled one gallon.	Yes, the tank was filled all the way.	1
+184	4	Who did they pay before they put fuel in the car?	inside person	The machine	1
+184	5	What time of day was it when they put fuel in the car?	evening	morning	0
+184	6	Did they remember to replace the gas cap after fueling the car?	No,they forgot.	Yes, he replaced the gas cap.	1
+184	7	Who is fueling the car?	The driver.	The gas attendant	0
+184	8	How much fuel did they put in the car?	half tank	The tank was filled completely.	1
+185	0	who is the artist?	the daughter	Dad	0
+185	1	How did the painting look?	Bad.	great	1
+185	2	How long did it take to hang it?	two days	Only a couple minutes.	1
+185	3	Who put up the painting?	Her dad	mom	0
+185	4	How long did it take to put up?	probably an hour	all day	0
+185	5	Who hung it up?	Dad	Tanya	0
+185	6	How long did it take them to hang the painting?	two days	a probably and hour or less	1
+185	7	How did they get the painting?	From daughter	Bought at store	0
+186	0	Where are they cleaning the shower?	it was cleaning day	In the bathroom	1
+186	1	why are they cleaning it?	it is filthy and grimy	it was cleaning day	0
+186	2	Why did they spray so much of the cleaner?	Dirty	Clean	0
+186	3	what supplies were used?	only sponge	Gloves, bleach, bucket, sponge, shower cleaner	1
+186	4	whose shower is it?	a friends	Their own	1
+186	5	What was the main reason they were cleaning the shower at that time?	It was filthy	it was cleaning day	0
+187	0	Was it the right order?	No, the steak was ordered rare	Yes it was perfect the first time.	0
+187	1	What had they ordered?	Salad and a rare steak.	Chicken	0
+187	2	Who took the order back?	The waitress took it back.	The chef	0
+187	3	Was it cooked enough?	It was undercooked.	No	1
+187	4	Was the replacement food better?	Yes, the replacement was better.	No, they had to send the replacement back.	0
+187	5	What was wrong with the person's food who sent it back?	Their steak was overcooked.	It was undercooked.	0
+187	6	Did they bring the wrong food to the table?	No.	Yes	0
+187	7	Did they like the resolution?	No, they were very angry.	Yes, they were happy with the resolution.	1
+188	0	did they have dessert?	yes	No, they were on a diet.	0
+188	1	What kind of food was made for the picnic?	Salad, pizza, chicken, and dessert.	salad, pizza, and dessert	1
+188	2	How many people went on the picnic?	Six	Four.	1
+188	3	How many people are coming to the picnic?	Ten	Four.	1
+188	4	When will the picnic end?	A couple of hours later.	After 30 minutes.	0
+188	5	Who will bring dessert?	His sister	His wife	0
+188	6	Who is packing the picnic?	the narrator, his wife, and his sister	Their children.	0
+189	0	How long had the guests been waiting at the door?	Less than 1 minute	All day	0
+189	1	How did they ring the doorbell?	By knocking on the door	By pressing a button	1
+189	2	Who answered the door when the doorbell rang?	The UPS person	The homeowner	1
+189	3	Did they know the person pressing the doorbell?	No, and they could not even tell by looking at them	Yes	1
+189	4	Are they an expected visitor?	Yes	No	1
+189	5	When did the doorbell go off?	In the morning	In the afternoon	0
+189	6	Whose doorbell did they ring?	Mine	The house next door	0
+189	7	Is it Grandma coming to see me?	Yes	No, it is a courier	1
+189	8	How were the people who rang the doorbell traveling from home to home?	By bus	By automobile	1
+189	9	Did they look through the peephole?	Yes	No	0
+189	10	Did they look out of the window before the answered the door?	Yes	No- the peephole	1
+190	0	When did the letter get mailed?	The next week	The same day the person received a letter.	1
+190	1	Do they expect a response to their letter?	No they would wait and see when the sister turned up	Yes they would need confirmation of  visit dates	1
+190	2	Where did they go to mail the letter?	To the post office	To the mailbox outside their house	1
+190	3	When did they write the letter?	a week later	as soon as they opened the letter	1
+190	4	Where were they when they put the letter into the envelope?	at home	In the kitchen by the phone	0
+190	5	What did they write on the envelope?	her own address	their sister's address	1
+190	6	At what location did they mail the letter?	home	At the post office in town	0
+190	7	Who is the letter addressed to?	Her sister	her brother	0
+190	8	How many stamps did they need?	One	Seven	0
+191	0	How did they know when the water was boiling in the kettle?	it made a whistle sound	it was cold	0
+191	1	Why did they use a kettle?	to drink from	to boil water	1
+191	2	Where are they drinking the tea?	the kitchen	the bathroom	0
+191	3	What did they use to stir the tea?	a spoon	a knife	0
+192	0	Who threw the party?	The family members	The narrator (boyfriend)	1
+192	1	Was it a celebration for an achievement?	yes, well	Yes, she graduated from college.	0
+192	2	Who sent the invitations?	the girlfriend	boyfriend	1
+192	3	Did they have fun?	yes lots of fun	no it's boring	0
+193	0	Where did they put the dishes next?	the cabinets	Directly in cupboard	0
+193	1	Where did they place the dishes after unloading them from the dishwasher?	They put them in the cupboard right away.	the cabinet	1
+193	2	Do they do this often?	yes	no	0
+193	3	Why did they want to unload the dishwasher?	because it was Tuesday	To put dishes away	1
+193	4	Was there any water left on the dishes?	no	yes	1
+194	0	Who changed the batteries?	Occupant	a salesperson	0
+194	1	how did they change the battery?	Using the hands.	they took the old batteries up and lined the new ones with the negative and positive lines	1
+194	2	Why did the batteries need changing?	Clock is broken.	The batteries were dead	1
+194	3	How long did it take?	a few minutes	A short time	0
+194	4	Why did they throw away the old batteries?	Because he no longer needed an alarm clock	yes	1
+194	5	Why did they change the batteries?	they changed them because the old batteries were dead	no change needed	0
+194	6	Why do they need to change the batteries?	the alarm clock didn't work	The old batteries were dead	1
+195	0	Who hung it up?	me	they did	1
+195	1	What did the painting look like?	flowers	Black and white photo of daughters	1
+195	2	What wall did they put up the painting on?	Kitchen wall	hall bathroom	1
+195	3	What hanging method did they use for the painting?	hammer a nail	Screws	1
+195	4	Why are they putting it up on the wall?	Their friend told them it would be a good idea	they like it	1
+196	0	How many toys were there to pick up?	about 25 toys	1 toy	0
+196	1	Were the toys for a young child?	no, there are no children	Probably, yes.	1
+196	2	How long did it take them to clean up their toys?	More than an hour.	About fifteen minutes.	1
+196	3	How often do they clean?	daily	never	0
+196	4	What equipment did they need to clean the flat?	none	a vacuum and trash bags	0
+196	5	When did the toys get left out?	After bed	throughout day	1
+196	6	What kind of toys were there?	various	video games	0
+196	7	Who cleaned up the toys?	The speaker	The neighbor's kids.	0
+196	8	Did the person picking up the toys have any help?	no they did not	yes the grandmother helped	0
+196	9	What did they do after cleaning up?	They went to sleep.	they had a snack	0
+196	10	How long did picking up the toys take?	About fifteen minutes.	several hours	0
+196	11	What did they use to clean up the toys?	Their hands	The vacuum cleaner.	0
+197	0	What kind of medicine was it?	Allergy medicine.	Stomach medicine.	1
+197	1	Why did they give someone medicine?	To help with upset stomach	to hurt someone's stomach	0
+197	2	Who gave the medicine?	parent	the little sister	0
+197	3	What was their relationship with the person they were giving medicine to?	Mother/son	his uncle	0
+197	4	Why did they get medicine?	Their little boy's stomach was upset	dad was sick	0
+197	5	Will the medicine make them better?	Usually, medicine makes a person feel better.	no it will not help	0
+197	6	What did the mother use to measure out the medicine?	A plastic measuring cup that came with the medication	A large spoon	0
+198	0	What time of year was it?	Fall	It was summer time.	1
+198	1	What games did they play?	a game with a ball.	golf	0
+198	2	Did they wear sunscreen?	It was not stated	Yes	0
+198	3	Who was overseeing the pool?	No one.	The lifeguard	1
+199	0	Did they use a vacuum cleaner?	Yes	No	0
+199	1	Did they have to move stuff out of the way first?	Yes	No	0
+199	2	Did they have any help cleaning their flat?	No	Yes	0
+199	3	How good did they clean the flat?	Not well at all	Very good	1
+199	4	When did they change what area they were cleaning?	Every half hour	when finished	1
+199	5	Who helped in cleaning?	Roommate.	No one else.	1
+199	6	How many rooms did they clean?	Four	One	0
+199	7	Who started cleaning the flat?	The maid	The author	1
+199	8	Who cleaned the table?	mom cleaned the table	they did	1
+199	9	Did they clean every room?	No	Yes	1
+200	0	Where was the garbage bag changed?	garage	In their kitchen.	1
+200	1	Why do we use garbage bags?	for the look of the bag	for trash	1
+200	2	How long did it take to replace the garbage bag?	More than fifteen minutes.	Just a few minutes.	1
+200	3	Were they doing a chore?	no , they weren't	yes, they were	1
+201	0	What did they do after they got the paper?	Tore it up	Sat at the table and read it	1
+201	1	Where was the newspaper located?	Basement	in periodicals on the 3rd floor	1
+201	2	Did they read it?	No.	Yes	1
+201	3	How long did they have to wait til they got the newspaper?	Did not need to wait	About hour	0
+201	4	What did they do with the newspaper after they read it?	Returned the paper.	took it home	0
+202	0	Why did they take so much time to see all of the museum?	It is large	Never went	0
+202	1	How big was the museum?	Small with few things to look at	very large	1
+202	2	All in all, would they go back to the museum ?	No	Yes	1
+202	3	What type of ticket did they buy?	admissions ticket	lottery ticket	0
+202	4	Did they have fun at the museum ?	No they didn't like it	Yes they enjoyed it	1
+202	5	Why did they go to the museum?	they wanted to go	Because they had free tickets	0
+202	6	Why did they end up going to the museum ?	Never went	To learn and have fun	1
+203	0	Who changed the baby diaper?	the mother	the father	1
+203	1	What did they lay the baby on to change the baby's diaper?	Changing table.	Coffee table.	0
+203	2	Why did they have to change the diaper?	for fun	The baby had pooped.	1
+203	3	How did they change the diaper?	They had a babysitter do it	carefully	1
+203	4	Where did the dirty diaper get put?	In a garbage can.	on the floor	0
+203	5	Why did the baby's diaper need to be changed?	Their wife asked them to change the diaper	The baby had pooped.	1
+203	6	Did anyone help to change the baby?	No.	Yes	0
+203	7	who changed the diaper?	another baby	the father	1
+203	8	What did they use to clean the baby?	They didn't say.	a baby wipe	1
+203	9	Who helped them change the baby's diaper?	No one.	the wife	0
+204	0	Did the coffee taste good?	no	yes	1
+204	1	What did they use to make the coffee?	coffee filter and hot water	a coffee pot	0
+204	2	Who drank the coffee?	narrator and their wife	they parents	0
+204	3	Were they tired and in need of a lift?	no, they were fine	yes, they woke up in a bad mode and hoped the coffee would make them feel better	1
+205	0	Why did they go dancing?	their monthly ritual	try something new	0
+205	1	How long did they dance?	They danced for one hour	More than two hours.	0
+205	2	How did they feel about the dancing?	they hate it	they love it	1
+205	3	Where were they dancing?	home	At the club.	1
+205	4	Who was with them when they were out dancing ?	a few of their friends	no one was with them	0
+205	5	Is there a dance contest ?	Yes there is.	No there is not.	1
+205	6	What time did they begin dancing?	in the afternoon	evening	1
+206	0	Why did they go shopping?	Because they wanted to.	just to look at people	0
+206	1	What did they buy?	Electronics.	Clothes.	1
+206	2	Was there a food court?	yes	no there was no food there	0
+207	0	Why are they going camping?	to have fun	for work	0
+207	1	Who will be camping with them?	their family	the speaker and friends	1
+207	2	How will they cook their food?	They will cook with deep fryer	Campfire.	1
+207	3	Were they going to camp out in the forest?	No.	Yes	1
+207	4	where did they go?	a national park	Disney park	0
+207	5	Where would they be traveling to?	trailer park	a national park	1
+208	0	What does the cat eat off of?	a plate	A mat on the floor.	0
+208	1	Who normally fed the cat?	the narrator	A neighbor	0
+208	2	How eager was the cat to eat the food?	Very Eager	the cat didn't want to eat	0
+208	3	who fed it?	his mom	the narrator	1
+208	4	Why did the cat meow?	it needed to go outside	He wants to be fed	1
+208	5	Do other cats live with the cat that was fed?	Yes, a whole litter of 12 cats	no	1
+208	6	Did the cat look particularly hungry ?	Nope	jumps on bed or meows	1
+208	7	what time of day does the cat eat?	Morning	night	0
+208	8	Who purchased the cat food?	The narrator	The cat.	0
+209	0	Did they order any food on the train?	No only drinks	yes, a sandwich	0
+209	1	Where did they go?	To Boston	New York City	0
+209	2	Did they enjoy the train ride?	yes	The train was delayed and they did not enjoy the ride.	0
+209	3	How long was the train ride?	Approximately two hours.	two days	0
+209	4	Did they sit by a window?	Yes, they did.	No, they did not.	0
+210	0	Why did they mow the grass?	to make their yard look nice	They were forced to mow it by the neighborhood board	0
+210	1	How many people were mowing the lawn?	One	Two	0
+210	2	What did they drink while mowing?	Water	Tea	0
+210	3	Who mowed the lawn?	The neighbor	The narrator	1
+210	4	Where did they put the mower after it was finished?	a shed	The garage	1
+210	5	What time of the day did they mow the lawn?	The morning	Afternoon	0
+210	6	Did anyone help to mow the lawn?	No	Yes	0
+211	0	Where did they cut their hair?	In the barber shop	In the bathroom	0
+211	1	Who cut their hair?	The hair stylist	The barber	0
+211	2	Is this taking place in a business or a residence?	Residence	Business	1
+211	3	When did they get their hair cut?	The day after scheduling it	a long time ago	0
+211	4	What sharp object is involved in this activity?	Knife	Scissors	1
+212	0	why are they cleaning it now?	It was cleaned yesterday	Because it got dirty, and it would be better to clean it before it gets any dirtier.	1
+212	1	How many people are cleaning the floor?	One person, the narrator.	A few people helped clean the floor.	0
+212	2	Was there a spill or was it generally dirty?	there were no spills	Both	1
+212	3	Why did they have to clean the floor?	It was clean.	Because it got dirty.	1
+212	4	who cleaned the floor?	A cleaning company	The writer	1
+212	5	Did they sweep before or after mopping?	After mopping	Before mopping	1
+212	6	Where did they clean the floor?	Just in the center	kitchen	1
+213	0	How did they write the letter?	with a pen and paper	on the computer	0
+213	1	Who are they writing to?	their friend	my cousin	0
+213	2	Was the letter written with a pen?	yes	no, a pencil	0
+213	3	Why did they write the letter?	I was bored	to talk to their best friend	1
+214	0	Why did they see that particular movie?	They had some free tickets	They saw the ads on television.	1
+214	1	Why did they see that movie?	They had seen it advertised	The movie they wanted to see was full	0
+214	2	Did they go with anyone else?	No they went alone	Yes, their friend	1
+214	3	Did they buy anything at the concession stand?	Yes they did.	No, they brought their own.	0
+214	4	Did they buy the ticket there or in advance?	They bought them in advance.	They bought them there.	1
+214	5	Where did they go to see the movie?	A theater in their town	A theater in the next town	0
+215	0	What time of the day is breakfast eaten?	At night.	In the morning.	1
+215	1	From where did they purchase the ingredients for the breakfast?	The grocery store.	Nowhere	0
+215	2	How long did it take to cook breakfast?	a little while	More than an hour.	0
+215	3	Did they cook the food in the stove or in the oven?	In the oven.	on the stove	1
+215	4	When did they start cooking?	In the afternoon	Morning.	1
+215	5	Who prepared the food?	The storyteller's parents.	the author	1
+216	0	How long did it take for someone to answer?	quickly	after three minutes	0
+216	1	Who called 911?	The person telling the story.	My Friend	0
+216	2	What kind of phone did they use to call 911?	cell phone	Land line	1
+216	3	Why were the police dispatched?	There was an emergency.	For doughnuts	0
+217	0	What did they buy?	Just a few items.	A week's worth of groceries.	1
+217	1	Did they need groceries?	Yes, they needed groceries.	No, they had more than enough food at home.	0
+217	2	Were they quick?	no, longer than usual	yes, faster than usual	1
+217	3	D they go to the store more than once a week?	Yes, Monday and Thursday	No, every Thursday	1
+217	4	When did they pay?	after the sales clerk rings the groceries up	Before going to the bakery.	0
+217	5	Did they need to buy any meat?	Yes, they bought chicken and a roast.	No, they don't eat meat.	0
+218	0	Why didn't they change the bulb by themselves?	To be safe.	They were afraid to	0
+218	1	Did they have to buy a light bulb from the store, or did they already have one at home?	Yes	Had one.	0
+218	2	Who changed the light bulb?	The boss.	Their father	1
+218	3	Why did they cut off the power first?	To save electricity	To prevent electrocution or burn	1
+218	4	Where did they get a new light bulb?	From the store	From the garage	0
+218	5	Did they do it by them self?	Their father helped	Yes	0
+218	6	Why didn't they wait to change the light bulb?	Not fun.	Unsafe.	1
+218	7	How did the light bulb burn out?	They were playing with it.	From use.	1
+218	8	Did they have trouble changing it?	Yes	No.	1
+218	9	Did they test the bulb to see if it worked after they screwed it in?	Yes	No, they waited	0

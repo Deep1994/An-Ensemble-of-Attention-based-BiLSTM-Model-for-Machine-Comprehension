@@ -1,5 +1,6 @@
 # An Ensemble of Attention-based BiLSTM Model for Machine Comprehension
 An implementation for [SemEval 2018 Task 11: Machine Comprehension using Commonsense Knowledge](https://competitions.codalab.org/competitions/17184)
+Our paper at SemEval 2018 Task 11 is available at [http://www.aclweb.org/anthology/S18-1174](http://www.aclweb.org/anthology/S18-1174)
 
 ![model](https://github.com/Deep1994/An-Ensemble-of-Attention-based-BiLSTM-Model-for-Machine-Comprehension/raw/master/img/model.png)
 

@@ -183,29 +183,3 @@ answer_maxlen = max([len(sqatriple[2]) for sqatriple in sqac_pairs_tokenizes])
 Xs, Xq, Xa, Y = vectorize_sqac_pairs_tokenizes(sqac_pairs_tokenizes, word2idx, story_maxlen, 
                                                question_maxlen, answer_maxlen)
 """
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
